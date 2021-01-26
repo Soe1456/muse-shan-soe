@@ -51,23 +51,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "CNC中文台 TV",  
+"image": "https://www.nettv.live/uploads/18/1-1P310155545914.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=1384",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "CNC英文台 TV",  
+"image": "https://www.nettv.live/uploads/18/1-1P310155545914.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=1385",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "BTV2",  
+"image": "https://www.nettv.live/uploads/19/1-1910121S6003R.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=1301",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
