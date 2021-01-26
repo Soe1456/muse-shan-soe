@@ -1,4 +1,12 @@
 {
+	"name": "Mix TV",
+	"author": "muse",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAThvxvO4Zutns1sL5E8_tm5C7g6YeEEweA&usqp=CAU",
+	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/SSL%20-%20TV",
+	"groups": 
+[
+
+{
         "name": "mix tv",
         "image": "https://i.gifer.com/LGkL.gif",
         "stations": [
