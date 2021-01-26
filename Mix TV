@@ -37,6 +37,48 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "Myanmar TV",  
+"image": "https://www.nettv.live/uploads/19/1-19111QF11W04.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=1387",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Channel K",  
+"image": "https://www.nettv.live/uploads/allimg/20/1-2001231401150-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=7063",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jurnal TV",  
+"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=9389",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jurnal TV",  
+"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=9389",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jurnal TV",  
+"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=9389",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "Jurnal TV",  
+"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=9389",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
 "name": "Jurnal TV",  
 "image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
 "url": "https://www.nettv.live/m/play.php?aid=9389",
