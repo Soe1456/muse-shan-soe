@@ -1,0 +1,48 @@
+{
+"name": "mix tv",
+"author": "Soe Jussy updated 23/01/2021",
+"image": "https://i.imgur.com/pi4hxOb.gif",
+"url": "https://pastebin.com/raw/rz3nqjf5",
+"groups": [
+
+{"name": "All in one",
+	"image": "https://www.gifimili.com/gif/2018/07/sports-de-ballon.gif",
+	"url": "https://raw.githubusercontent.com/Soe1456/soe1456/main/Sports%20Schedule",
+	"import": false},
+
+
+{
+"name": "xxxxx",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/CH3TH_logo.svg/revision/latest/scale-to-width-down/340?cb=20201018120928",  
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "xxxxxx",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/CH3TH_logo.svg/revision/latest/scale-to-width-down/340?cb=20201018120928",  
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH 3",  
+"image": "https://static.wikia.nocookie.net/logopedia/images/4/40/CH3TH_logo.svg/revision/latest/scale-to-width-down/340?cb=20201018120928",  
+"url": "https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8",
+"referer": "https://cdn6.goprimetime.info/",
+"playInNatPlayer": "true"
+},
+
+]
+}
+]
+                              }
+ 
+                                     ]
+                              }
+ 
+                                     ]
+                               }                              
+ 
+                   ]
+               }
