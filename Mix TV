@@ -65,37 +65,37 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "BTV2",  
+"name": "BTV2 Vietnam",  
 "image": "https://www.nettv.live/uploads/19/1-1910121S6003R.jpg",  
 "url": "https://www.nettv.live/m/play.php?aid=1301",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "BTV1 Vietnam",  
+"image": "https://www.nettv.live/uploads/19/1-1910121S426423.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=1300",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "BTV11 Vietnam",  
+"image": "https://www.nettv.live/uploads/allimg/19/1-1910121SH40-L.jpg",  
+"url": "https://www.nettv.live/m/play.php?aid=6677",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": " TV",  
+"image": "https://media0.giphy.com/media/3o8dp7QeYuyBntiVDa/giphy.gif",  
+"url": "http://10000toptv.com/",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": "Jurnal TV",  
-"image": "https://www.nettv.live/uploads/allimg/21/1-210125155S80-L.jpg",  
-"url": "https://www.nettv.live/m/play.php?aid=9389",
+"name": "HBO TV",  
+"image": "https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif",  
+"url": "http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
