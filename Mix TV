@@ -128,9 +128,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"name": "CN Soccer ⚽",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-oXDKsZGEk_U9RDLwZaNTHem0ZbZYZqRiEQ&usqp=CAU",  
+"url": "http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=75&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
