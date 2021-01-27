@@ -142,8 +142,8 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "CN Movie 2 🍿",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFikX1zM8_423Vspmdvn7XJmgxepIcr8CvNg&usqp=CAU",  
+"name": "City Channel",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4dl8AVdq3MDrucHWuJaf9JrZhlvuzY-xSA&usqp=CAU",  
 "url": "http://117.148.187.8/PLTV/88888888/224/3221226825/index.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
@@ -193,7 +193,7 @@
 {
 "name": " fashion",  
 "image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"url": "http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
