@@ -177,10 +177,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
-"referer": "https://www.nettv.live/",
+"name": "SX TV",  
+"image": "https://www.tvchinese.net/uploads/tv/sxwhys.jpg",  
+"url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
+"referer": "http://live.shaoxing.com.cn/",
 "playInNatPlayer": "true"
 },
 {
