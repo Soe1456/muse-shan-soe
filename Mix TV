@@ -184,10 +184,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
-"referer": "https://www.nettv.live/",
+"name": "Y+ TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MOjPR33pPP6z0tRrB1cjxFDj_XZ8W2Quw&usqp=CAU",  
+"url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8",
+"referer": "http://live.aikan.miguvideo.com/",
 "playInNatPlayer": "true"
 },
 {
