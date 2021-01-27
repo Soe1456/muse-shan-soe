@@ -149,9 +149,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"name": "Dubai ONE",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzHfGNcSMd1nByUV_RjluM-RSqqL8xnaz_w&usqp=CAU",  
+"url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
