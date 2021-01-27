@@ -156,9 +156,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"name": "CON TV",  
+"image": "https://i.pinimg.com/originals/00/74/2a/00742afb6a45670f9277b03fdff68bb8.png",  
+"url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
