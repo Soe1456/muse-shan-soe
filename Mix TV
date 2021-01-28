@@ -177,7 +177,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SX TV",  
+"name": "Shaoxing TV",  
 "image": "https://www.tvchinese.net/uploads/tv/sxwhys.jpg",  
 "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
 "referer": "http://live.shaoxing.com.cn/",
@@ -185,7 +185,7 @@
 },
 {
 "name": "Y+ TV",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MOjPR33pPP6z0tRrB1cjxFDj_XZ8W2Quw&usqp=CAU",  
+"image": "https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/f8/1d/0e/f81d0eec-52b0-70f6-5e97-4b62d793fc01/source/60x60bb.jpg",  
 "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8",
 "referer": "http://live.aikan.miguvideo.com/",
 "playInNatPlayer": "true"
