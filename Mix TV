@@ -205,9 +205,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"name": "Start TV",  
+"image": "http://www.10000top.com/logo/xk.png",  
+"url": "http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
