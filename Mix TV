@@ -219,9 +219,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+"name": "HKS TV",  
+"image": "http://www.10000top.com/p/index.53.jpg",  
+"url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=6404248148ed1545bb6a4bbf-156429063312132&wsIPSercert=d13b15ef67cd8166aeb139578534516a&wsMonitor=0",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
