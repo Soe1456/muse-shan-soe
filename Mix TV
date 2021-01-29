@@ -275,9 +275,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8",
+"name": "HR TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bfwVGmgn23ipaqMZPYpH5zrorG56ADgwsQ&usqp=CAU",  
+"url": "http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
