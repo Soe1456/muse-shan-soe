@@ -268,9 +268,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8",
+"name": "WAU TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMG054C7y3FtbYaOYOZJrF1NWXWK70Xb3WLCdkJWX_4PWnnDfBkM4OaS2&s=10",  
+"url": "https://nn.geo.joj.sk/live/wau-index.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
