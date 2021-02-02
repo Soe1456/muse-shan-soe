@@ -1,0 +1,447 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel3.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-3-hd.png",CH3 HD
+https://www.we-play.tv/watching/tv/ch3-hd
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-5-hd.png",CH5 HD
+https://www.we-play.tv/watching/tv/ch5-hd
+
+#EXTINF:-1 tvg-id="channel7.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-7-hd.png",CH7 HD
+https://www.we-play.tv/watching/tv/ch7-hd
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/mcot-hd.png",MCOT HD
+https://www.we-play.tv/watching/tv/mcot-hd
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/thai-pbs.png",ThaiPBS HD
+https://www.we-play.tv/watching/tv/thai-pbs
+
+#EXTINF:-1 tvg-id="Thairath.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/YyVGrhG8aguH1FMmTRcLiw1FXBkKizwCIefHyENr.png",Thairath HD
+https://www.we-play.tv/watching/tv/thairath-tv
+
+#EXTINF:-1 tvg-id="PPTV.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/VdCdA3o6UEO6LwuSU4WAMSjtViqxhi2BR6Krpw9x.png",PPTV HD
+https://www.we-play.tv/watching/tv/pptv-hd
+
+#EXTINF:-1 tvg-id="amarintv.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/oREFd10o7poRVJoZTMUSxmznVBr8Jx5C5ScEJJDB.png",Amarin HD
+https://www.we-play.tv/watching/tv/amarin-tv
+
+#EXTINF:-1 tvg-id="One31.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/63PyzJIPJGbZTNprkXm0TcrccXtDRoMUibFvFtpJ.png",ONE HD
+https://www.we-play.tv/watching/tv/one-hd
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png",Nation
+https://www.we-play.tv/watching/tv/nationtv
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/nbt.png",NBT
+https://www.we-play.tv/watching/tv/11-nbt
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/YfJH0aSaJIPG3WtS31UefL8ivwnD6Q2mT3RknbOl.png",Mono29
+https://www.we-play.tv/watching/tv/mono29
+
+#EXTINF:-1 tvg-id="Workpoint.th"group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png",Workpoint TV
+https://www.we-play.tv/watching/tv/11-nbt
+
+#EXTINF:-1 tvg-id="true4U.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/dJlQRm6umF7vK7YcFvj8w5T28jI2feWnaA9u9HNk.png",True4U
+https://www.we-play.tv/watching/tv/true4u
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/jhgUygXRQHVPR6tw6dAzvqX7d2h1nyabBJWqTPXh.png",GMM25
+https://www.we-play.tv/watching/tv/gmm25
+
+#EXTINF:-1 tvg-id="channel8.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/channel-8.png",CH8
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="TNN24.th" group-title="Digital TV"tvg-logo="https://www.doofree88.com/storage/live/cntnH93eQYP8NQv90miuU4bx3URmvwx0HLX1WLGs.png",TNN16
+https://cdnlive.goprimetime.info//feed//chtnn//index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV"tvg-logo="https://i.imgur.com/bKTHNij.png",NEW TV
+https://cdnlive.goprimetime.info//feed//newtv//index.m3u8
+
+#EXTINF:-1 gtvg-id=""group-title="Digital TV"tvg-logo="https://www.prachachat.net/wp-content/uploads/2019/02/VoiceTV.jpg",Voice TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",New1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png", อนุบาลศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png", อนุบาลศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png", อนุบาลศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png", ประถมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png", ประถมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png", ประถมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png", ประถมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png", ประถมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png", ประถมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png", มัธยมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png", มัธยมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png", มัธยมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png", มัธยมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png", มัธยมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+
+#EXTINF:-1 group-title="Education" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png", มัธยมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/bzmjALRvuNOOg3nXV1ShWMHzJ2y2nhG53UYjxpTn.png",AXN HD
+https://www.we-play.tv/watching/tv/axn-hd
+#http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/rtl-cbs-entertainment.png",Blue Ant Entertainment
+https://www.we-play.tv/watching/tv/blueant-entertainment
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.pngitem.com/pimgs/m/597-5974160_blue-ant-extreme-hd-logo-logo-blue-ant.png",Blue Ant Extreme
+https://www.we-play.tv/watching/tv/blueant-extreme
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2017/06/cinemaxlogo.jpg",Cinemax HD
+https://www.we-play.tv/watching/tv/cinemax
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/ntVE1sTS89xUkrgRqWKH6hNLVgtu2zqcAi8kFFBm.png",CCM
+https://www.we-play.tv/watching/tv/ccm
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704489.jpeg",Fox Movies HD
+https://www.we-play.tv/watching/tv/fox-movies
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-action-movies.png",Fox Action HD
+https://www.we-play.tv/watching/tv/fox-action-movies
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",Fox Family HD
+https://www.we-play.tv/watching/tv/fox-family-movies
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/lAEDRXvIp1nu4NofdGRtGPM8F89Ap4gI5IXmKr5M.png",Fox ไทย
+https://www.we-play.tv/watching/tv/fox-thai
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",FOX Life
+https://www.we-play.tv/watching/tv/fox-life
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/hbo-english.jpg",HBO HD
+https://www.we-play.tv/watching/tv/hbo-hd
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbosignature.jpg",HBO Signature
+https://www.we-play.tv/watching/tv/hbo-signature
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://engage.brctv.com/sites/default/files/channel-lineup/logos/2019-08/hbo_family_color_v1.jpg",HBO Family
+https://www.we-play.tv/watching/tv/hbo-family
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://www.we-play.tv/watching/tv/hbo-hits
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
+https://www.we-play.tv/watching/tv/red-by-hbo
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITSMOVIE.png",Hits Movies
+#https://www.we-play.tv/watching/tv/hits-movies
+http://77.83.117.60:8888/02_HITSMOVIE_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/HITS.png",Hits 
+https://www.we-play.tv/watching/tv/hits
+
+#EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.png",JKN
+https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w1387599797.m3u8
+
+#EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doofree88.com/storage/live/24YMr085MLlamja0bYwZ5SWAywDg5pzhsOeZD3hP.png",M Channel
+http://27.254.130.61/live01/ch19.m3u8?p=st
+
+#EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doofree88.com/storage/live/KOjCASg5FlaHOo2s9cEn9cc5tdL7ehybO1FaXmn8.png",Monoplus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
+
+#EXTINF:-1 group-title="Movies Live"tvg-logo="https://i.pinimg.com/originals/36/ba/83/36ba83970b575c57ea1d93286cfeb67f.jpg",Paramount CHANNEL
+https://www.we-play.tv/watching/tv/paramount-channel
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6SmPBCUsd0lHG67k1AchT9KWdBifTHoOHCg&usqp=CAU",Star Chinese Movies 
+https://www.we-play.tv/watching/tv/star-chinese-movies
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill 
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",True Film HD
+https://www.we-play.tv/watching/tv/true-film-hd
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg",True Film HD2
+#https://www.we-play.tv/videos/tv-entertainment/true-film-hd-2
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-asianseries.png",True Asian Series HD
+https://www.we-play.tv/watching/tv/true-asian-series-hd
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-thaifilm.png",True Thai Film 
+https://www.we-play.tv/watching/tv/true-thai-film
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://apicms.thestar.com.my/uploads/images/2019/12/17/443183.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.doofree88.com/storage/live/YcuBg2IrYxaOznQqxJLIICPTVXKzL0DjCEkjEUdq.png",TVN
+https://www.we-play.tv/watching/tv/tvn
+
+#EXTINF:-1 group-title="Movies Live" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",Warner TV
+https://www.we-play.tv/watching/tv/warner-tv
+
+#EXTINF:-1 group-title="Movies Live"tvg-logo="https://www.doofree88.com/storage/live/yEjduPUHEUuA3wvhqZxUUmuqDtnFk1YH0iHW4VPk.png",Zeenung
+https://www.we-play.tv/watching/tv/zee-nung
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/gnvmoTi8yhFUyOgmwrBFj5yp71eLvibv8lCIVW36.png",Animal Planet
+https://www.we-play.tv/watching/tv/animal-planet
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth HD
+#https://www.we-play.tv/watching/tv/bbc-earth
+http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",BBC Lifestyle
+https://doofootball.livestream-cdn.com/iptv/sd-bbclifestyle.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png",Discovery Asia HD
+https://www.we-play.tv/watching/tv/discovery-asia
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png",Discovery HD
+https://www.we-play.tv/watching/tv/discovery-channel
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png",History HD
+https://www.we-play.tv/watching/tv/history-hd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png",H2
+https://www.we-play.tv/watching/tv/history-h2
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png",Nat Geographic HD
+https://www.we-play.tv/watching/tv/national-geographic
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/U84m9B0Nwx2YvL7Gjc7nMFGxdK4B5I0tmJJ9SdE0.jpg",Nat Geowild HD
+https://www.we-play.tv/watching/tv/nat-geo-wild
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/aERcBjucC3rmuCHsezSxdHIyDW8xeL4yd4Mwq47u.jpg",Natgeo People HD
+http://portal.geniptv.com:8080/hPjcwwjvDj/UYDTMbXdQG/18570
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/019f9a50258033.58cb840c2b144.jpg",Outdoor HD
+https://www.we-play.tv/watching/tv/outdoor-channel
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/4/LoveNature_TypeMask_FINAL_webready.jpg",LoveNature 4K
+https://www.we-play.tv/watching/tv/lovenature-4k
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/05/tlc_best_shows-519x512.jpg",TLC HD
+https://www.we-play.tv/watching/tv/tlc-hd
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",True Music
+https://www.we-play.tv/watching/tv/true-music-hd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-kbsworld.png",KBS World
+https://www.we-play.tv/watching/tv/kbs-world
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg",Kix
+#https://live.we-play.tv/android/kix/playlist.m3u8
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-xzyte.png",True X-ZYTE
+https://www.we-play.tv/watching/tv/true-xzyte
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://heavenlysweetscakes.net/wp-content/uploads/2016/01/food-network-logo.jpg",Food Network
+https://www.we-play.tv/watching/tv/food-network
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animax.png",Animax
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#https://www.we-play.tv/watching/tv/animax
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/originals/32/f7/69/32f76940f60ea089cf088989afbf072e.jpg",Aniplus
+https://www.we-play.tv/watching/tv/aniplus
+
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doofree88.com/storage/live/YUdiOBjfy5EloaKkCTL9yzUBlpl6vpRUb8msGqmq.png",Baby TV
+https://www.we-play.tv/watching/tv/babytv
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/zbyQCkVPuldER0SC2f4d8VSiWEZW2ZHJiVbAzh8H.png",Boomerang 
+#https://www.we-play.tv/watching/tv/boomerang 
+http://27.254.130.61/live01/ch18.m3u8?p=st
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/JzoHTUs2q2biHLCuA7VSweTffEGZuw2BXOuNcmpU.png",Cartoon Network
+https://www.we-play.tv/watching/tv/cartoon-network
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/SmO5GAyUQg3nsosglN9AkhbBNvGJM7ec7a3hCkOM.png",Disney XD
+https://www.we-play.tv/watching/tv/disney-xd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/Hy8I7osWtSSg4I0NIdw2ZOQkTJll92Axk4esSZ1h.png",Disney Channel
+https://www.we-play.tv/watching/tv/disney-channel
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/07/nickelodeon-logo-netflix-titles.jpg",Nickelodeon
+https://www.we-play.tv/watching/tv/nickelodeon
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/iW7cw2A5stB1jEd8hYLxCXCemtkKZV48TrspkreI.png",Nick JR
+http://160.119.77.116:8081/iptv/uk-nickjr.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png",True Spark Jump
+https://www.we-play.tv/watching/tv/true-spark-jump
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",True Spark Play 
+https://www.we-play.tv/watching/tv/true-spark-play
+
+
+#EXTINF:-1 group-title="News World" tvg-logo="https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",CNN 
+#https://www.we-play.tv/watching/tv/cnn
+http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="News World"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bloomberge-relevision.png",Bloomberg TV
+#http://160.119.77.50/iptv/sd-bloomberg.stream/playlist.m3u8
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 group-title="News World"tvg-logo="https://www.doofree88.com/storage/live/ZvuIu06EKqZRUWjUqTrAeDIUZvysIago08LhvkAU.png",FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 group-title="News World"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-cctv.png",CCTV4 
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv4_2/index.m3u8
+
+#EXTINF:-1 group-title="News World"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Fox_News_TH.png",Fox News 
+http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RT_TV.png",RT TV
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Al_Jazeera_En.png",Aljazeera News
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="News World" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Sky_News.png",Sky News
+http://160.119.77.116:8081/iptv/uk-skynews.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",Premiere 1
+https://www.we-play.tv/watching/tv/true-premier-football-hd-1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png",Premiere 2
+https://www.we-play.tv/watching/tv/true-premier-football-hd-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png",Premiere 3
+https://www.we-play.tv/watching/tv/true-premier-football-hd-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png",Premiere 4
+https://www.we-play.tv/watching/tv/true-premier-football-hd-4
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png",Premiere 5
+https://www.we-play.tv/watching/tv/true-premier-football-hd-5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/Y28OhM0EcKyWHkSJgbPiVfLjgSUj7Sp6OGAqAJ9l.png",Bein Sports 1
+https://www.we-play.tv/watching/tv/bein-sports-1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/ZNqp3mHYvSlFccLluO0Fa3I8A2duej5tHerrKhlN.png",Bein Sports 2
+https://www.we-play.tv/watching/tv/bein-sports-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",True Sport HD
+https://www.we-play.tv/watching/tv/true-sports-hd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",True Sport HD2
+https://www.we-play.tv/watching/tv/true-sports-hd-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",True Sport HD3
+https://www.we-play.tv/watching/tv/true-sports-hd-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",True Sport HD4
+https://www.we-play.tv/watching/tv/true-sports-hd-4
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",True Sport 2
+https://www.we-play.tv/watching/tv/true-sports-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",True Sport 5
+https://www.we-play.tv/watching/tv/true-sports-5
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",True Sport 6
+https://www.we-play.tv/watching/tv/true-sports-6
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",True Sport 7
+https://www.we-play.tv/watching/tv/true-sports-7
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png",True Tennis HD
+https://www.we-play.tv/watching/tv/true-tennis
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png",Golf Channel
+https://www.we-play.tv/watching/tv/golf-channel
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD
+https://www.we-play.tv/watching/tv/nba-tv
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.png",NFL Network
+https://www.we-play.tv/watching/tv/nfl-network
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",Fox Sports1
+https://www.we-play.tv/watching/tv/fox-sports-hd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",Fox Sports2
+https://www.we-play.tv/watching/tv/fox-sports-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports3
+https://www.we-play.tv/watching/tv/fox-sports-3
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/201808051138141452667532.jpg",Motor Visions
+https://www.we-play.tv/watching/tv/motor-vision
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp1hd.png",Astro Super Sport1
+http://54.37.82.205:8081/liveorigin/my-asp1hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp2hd.png",Astro Super Sport2
+http://54.37.82.205:8081/liveorigin/my-asp2hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp3hd.png",Astro Super Sport3
+http://54.37.82.205:8081/liveorigin/my-asp3hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp4.png",Astro Super Sport4
+http://54.37.82.205:8081/liveorigin/my-asp4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport1serbia.png",Arena Sports1
+https://www.we-play.tv/watching/tv/arena-sport-1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport2serbia.png",Arena Sports2
+https://www.we-play.tv/watching/tv/arena-sport-2
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport3serbia.png",Arena Sports3
+https://www.we-play.tv/watching/tv/arena-sport-3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/arenasport4serbia.png",Arena Sports4
+https://www.we-play.tv/watching/tv/arena-sport-4
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/KsrwqWMt17G5NwpmNzb7G1xLQDU6r3MxJcCGsGcL.jpg",MUTV
+https://www.we-play.tv/watching/tv/mutv
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/wyur49ADBz4J8vcuRGAjeSBiPh2u1VGZlIXqqOTo.png",LFCTV
+https://www.we-play.tv/watching/tv/lfc-tv
+
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-btsport1hd.png",BTSPORT 1
+https://www.we-play.tv/watching/tv/bt-sport-1-hd
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-btsport2hd.png",BTSPORT 2
+https://www.we-play.tv/watching/tv/bt-sport-2-hd
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://overseer.blackboxsys.net/images/png/uk-btsport3hd.png",BTSPORT 3
+https://www.we-play.tv/watching/tv/bt-sport-3-hd
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://s="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",SPORTTV 1
+https://www.we-play.tv/watching/tv/sport-tv-1
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://s="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-451.png",SPORTTV 1
+https://www.we-play.tv/watching/tv/sport-tv-2
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",SPORTTV 3
+https://www.we-play.tv/watching/tv/sport-tv-3
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://sport-tv-guide.live/images/tv-station-sport-tv-4-453.png",SPORTTV 4
+https://www.we-play.tv/watching/tv/sport-tv-4
