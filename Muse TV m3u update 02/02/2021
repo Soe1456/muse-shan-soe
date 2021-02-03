@@ -146,3 +146,19 @@ http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/thumb/f/f6/Bluesky_channel.jpg/220px-Bluesky_channel.jpg",Bluesky Channel
 https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w742536582.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+https://sport.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
