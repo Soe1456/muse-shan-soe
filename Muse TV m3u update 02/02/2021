@@ -223,3 +223,22 @@ https://laos-tech-live.b-cdn.net/hd-tsport3_720/index.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
+https://laos-tech-live.b-cdn.net/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
+https://laos-tech-live.b-cdn.net/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3
+https://laos-tech-live.b-cdn.net/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
