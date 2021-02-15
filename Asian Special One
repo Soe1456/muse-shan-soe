@@ -244,9 +244,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "ox.ax hd",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtC7Kcs5X0Voy2KcPNplQNJsEssJTI836pQ&usqp=CAU",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/ox_ax_hd/index.m3u8?wmsAuthSign=ec253705d249a06bfbfe8c42b26b2d2f-1613398106-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
