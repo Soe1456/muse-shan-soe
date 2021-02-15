@@ -69,9 +69,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "https://www.vidio.com/live/778-gtv",
+"name": "A3.Bikinitv",  
+"image": "https://lh3.googleusercontent.com/proxy/xatCCxlJGTWfdGiMzt1OChTICdWrH9NOIIj1R1zuGJdYVN1Eqp6bSmLjXZSVk-IG7MEpsQhS1d3U_kGoVNquQT8K_xiCTAMcdaWO7UUJvwCPV-u0nyU",  
+"url": "https://vcnbikininetwork.teleosmedia.com:443/stream/bikininetwork/a3bikini/seglist_360p.m3u8",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
@@ -272,30 +272,30 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Private TV",  
+"image": "https://onlines.tv/wp-content/uploads/2018/12/152302558372_logo_privatetvhd_ok1-1024x723.png",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=9fb38f4c33d87ab190fbcc5d51c323b6-1613395023-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Redlight TV",  
+"image": "https://lh3.googleusercontent.com/proxy/9TgzmzrSiA7OORZSFFlfRlnnU7WYGbNKCQNTzNLq-LFUfRkGhGoh0wj17_tBac1zq2tRqkqI6cs48BxgRtS2gvOt0Zrl4OGiK-fWmJM_ybYGg5jbR_vRoBK4cFsOOdRemCFjvqWwVR8Tkg",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=7613e1a2fc358003acea0c19ecd637ea-1613383055-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Vivid Red HD",  
+"image": "https://ocdn.eu/program-tv/adm/6c2b19ed6dc891d04b5c824aa0d79c63166dd11922b709dfaa6e2128a62fc105",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=1323d0a55ac2361d9f02dbff4a2ce7c2-1613391440-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Jasmine TV HD",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXg5vlIYf4m4fxksWlcgqhu1HzP2qYI62yg&usqp=CAU",  
+"url": "http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
