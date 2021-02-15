@@ -209,9 +209,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Candy TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_iMeF8pnbM4zUgzQ-VCrQRVgHUoTiLPauw&usqp=CAU",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/candy/index.m3u8?wmsAuthSign=7b41185235c76726bf31032438a9b85f-1613380472-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
