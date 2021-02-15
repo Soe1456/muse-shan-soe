@@ -167,9 +167,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Venus TV",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfuXTTcFPmzoCfKYlU8fzdgZFuq8UUWI5BtQ&usqp=CAU",  
+"url": "https://cortino5.mitopo.me/live/venus/index.m3u8?token=tblIzmIaOQCZQ78nFaD2EQ&expires=1613446458",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
