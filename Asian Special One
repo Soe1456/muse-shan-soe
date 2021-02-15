@@ -251,23 +251,23 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Penthouse hd",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmWz8_NtmGqvBdbHzKnch2__PtbQVio6Eug&usqp=CAU",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=4944cffd46b65c5b19bb2731f0b8dcde-1613389853-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Penthouse Gold",  
+"image": "https://pbs.twimg.com/media/Dv2Exi3VsAEfqkz.png",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/pent_gol/index.m3u8?wmsAuthSign=22ec98bfd92dfea090f1ddb89646b1ba-1613394952-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Playboy TV",  
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/1280px-Play_Boy_TV_logo.svg.png",  
+"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=417cb3eeb346a9bf41c35994fc7a0645-1613393159-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
