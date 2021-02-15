@@ -174,9 +174,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "SCTV",  
-"image": "https://media0.giphy.com/media/hSWnA8TU5V4sPZpMTM/giphy.gif",  
-"url": "http://www.cxtvlive.com/live-tv/sctv",
+"name": "Playboy TV",  
+"image": "https://media1.tenor.com/images/dba5f66a3b90aef44f9ea10121618de9/tenor.gif?itemid=13708005",  
+"url": "https://cortino6.mitopo.me/live/playboy/index.m3u8?token=G0CbQBhgxwXmx4y8SIIciQ&expires=1613446799",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
