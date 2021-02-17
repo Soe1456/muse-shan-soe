@@ -183,7 +183,7 @@
 {
 "name": "Hustler TV",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpk3YQQR0DNfc3k1_jxWAlgdRRb31JQN7LuQ&usqp=CAU",  
-"url": "https://cortino7.mitopo.me/live/hustler/index.m3u8?token=0O-ijFEo8irGmaEE7MLK1g&expires=1613447234",
+"url": "http://s846397078.mialojamiento.es/mp7341.php/http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=68d8650c5bb922fe7e42125433ad9c9b-1613551519-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
@@ -232,7 +232,7 @@
 {
 "name": "Kaloopy TV",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2IbfEeLzjTmrXYZWTRFNFbqGh4uTd_Gzqg&usqp=CAU",  
-"url": "https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8",
+"url": "https://d3kefxscf5gq6l.cloudfront.net:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/e352311f-deaf-4131-965c-a5f361c18516/0.m3u8",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
@@ -246,14 +246,14 @@
 {
 "name": "ox.ax hd",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtC7Kcs5X0Voy2KcPNplQNJsEssJTI836pQ&usqp=CAU",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/ox_ax_hd/index.m3u8?wmsAuthSign=ec253705d249a06bfbfe8c42b26b2d2f-1613398106-89i18i561i28",
+"url": "http://photocall.tv/kE7s/xxx?ch=oxax",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Penthouse hd",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmWz8_NtmGqvBdbHzKnch2__PtbQVio6Eug&usqp=CAU",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/penthouse2/index.m3u8?wmsAuthSign=4944cffd46b65c5b19bb2731f0b8dcde-1613389853-89i18i561i28",
+"url": "http://photocall.tv/kE7s/xxx?ch=penthouse_2",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
@@ -267,7 +267,7 @@
 {
 "name": "Playboy TV",  
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/1280px-Play_Boy_TV_logo.svg.png",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=417cb3eeb346a9bf41c35994fc7a0645-1613393159-89i18i561i28",
+"url": "http://photocall.tv/kE7s/xxx?ch=playboy",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
