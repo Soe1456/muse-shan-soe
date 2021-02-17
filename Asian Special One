@@ -274,21 +274,21 @@
 {
 "name": "Private TV",  
 "image": "https://onlines.tv/wp-content/uploads/2018/12/152302558372_logo_privatetvhd_ok1-1024x723.png",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=9fb38f4c33d87ab190fbcc5d51c323b6-1613395023-89i18i561i28",
+"url": "http://s846397078.mialojamiento.es/mp7341.php/http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=b1fb615055d6c8600aa8741fc69b7e58-1613535159-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Redlight TV",  
 "image": "https://lh3.googleusercontent.com/proxy/9TgzmzrSiA7OORZSFFlfRlnnU7WYGbNKCQNTzNLq-LFUfRkGhGoh0wj17_tBac1zq2tRqkqI6cs48BxgRtS2gvOt0Zrl4OGiK-fWmJM_ybYGg5jbR_vRoBK4cFsOOdRemCFjvqWwVR8Tkg",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=7613e1a2fc358003acea0c19ecd637ea-1613383055-89i18i561i28",
+"url": "http://s846397078.mialojamiento.es/mp7341.php/http://50.7.220.130:8081/redlight/index.m3u8?wmsAuthSign=a8890c56ec5d80da86db2faf0ab624a8-1613543929-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
 {
 "name": "Vivid Red HD",  
 "image": "https://ocdn.eu/program-tv/adm/6c2b19ed6dc891d04b5c824aa0d79c63166dd11922b709dfaa6e2128a62fc105",  
-"url": "http://s846397078.mialojamiento.es/mp9341.php/http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=1323d0a55ac2361d9f02dbff4a2ce7c2-1613391440-89i18i561i28",
+"url": "http://s846397078.mialojamiento.es/mp7341.php/http://50.7.220.130:8081/vivid_red/index.m3u8?wmsAuthSign=1d69daa2dd6225fe27afc6757c0cde9c-1613535410-89i18i561i28",
 "referer": "http://www.cxtvlive.com/",
 "playInNatPlayer": "true"
 },
