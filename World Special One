@@ -223,9 +223,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TVONE",  
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1yc1WWEMJd9QDi_2PzS0EUHE1HBpKxHl7w&usqp=CAU",  
-"url": "https://www.vlix.id/tvone",
+"name": "direct Sport",  
+"image": "https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/sports-direct_0.png",  
+"url": "https://www.vertelevision.tv/ver-directv-sports-en-vivo-online-en-directo-24h-por-internet/",
 "referer": "https://www.tvonenews.com/live",
 "playInNatPlayer": "true"
 },
