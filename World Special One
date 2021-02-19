@@ -232,7 +232,7 @@
 {
 "name": "TVONE",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1yc1WWEMJd9QDi_2PzS0EUHE1HBpKxHl7w&usqp=CAU",  
-"url": "https://www.vlix.id/tvone",
+"url": "http://nettv.ahtv.cn/live/mindex.html?jumpchannel=ahws",
 "referer": "https://www.tvonenews.com/live",
 "playInNatPlayer": "true"
 },
