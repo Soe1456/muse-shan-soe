@@ -230,9 +230,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "TVONE",  
+"name": "espn",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1yc1WWEMJd9QDi_2PzS0EUHE1HBpKxHl7w&usqp=CAU",  
-"url": "http://nettv.ahtv.cn/live/mindex.html?jumpchannel=ahws",
+"url": "http://123tvnow.com/watch/espn-20201106/",
 "referer": "https://www.tvonenews.com/live",
 "playInNatPlayer": "true"
 },
