@@ -240,14 +240,14 @@
 "name": "RMC Sport 1",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgormmbImiBeWO93WyjjVlxv_VZhm8D_3F8g&usqp=CAU",  
 "url": "http://totv.org/tv-rmc-sport-1-fr",
-"referer": "https://www.tvonenews.com/live",
+"referer": "http://totv.org/tv",
 "playInNatPlayer": "true"
 },
 {
-"name": "TVONE",  
+"name": "RMC Sport 2",  
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1yc1WWEMJd9QDi_2PzS0EUHE1HBpKxHl7w&usqp=CAU",  
-"url": "https://www.vlix.id/tvone",
-"referer": "https://www.tvonenews.com/live",
+"url": "http://totv.org/tv-rmc-sport-2-fr",
+"referer": "http://totv.org/tv",
 "playInNatPlayer": "true"
 },
 {
