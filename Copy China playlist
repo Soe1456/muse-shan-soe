@@ -1,3 +1,43 @@
+
+    function showSourceList() {
+      const sourceList = [
+        { name: 'cctv1', src: 'http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8' },
+        { name: 'cctv2', src: 'http://ivi.bupt.edu.cn/hls/cctv2.m3u8' },
+        { name: 'CCTV3高清', src: 'http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8' },
+        { name: 'CCTV4高清', src: 'http://ivi.bupt.edu.cn/hls/cctv4.m3u8' },
+        { name: 'CCTV5+高清', src: 'http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8' },
+        { name: 'CCTV6高清', src: 'http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8' },
+        { name: 'CCTV7高清', src: 'http://ivi.bupt.edu.cn/hls/cctv7.m3u8' },
+        { name: 'CCTV-8高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8' },
+        { name: 'CCTV-9高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv9.m3u8' },
+        { name: 'CCTV-10高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv10.m3u8' },
+        { name: 'CCTV-11高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv11.m3u8' },
+        { name: 'CCTV-12高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv12.m3u8' },
+        { name: 'CCTV-13高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv13.m3u8' },
+        { name: 'CCTV-14高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv14.m3u8' },
+        { name: 'CCTV-15高清 ', src: 'http://ivi.bupt.edu.cn/hls/cctv15.m3u8' },
+        { name: 'CHC高清电影 ', src: 'http://ivi.bupt.edu.cn/hls/chchd.m3u8' },
+        { name: '北京卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/btv1hd.m3u8' },
+        { name: '北京文艺高清 ', src: 'http://ivi.bupt.edu.cn/hls/btv2hd.m3u8' },
+        { name: '湖南卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/hunanhd.m3u8' },
+        { name: '浙江卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/zjhd.m3u8' },
+        { name: '江苏卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/jshd.m3u8' },
+        { name: '东方卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/dfhd.m3u8' },
+        { name: '安徽卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/ahhd.m3u8' },
+        { name: '黑龙江卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/hljhd.m3u8' },
+        { name: '辽宁卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/lnhd.m3u8' },
+        { name: '深圳卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/szhd.m3u8' },
+        { name: '广东卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/gdhd.m3u8' },
+        { name: '天津卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/tjhd.m3u8' },
+        { name: '湖北卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/hbhd.m3u8' },
+        { name: '东南卫视高清 ', src: 'http://ivi.bupt.edu.cn/hls/sdhd.m3u8' },
+        { name: '北京纪实高清 ', src: 'http://ivi.bupt.edu.cn/hls/btv11hd.m3u8' },
+
+        //
+        { name: '民视新闻台 ', src: 'https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8' },
+        // 上面为可用的
+
+
 潮云-潮汕
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,http://www.szmgiptv.com:14436/hls/17.m3u8
