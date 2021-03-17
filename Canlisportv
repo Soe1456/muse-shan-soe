@@ -6,6 +6,11 @@
 [
 
 
+{"name": "fb-tv-canli",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
+ "url": "https://t.me/joinchat/WKDYj7lFWcclrwLI",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
 {"name": "A-spor",
  "image": "http://www.canlisportv.com/media/images/tvlogo/ffe9f81c-7962-4b3b-9ad2-3abd8af76927_a-spor.jpg",
  "url": "http://www.canlisportv.com/a-spor/",
