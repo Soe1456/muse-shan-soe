@@ -7,20 +7,20 @@
 
 
 
-{"name": "fb-tv-canli",
+{"name": "espn",
  "image": "https://2.bp.blogspot.com/-J2w9Wvu8xFA/XHQ2HXZbFOI/AAAAAAAAA8g/89XORrKo5qQEALYVLWs2kHdu6yAIZ9-ZgCLcBGAs/s1600/espn.jpg",
  "url": "https://dpelota.com/ver/espn.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
-{"name": "fb-tv-canli",
- "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
+{"name": "sportalhd",
+ "image": "https://img.new.livestream.com/accounts/00000000003b573c/e162f250-46bd-4c56-a355-e5dd2b9829cb_50x50.jpg",
  "url": "https://livestream.com/sportalhd/live",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
-{"name": "fb-tv-canli",
- "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
- "url": "http://www.canlisportv.com/setanta-plus-live/?yayin=2",
+{"name": "foxsportspremium",
+ "image": "https://1.bp.blogspot.com/-A6UHmfFtH4I/X9XBQqh-0QI/AAAAAAAABHo/1B5Q6hrI0P0Br5UAxXhlWJQ3Jvd7LtilQCNcBGAsYHQ/s200/foxsportspremium.jpg",
+ "url": "https://dpelota.com/ver/foxsportspremium.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "A-spor",
