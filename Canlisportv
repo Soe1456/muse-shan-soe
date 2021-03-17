@@ -8,18 +8,18 @@
 
 {"name": "arena-sport-1",
  "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
- "url": "http://www.canlisportv.com/arena-sport-1-live/",
+ "url": "blob:https://beef1999.blogspot.com/66de060e-1b1e-4ae7-930e-dd198dabe8b7",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
 {"name": "arena-sport-1",
  "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
- "url": "http://www.canlisportv.com/arena-sport-1-live/",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/?yayin=1",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  
  {"name": "arena-sport-3",
  "image": "http://www.canlisportv.com/media/images/tvlogo/b5f5a439-dd4c-434e-ac57-b41f245c6487_arenasport-3-tv.jpg",
- "url": "http://www.canlisportv.com/arena-sport-1-live/?yayin=1",
+ "url": "http://www.canlisportv.com/a-spor/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
