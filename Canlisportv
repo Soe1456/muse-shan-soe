@@ -5,22 +5,29 @@
 "stations":
 [
 
-
+{"name": "foxsports",
+ "image": "https://2.bp.blogspot.com/-oCEmqlq5Zb8/XHQ2Jd1lApI/AAAAAAAAA8w/_3GHF3UgIME305uPu8NZ3EiExHZWatL1wCLcBGAs/s1600/foxsports.jpg",
+ "url": "https://dpelota.com/ver/foxsports.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "espn",
  "image": "https://2.bp.blogspot.com/-J2w9Wvu8xFA/XHQ2HXZbFOI/AAAAAAAAA8g/89XORrKo5qQEALYVLWs2kHdu6yAIZ9-ZgCLcBGAs/s1600/espn.jpg",
  "url": "https://dpelota.com/ver/espn.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "espn2",
+ "image": "https://1.bp.blogspot.com/-ttTvEiYEGJI/XHQ2H2Ns5II/AAAAAAAAA8k/Ck7t5-fyfQgfEhdp-lTDWEP2Gn04pM6OACLcBGAs/s1600/espn2.jpg",
+ "url": "https://dpelota.com/ver/espn2.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "espn3",
+ "image": "https://3.bp.blogspot.com/-jqr374EWhHs/XHQ2Ic7ENdI/AAAAAAAAA8o/mdhqgO1OkXsbzcY0R6QQhQaEoyg4y2AKwCLcBGAs/s1600/espn3.jpg",
+ "url": "https://dpelota.com/ver/espn3.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "sportalhd",
  "image": "https://img.new.livestream.com/accounts/00000000003b573c/e162f250-46bd-4c56-a355-e5dd2b9829cb_50x50.jpg",
  "url": "https://livestream.com/sportalhd/live",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
-
-
-{"name": "foxsportspremium",
- "image": "https://1.bp.blogspot.com/-A6UHmfFtH4I/X9XBQqh-0QI/AAAAAAAABHo/1B5Q6hrI0P0Br5UAxXhlWJQ3Jvd7LtilQCNcBGAsYHQ/s200/foxsportspremium.jpg",
- "url": "http://pushfullimitsdrunken.com/yb841hx3e?aosdg=63&refer=https%3A%2F%2Ftelerium.digital%2Fembed%2F59726.html&kw=%5B%22telerium%22%2C%22tv%22%2C%22channel%22%2C%2259726%22%5D&key=15d6ce62d0f01528c7478f7446d71678&scrWidth=1366&scrHeight=768&tz=7&ship=&pst=&v=20.8.v.1&res=7.31&dev=r&adb=n",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "A-spor",
@@ -38,21 +45,11 @@
  "url": "http://www.canlisportv.com/fb-tv-canli/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "qaz-aport",
+{"name": "qaz-aport",
  "image": "http://www.canlisportv.com/media/images/tvlogo/45b3d029-27d3-4f2b-b730-0a36f08c65fa_kaz-sport-tv.jpg",
  "url": "http://www.canlisportv.com/qaz-aport-live/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
- 
- {"name": "sport-klub-1",
- "image": "http://www.canlisportv.com/media/images/tvlogo/8d953c10-2807-4e27-988d-22340a531b69_sporkulup1-tv.jpg",
- "url": "http://www.canlisportv.com/setanta-plus-live/",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
- 
- 
- {"name": "sport-klub-2",
- "image": "http://www.canlisportv.com/media/images/tvlogo/d6b91b94-dfb2-49be-af00-45c2d60daba7_sporkulup2-tv.jpg",
- "url": "http://www.canlisportv.com/sport-klub-2/",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
 
 
 ]
