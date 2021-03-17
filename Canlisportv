@@ -6,20 +6,35 @@
 [
 
 
-{"name": "arena-sport-1",
- "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
- "url": "blob:https://beef1999.blogspot.com/66de060e-1b1e-4ae7-930e-dd198dabe8b7",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
- 
-{"name": "arena-sport-1",
- "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
- "url": "http://www.canlisportv.com/arena-sport-1-live/?yayin=1",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
- 
- 
- {"name": "arena-sport-3",
- "image": "http://www.canlisportv.com/media/images/tvlogo/b5f5a439-dd4c-434e-ac57-b41f245c6487_arenasport-3-tv.jpg",
+{"name": "A-spor",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/ffe9f81c-7962-4b3b-9ad2-3abd8af76927_a-spor.jpg",
  "url": "http://www.canlisportv.com/a-spor/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
+{"name": "sports-tv-canli",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/40e01035-c1d1-4502-a7c4-70e45b84c131_sports-tv.jpg",
+ "url": "http://www.canlisportv.com/sports-tv-canli/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "fb-tv-canli",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
+ "url": "http://www.canlisportv.com/fb-tv-canli/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "qaz-aport",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/45b3d029-27d3-4f2b-b730-0a36f08c65fa_kaz-sport-tv.jpg",
+ "url": "http://www.canlisportv.com/qaz-aport-live/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ {"name": "sport-klub-1",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/8d953c10-2807-4e27-988d-22340a531b69_sporkulup1-tv.jpg",
+ "url": "http://www.canlisportv.com/sport-klub-1/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+ 
+ {"name": "sport-klub-2",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/d6b91b94-dfb2-49be-af00-45c2d60daba7_sporkulup2-tv.jpg",
+ "url": "http://www.canlisportv.com/sport-klub-2/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
