@@ -5,6 +5,24 @@
 "stations":
 [
 
+
+
+
+{"name": "tntsports",
+ "image": "https://1.bp.blogspot.com/-Z_vynoVGX6U/XHQ2LysKOuI/AAAAAAAAA9E/FT2f6JUt_9gY2bgi1dbSw55JSiLj79vLwCLcBGAs/s1600/tntsports.jpg",
+ "url": "https://dpelota.com/ver/tntsports.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
+{"name": "golperu",
+ "image": "https://1.bp.blogspot.com/-aaqWxh7K_6U/XHQ2K7O7t6I/AAAAAAAAA88/cglLNCswS80NkmuVa7NvHk6v7jZujKXdwCLcBGAs/s1600/golperu.jpg",
+ "url": "https://dpelota.com/ver/golperu.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
+{"name": "goltv",
+ "image": "https://1.bp.blogspot.com/-vqv6k1GrmjY/XHQ2LWPRo5I/AAAAAAAAA9A/VkGOy_gzsBMYNIKSrOhsFPsaM7_r6rBUgCLcBGAs/s1600/goltv.jpg",
+ "url": "https://dpelota.com/ver/goltv.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
 {"name": "foxsports",
  "image": "https://2.bp.blogspot.com/-oCEmqlq5Zb8/XHQ2Jd1lApI/AAAAAAAAA8w/_3GHF3UgIME305uPu8NZ3EiExHZWatL1wCLcBGAs/s1600/foxsports.jpg",
  "url": "https://dpelota.com/ver/foxsports.php",
@@ -15,7 +33,7 @@
  "url": "https://dpelota.com/ver/foxsports2.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
- {"name": "A-spor",
+ {"name": "foxsports3",
  "image": "https://2.bp.blogspot.com/-AahFsem55Zg/XHQ2KWgYg4I/AAAAAAAAA84/aIzthB9AzpYkhF0VrAVLqrB5jh6ZTT1BQCLcBGAs/s1600/foxsports3.jpg",
  "url": "https://dpelota.com/ver/foxsports3.php",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
@@ -38,11 +56,6 @@
 {"name": "sportalhd",
  "image": "https://img.new.livestream.com/accounts/00000000003b573c/e162f250-46bd-4c56-a355-e5dd2b9829cb_50x50.jpg",
  "url": "https://livestream.com/sportalhd/live",
- "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
-
-{"name": "A-spor",
- "image": "http://www.canlisportv.com/media/images/tvlogo/ffe9f81c-7962-4b3b-9ad2-3abd8af76927_a-spor.jpg",
- "url": "http://www.canlisportv.com/a-spor/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "sports-tv-canli",
