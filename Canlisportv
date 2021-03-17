@@ -8,7 +8,7 @@
 
 {"name": "fb-tv-canli",
  "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
- "url": "https://t.me/joinchat/WKDYj7lFWcclrwLI",
+ "url": "http://www.canlisportv.com/setanta-plus-live/?yayin=2",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 {"name": "A-spor",
@@ -33,7 +33,7 @@
  
  {"name": "sport-klub-1",
  "image": "http://www.canlisportv.com/media/images/tvlogo/8d953c10-2807-4e27-988d-22340a531b69_sporkulup1-tv.jpg",
- "url": "http://www.canlisportv.com/sport-klub-1/",
+ "url": "http://www.canlisportv.com/setanta-plus-live/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  
