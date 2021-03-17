@@ -6,6 +6,18 @@
 [
 
 
+
+{"name": "fb-tv-canli",
+ "image": "https://2.bp.blogspot.com/-J2w9Wvu8xFA/XHQ2HXZbFOI/AAAAAAAAA8g/89XORrKo5qQEALYVLWs2kHdu6yAIZ9-ZgCLcBGAs/s1600/espn.jpg",
+ "url": "https://dpelota.com/ver/espn.php",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
+{"name": "fb-tv-canli",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
+ "url": "https://livestream.com/sportalhd/live",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+
+
 {"name": "fb-tv-canli",
  "image": "http://www.canlisportv.com/media/images/tvlogo/fe04075f-47b5-4e1a-80ba-b5f16ea087fc_fb-tv.jpg",
  "url": "http://www.canlisportv.com/setanta-plus-live/?yayin=2",
