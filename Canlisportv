@@ -6,15 +6,20 @@
 [
 
 
-{"name": "beInSport 1TH",
- "image": "https://i.imgur.com/PxNN4J9.png",
- "url": "https://www.doofree88.com/live/bein-sports-1",
+{"name": "arena-sport-1",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/",
+ "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
+ 
+{"name": "arena-sport-1",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
  
  
- {"name": "arena-sport-1",
- "image": "http://www.canlisportv.com/media/images/tvlogo/3de01538-c9a1-4f23-ad42-3ae6eafcc17d_arenasport-1-tv.jpg",
- "url": "http://www.canlisportv.com/arena-sport-1-live/",
+ {"name": "arena-sport-3",
+ "image": "http://www.canlisportv.com/media/images/tvlogo/b5f5a439-dd4c-434e-ac57-b41f245c6487_arenasport-3-tv.jpg",
+ "url": "http://www.canlisportv.com/arena-sport-1-live/?yayin=1",
  "referer": "https://adfiptv.com/",playInNatPlayer: "true"},
 
 
