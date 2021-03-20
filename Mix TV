@@ -16,9 +16,16 @@
 
 
 {
-"name": "TVRI International",  
-"image": "https://www.nettv.live/uploads/allimg/18/1-1Q109211Q10-L.jpg",  
-"url": "https://www.nettv.live/en/play.php?aid=5512",
+"name": "WE-Monday-Raw",  
+"image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-WWE-Monday-Raw.png",  
+"url": "https://sportsbay.org/watch/76346/1/wwe-monday-raw-live.html",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
+{
+"name": "usa-network",  
+"image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-USA-Network.png",  
+"url": "https://sportsbay.org/watch/67745/1/usa-network-live.html",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
