@@ -14,7 +14,13 @@
 
 
 
-
+{
+"name": "bein sports 1",  
+"image": "https://pbs.twimg.com/profile_images/1017284752871575552/oDZg32la_400x400.jpg",  
+"url": "https://soccertv4k.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2159430",
+"referer": "https://www.nettv.live/",
+"playInNatPlayer": "true"
+},
 {
 "name": "WE-Monday-Raw",  
 "image": "https://rolo.nocdnrlly.xyz/images/teams/Logo-WWE-Monday-Raw.png",  
