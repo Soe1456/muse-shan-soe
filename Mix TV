@@ -344,16 +344,16 @@
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8",
+"name": "RCTI",  
+"image": "https://i.imgur.com/rA0rUsj.png",  
+"url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
-"name": " fashion",  
-"image": "https://www.chipin.com/wp-content/uploads/2018/03/f-coin-delux-lowres.gif",  
-"url": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8",
+"name": "SCTV",  
+"image": "https://i.imgur.com/fH8rFb8.png",  
+"url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
