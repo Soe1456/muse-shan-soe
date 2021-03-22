@@ -346,14 +346,14 @@
 {
 "name": "RCTI",  
 "image": "https://i.imgur.com/rA0rUsj.png",  
-"url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0",
+"url": "https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "SCTV",  
 "image": "https://i.imgur.com/fH8rFb8.png",  
-"url": "chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8",
+"url": "https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
