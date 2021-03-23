@@ -37,7 +37,7 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/b29ee9f40a1d8018471944c7a7b70c3f.png", BT-SPORT-ESPN 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
@@ -91,11 +91,28 @@ https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHpVueV34felm_UC-oyY49naV9_7qsN-4_A&usqp=CAU", Eurosports 2 📺
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/46ddea93eecc53ef988dc9dd10f95df2.png",skysportfootball 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3bb38724c1cbe253ad93b2303fdf4e8b.png",skysportpremiere 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Df6kFcn/europaleague.jpg", Gol Laliga 📺
 http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-ESPN.png?", ESPN US 📺
-https://e10.espncdn.xyz/ingestnb4s/espn_usa/master.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/cabf979e11c8f4afb5a286db4f195dca.png",tv3max📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/a31ccf66d90d3d8ec83676659e3bae2f.png",beinsportsarabia1hd 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/1f49f52dacf22fd89b743823545e0d54.png",beinsportsarabia2hd 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/f44aa9c735aabee594ee3a4a129774df.png",beinsportsarabia3hd 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
 
 #********************************************************************************* "MOVIES" *********************************************************************#
 
@@ -107,6 +124,8 @@ http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
 http://160.119.77.117/iptv/sd-series.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",HBO 📺
 http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&PRIVE
