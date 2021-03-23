@@ -142,7 +142,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #==========================================================="INDONESIA"============================================================#
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Indonesia", RCTI
-https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Indonesia", SCTV
 https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Indonesia", MNCTV
