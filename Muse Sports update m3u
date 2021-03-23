@@ -1,9 +1,8 @@
 
 #EXTM3U
 
-
-*************************************************************************************** "SPORTS" *****************************************************************************************
-
+#EXTINF:-1 group-title="https://i.pinimg.com/originals/4d/ca/92/4dca923501f679aaa865e7c651dc663d.jpg",
+=============================================================================="SPORTS"==========================================================================================
 
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/61d713a6256c317dd9f840b4c3b35509.png", Digisport 1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
