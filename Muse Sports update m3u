@@ -254,33 +254,33 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/henantv.jpg",河南卫视
 http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",湖北卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg",湖北卫视
 http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
-#EXTINF:-1 ggroup-title="卫视频道" tvg-logo=",江西卫视
+#EXTINF:-1 ggroup-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg",江西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",吉林卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/jilintv.jpg",吉林卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",山西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/shanxitv.jpg",山西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",陕西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/sxtvs.jpg",陕西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",甘肃卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/gansutv.jpg",甘肃卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",四川卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/sichuantv.jpg",四川卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",云南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",贵州卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/guizhoutv.jpg",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",海南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg",海南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",宁夏卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/ningxiatv.jpg",宁夏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",青海卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/qinghaitv.jpg",青海卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",内蒙古卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/neimenggutv.jpg",内蒙古卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",西藏卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/xizangtv.jpg",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo=",新疆卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://www.tvchinese.net/uploads/tv/xinjiangtv.jpg",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
