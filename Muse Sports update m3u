@@ -35,6 +35,13 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/b29ee9f40a1d8018471944c7a7b70c3f.png", BT-SPORT-ESPN 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
 
+#EXTINF:-1 group-title="英语体育",Fox Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="英语体育",Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="英语体育",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/87cb4249f08c8bcae55d591fb71967fa.png", Tv3 Sport1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/3a144db159581eec97dc5d932aa876e0.png", Sport-tv 1 📺
