@@ -88,92 +88,92 @@ https://e10.espncdn.xyz/ingestnb4s/espn_usa/master.m3u8
 
 #********************************************************************************* "MOVIES" *********************************************************************#
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png", True Film HD 📺
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png", True Film HD 📺
 http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/18/4f8a0a30-521c-11ea-b4a0-631ea126a728_original.png", True x.zyte 📺
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/18/4f8a0a30-521c-11ea-b4a0-631ea126a728_original.png", True x.zyte 📺
 http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png", True Series 📺
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/23/1a68ad25-63bd-46db-af4d-774a774508cc_320.png", True Series 📺
 http://160.119.77.117/iptv/sd-series.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg", HBO 📺
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg", HBO 📺
 http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+#EXTINF:-1 group-title="MOVIES" tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Movies",&PRIVE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Movies",&PRIVE
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-ID="AXN.Int" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN
+#EXTINF:-1 group-title="MOVIES" tvg-ID="AXN.Int" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+#EXTINF:-1 group-title="MOVIES" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Movies",Fox Life
+#EXTINF:-1 group-title="MOVIES" tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Movies",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="51" tvg-id="foxfamilymovies" group-title="Movies" tvg-logo="https://iptvthai.my.to/logo/foxfamilymovies.png?rev=8",Fox Family Movies
+#EXTINF:-1 group-title="MOVIES" tvg-chno="51" tvg-id="foxfamilymovies" group-title="Movies" tvg-logo="https://iptvthai.my.to/logo/foxfamilymovies.png?rev=8",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="FOX ACTION MOVIE" group-title="Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX ACTION MOVIE
+#EXTINF:-1 group-title="MOVIES" tvg-name="FOX ACTION MOVIE" group-title="Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX ACTION MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial Classic Movies.png" group-title="Movies",CCM
+#EXTINF:-1 group-title="MOVIES" tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial Classic Movies.png" group-title="Movies",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="Movies",KIX
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="Movies",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial movies.png" group-title="Movies",CELESTIAL MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial movies.png" group-title="Movies",CELESTIAL MOVIES
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 
 #=========================================================================="Documentory"======================================================================#
 
-#EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
+#EXTINF:-1 group-title="Documentory" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle
+#EXTINF:-1 group-title="Documentory" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+#EXTINF:-1 group-title="Documentory" tvg-name="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-name="https://images.creativemarket.com/0.1.0/ps/7165665/1820/1214/m1/fpnw/wm0/country-music-club-typography-logo-design-inspiration-.jpg?1571493736&s=3126461a4eebf6c0515375a39e503aa6",Country Music
+#EXTINF:-1 group-title="Documentory" tvg-name="https://images.creativemarket.com/0.1.0/ps/7165665/1820/1214/m1/fpnw/wm0/country-music-club-typography-logo-design-inspiration-.jpg?1571493736&s=3126461a4eebf6c0515375a39e503aa6",Country Music
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
-#EXTINF:-1 tvg-name="https://lh3.googleusercontent.com/proxy/feFR7cwqRgwDGC5cbGP12_g8nHGiXG3ZSARbrKz4CVJicp7XuGNVnPOR6didGnVhEeXvuhAQ5PZWBzTZWCvp6mD1xh-rT69OTKN7EQRyHtxs1pztsaOXOnqsISQG_YQWJSA",Discovery Channel
+#EXTINF:-1 group-title="Documentory" tvg-name="https://lh3.googleusercontent.com/proxy/feFR7cwqRgwDGC5cbGP12_g8nHGiXG3ZSARbrKz4CVJicp7XuGNVnPOR6didGnVhEeXvuhAQ5PZWBzTZWCvp6mD1xh-rT69OTKN7EQRyHtxs1pztsaOXOnqsISQG_YQWJSA",Discovery Channel
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="https://images-na.ssl-images-amazon.com/images/I/71x-fPLrErL.png",Hunt Channel
+#EXTINF:-1 group-title="Documentory" tvg-name="https://images-na.ssl-images-amazon.com/images/I/71x-fPLrErL.png",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
+#EXTINF:-1 group-title="Documentory" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-name="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png",Outdoor Channel
+#EXTINF:-1 group-title="Documentory" tvg-name="https://seeklogo.com/images/O/outdoor-channel-logo-60FA601E68-seeklogo.com.png",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV
+#EXTINF:-1 group-title="Documentory" tvg-name="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #==========================================================="INDONESIA"============================================================#
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Indonesia", RCTI
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Indonesia", RCTI
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Indonesia", SCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/fH8rFb8.png?v=1.1.1.1" group-title="Indonesia", SCTV
 https://cdn1.mbahnunungonline.net/playlist/sctv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Indonesia", MNCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/AWnnWow.png?v=1.1.1.1" group-title="Indonesia", MNCTV
 https://dl.dropboxusercontent.com/s/p45g5msoao5lk7g/MNCTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qAKhvwu.png?v=1.1.1.1" group-title="Indonesia", antv
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/qAKhvwu.png?v=1.1.1.1" group-title="Indonesia", antv
 https://tv.mbahnunungonline.net/playlist/antv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="Indonesia", Indosiar
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/jRoKnmd.png?v=1.1.1.1" group-title="Indonesia", Indosiar
 https://dl.dropboxusercontent.com/s/xf0k6p9vyzah0ov/indosiarhd.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Indonesia", Metro TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/un1priK.png?v=1.1.1.1" group-title="Indonesia", Metro TV
 https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/MetroTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Indonesia", Trans 7
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/i8l6OHc.png?v=1.1.1.1" group-title="Indonesia", Trans 7
 https://dl.dropboxusercontent.com/s/b0c7zivy5wqpi43/trans7vid.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Indonesia", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/n8qUiYO.png?v=1.1.1.1" group-title="Indonesia", Trans TV
 https://dl.dropboxusercontent.com/s/gahtkzqr6n1a4eg/transtv-vid.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Indonesia", GTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/45Vmwv5.png?v=1.1.1.1" group-title="Indonesia", GTV
 https://dl.dropboxusercontent.com/s/6njzjjfcacin67k/GTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Indonesia", NET.
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/jqNYjGu.png?v=1.1.1.1" group-title="Indonesia", NET.
 https://dl.dropboxusercontent.com/s/3ci7xl3zl7p6r23/NetTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Indonesia", tvOne
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/UqGSTVT.png?v=1.1.1.1" group-title="Indonesia", tvOne
 https://tv.mbahnunungonline.net/playlist/tvone.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Indonesia", rtv
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/vXWQN7Q.png?v=1.1.1.1" group-title="Indonesia", rtv
 https://dl.dropboxusercontent.com/s/fi22byc96zqyx2u/RTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Indonesia", Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/aJhpmgf.png?v=1.1.1.1" group-title="Indonesia", Kompas TV
 https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/KompasTV.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=1.1.1.1" group-title="Indonesia", iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/99PkM23.png?v=1.1.1.1" group-title="Indonesia", iNews
 https://dl.dropboxusercontent.com/s/vd7uvm50pzth7a4/iNews.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Indonesia", Berita Satu
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/gII3Eq8.png?v=1.1.1.1" group-title="Indonesia", Berita Satu
 https://dl.dropboxusercontent.com/s/5b9c9h47bbpqohp/BeritaSatu.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Indonesia", CNN Indonesia HD
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1" group-title="Indonesia", CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Indonesia", TVRI
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Indonesia", TVRI
 https://dl.dropboxusercontent.com/s/b8hl2hnahrye5er/TVRI.m3u8?dl=0
 
 #======================================================================="China"=================================================================================================#
