@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-############################################################################### SPORTS ##########################################################################################
+*************************************************************************************** SPORTS *****************************************************************************************
 
 
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/61d713a6256c317dd9f840b4c3b35509.png", Digisport 1 📺
@@ -87,7 +87,7 @@ http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
 https://e10.espncdn.xyz/ingestnb4s/espn_usa/master.m3u8
 
 
-################################################################################### MOVIES ######################################################################################
+********************************************************************************* MOVIES **************************************************************************************
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png", True Film HD 📺
 http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
@@ -119,7 +119,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 
-######################################################################## Documentory and Lifestyle ################################################################################
+********************************************************************* Documentory and Lifestyle ******************************************************************************
 
 #EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
@@ -140,7 +140,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-####################################################################################### INDONESIA ###############################################################################
+************************************************************************************* INDONESIA ********************************************************************************
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Indonesia", RCTI
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0
