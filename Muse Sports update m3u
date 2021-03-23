@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-=============================================================================="SPORTS"==========================================================================================
+#=============================================================================="SPORTS"==========================================================================================#
 
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/61d713a6256c317dd9f840b4c3b35509.png", Digisport 1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
@@ -86,7 +86,7 @@ http://91.126.141.12:1935/live/smil:gol.smil/playlist.m3u8
 https://e10.espncdn.xyz/ingestnb4s/espn_usa/master.m3u8
 
 
-********************************************************************************* "MOVIES" **************************************************************************************
+#********************************************************************************* "MOVIES" *********************************************************************#
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png", True Film HD 📺
 http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
@@ -118,7 +118,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 
-********************************************************************* "Documentory" ******************************************************************************
+#=========================================================================="Documentory"======================================================================#
 
 #EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
@@ -139,7 +139,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="https://e7.pngegg.com/pngimages/1004/93/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-************************************************************************************* "INDONESIA" ********************************************************************************
+#==========================================================="INDONESIA"============================================================#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png?v=1.1.1.1" group-title="Indonesia", RCTI
 https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/RCti.m3u8?dl=0
@@ -176,3 +176,81 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBtbPBF.png?v=1.1.1.1" group-title="Indonesia", TVRI
 https://dl.dropboxusercontent.com/s/b8hl2hnahrye5er/TVRI.m3u8?dl=0
 
+#======================================================================="China"=================================================================================================#
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV11
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CCTV-4K
+http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CETV-1
+http://39.134.176.253/PLTV/88888888/224/3221226132/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",CGTN
+http://39.134.176.253/PLTV/88888888/224/3221226314/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="央视频道",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",江苏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",黑龙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",安徽卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",天津卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",重庆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",广西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",河北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="央视频道",河南卫视
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
