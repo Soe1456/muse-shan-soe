@@ -107,25 +107,25 @@ http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
 http://160.119.77.117/iptv/sd-series.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",HBO 📺
 http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Movies",&PRIVE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png",&PRIVE
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-ID="AXN.Int" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Movies",AXN
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://static.epg.best/id/AXN.id.png",AXN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="Movies",Fox Life
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/in/FOXLife.in.png",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-chno="51" tvg-id="foxfamilymovies" group-title="Movies" tvg-logo="https://iptvthai.my.to/logo/foxfamilymovies.png?rev=8",Fox Family Movies
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://iptvthai.my.to/logo/foxfamilymovies.png?rev=8",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-name="FOX ACTION MOVIE" group-title="Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX ACTION MOVIE
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX ACTION MOVIE
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-name="305" tvg-id="TYJ.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial Classic Movies.png" group-title="Movies",CCM
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/Celestial Classic Movies.png",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="Movies",KIX
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-name="305" tvg-id="TYP.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial movies.png" group-title="Movies",CELESTIAL MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/celestial movies.png",CELESTIAL MOVIES
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 
