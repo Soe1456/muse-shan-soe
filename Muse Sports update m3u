@@ -54,7 +54,7 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sporttv3/playlist.m
 #EXTINF:-1 tvg-logo="https://apiball.stream9x.com/previews/channel/8d41b97c6ba21e880831672113324544.png", Sportv 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/sportv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/SIpTqEezV-EGrv5LOTIQOYmgPQ-BJVJNhblStY8rAw9BJzTDLuUi0bgPre4wrR3Yo-hOHFv72dl4DQzY6PKKVQOL7MmaSaEUzd8",精品体育
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/SIpTqEezV-EGrv5LOTIQOYmgPQ-BJVJNhblStY8rAw9BJzTDLuUi0bgPre4wrR3Yo-hOHFv72dl4DQzY6PKKVQOL7MmaSaEUzd8",精品体育
 http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
 #EXTINF:-1 tvg-logo="https://uploadfile.huiyi8.com/2018/af/12/c4/8d/6815371.jpg.270.jpg",超级体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
@@ -119,7 +119,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 
-######################################################################## Documentory & Lifestyle ################################################################################
+######################################################################## Documentory and Lifestyle ################################################################################
 
 #EXTINF:-1 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png",Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
