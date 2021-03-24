@@ -137,7 +137,6 @@ http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://pic.ntimg.cn/file/20200325/26753533_223933443199_2.jpg",
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8#http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.tsportschannel.com/Images/logo-t-sport.png", T.Sports-Channel 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
 
@@ -196,6 +195,22 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playli
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/79fce02039a0fa051ce3a12bb8c76433.png",viasatfotboll 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/f1de95261c3ce570fde6592eedcc29f9.png",true sporthd 3 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd3_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/d010fcecff69cd95c72b1eb45c810825.png",true sport 2 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport2_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/0c31177e1a7c15248be9b74ec5b3dbd2.png",true sport 5 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport5_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/d28f7457b51997557b39c0a68ae71a56.png",true sport 6 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport6_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/871d94efde4acdebd56ab82ebda916e2.png",true sport 7 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport7_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/237a84e0f1b6be57f82521988295e5cb.png",true tennis 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/truetennis_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/466ba11d932f0b436cdad5d0bae987ce.png",skysportmainevent 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3c20c1b7814430d9b720e8571c4004de.png",skysportmix 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
 
 #********************************************************************************* "MOVIES" *********************************************************************#
 
