@@ -15,6 +15,8 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/p
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/0e10f7c8b5621cf451d9cd3df8d1a428.png", True Premier Sport 1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/063a34203a4bfe0796a077a49901d1cd.png",True Premier Sport 1 backup 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/epl1_480/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/667d18ae8e85ab5923a96864b6a2723d.png", True Premier Sport 2 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/37fb288d4f7da73c1a62322cc1d56fba.png", True Premier Sport 3 📺
@@ -189,29 +191,10 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/diemasport1/playlis
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/1254e2a2be97dfc48272d6e0f734381d.png",telekomsport1ro 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/telekomsport1ro/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/71698d60e4100d4c21992c82c8cb18c8.png",uk-freesport 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/79fce02039a0fa051ce3a12bb8c76433.png",viasatfotboll 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
 
 
 #********************************************************************************* "MOVIES" *********************************************************************#
