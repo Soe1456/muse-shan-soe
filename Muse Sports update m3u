@@ -4,15 +4,6 @@
 
 #=============================================================================="SPORTS"==========================================================================================#
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/61d713a6256c317dd9f840b4c3b35509.png", Digisport 1 📺
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/9d1f3f322ccc58a5a53c1cbae7781ad3.png", Digisport 2 📺
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/13485ea9bb91c4c522c13e28058cf2b5.png", Digisport 3 📺
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/7263a4726d6b5f7fbbb925506423b999.png", Digisport 4 📺
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/0e10f7c8b5621cf451d9cd3df8d1a428.png", True Premier Sport 1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/063a34203a4bfe0796a077a49901d1cd.png",True Premier Sport 1 backup 📺
@@ -26,6 +17,15 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/playl
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsport1_480p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/1a7c6c1d27a6bd364798b55e676a35cf.png", Bein Sport 2 TH 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/beinsporthd2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/61d713a6256c317dd9f840b4c3b35509.png", Digisport 1 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/9d1f3f322ccc58a5a53c1cbae7781ad3.png", Digisport 2 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/13485ea9bb91c4c522c13e28058cf2b5.png", Digisport 3 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/7263a4726d6b5f7fbbb925506423b999.png", Digisport 4 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3bb38724c1cbe253ad93b2303fdf4e8b.png", Sky-Sport-Premier 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8
@@ -104,13 +104,17 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://e7.pngegg.com/pngimages/293/436/png-clipart-fox-sports-networks-fox-sports-2-fox-entertainment-group-television-others-television-emblem.png",Fox Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/74ef9b3f309e98bdc302d0ae9f8347de.png",foxsports1nl 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/foxsports1netherlands.png",foxsports1nl 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/d562bbc648f456611d25ecb6ee50d282.png",foxsports2nl 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/foxsports2netherlands.png",foxsports2nl 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/e5c955f06d2afd07ac5bc5b54ec9f592.png",foxsports4nl 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/foxsports3netherlands.png",foxsports3nl 📺
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports3nl/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/foxsports4netherlands.png",foxsports4nl 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/b509e0109d86f2e678ff1a8309a32d1d.png",foxsports2usa 2 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/fox1usa.png",foxsports1usa 1 📺
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports1usa/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/fox2usa.png",foxsports2usa 2 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/87cb4249f08c8bcae55d591fb71967fa.png", Tv3 Sport1 📺
@@ -212,8 +216,29 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/p
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3c20c1b7814430d9b720e8571c4004de.png",skysportmix 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport1Albania.png",supersport1al 📺
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/supersport1al/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport2Albania.png",supersport2al 📺
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/supersport2al/playlist.m3u8
+#https://r3-sn-5fo-c37ed5.googleuservideo.com:443/thai88hd_m4/supersport2al/chunks.m3u8?nimblesessionid=79029812
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/PFCInternacional.png",pfc 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/pfc/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/fr-bein3hd.png",Sport TV 1 📺
+https://live-b.worldwidetv.club:442/hmcb4rf66f-th2/fr-bein3hd_480/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIxIDQ6MDQ6MzkgQU0maGFzaF92YWx1ZT1EbU5ZcjRNVEhkc3VBVHQzMGhncVJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MTE2NjA0OHxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA5OyBNaSBNSVggMiBCdWlsZC9QS1ExLjE5MDExOC4wMDE7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvODkuMC40Mzg5LjEwNSBNb2JpbGUgU2FmYXJpLzUzNy4zNnwxNjE2NTU4Njc5fGZyLWJlaW4zaGR8MTE2NjA0OHwyMjMuMjA0LjgwLjEwMw==
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
+
 #********************************************************************************* "MOVIES" *********************************************************************#
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://apiball.stream9x.com/previews/channel/ba7aea589e60830beacbf7c26dc6563a.png",Mono 📺
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/mono_480p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f3415f3e-cefd-488c-a3af-c1cca0b2cdb5.png",True Film HD 📺
 http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://cms.dmpcdn.com/livetv/2020/02/18/4f8a0a30-521c-11ea-b4a0-631ea126a728_original.png",True x.zyte 📺
