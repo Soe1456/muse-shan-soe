@@ -346,14 +346,14 @@
 {
 "name": "RCTI",  
 "image": "https://i.imgur.com/rA0rUsj.png",  
-"url": "https://www.stream2watch.one/streaming-television/bein-sports-live-stream",
+"url": "http://yrsprts.stream/live?v=bayernfc",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
 {
 "name": "SCTV",  
 "image": "https://i.imgur.com/fH8rFb8.png",  
-"url": "https://www.stream2watch.one/streaming-television/bein-sports-espanol-live-stream",
+"url": "http://yrsprts.stream/live?v=tvx2?ch=action4u",
 "referer": "https://www.nettv.live/",
 "playInNatPlayer": "true"
 },
