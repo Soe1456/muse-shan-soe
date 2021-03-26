@@ -397,6 +397,14 @@ http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
 http://160.119.77.117/iptv/sd-series.stream/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",HBO 📺
 http://dootvthai-hd.com/cmd/api/hbo/hbohd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg",HBO 📺
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124",HBO 2 📺
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",HBO 3 📺
+http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png",Cinemax 📺
+http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO 📺 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix 📺
@@ -415,10 +423,6 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.shutterstock.com/image-vector/film-strip-cinema-abstract-logo-260nw-304508495.jpg",CINE LIFE HD 📺
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/i5gQ9LrOYlA/maxresdefault.jpg",Cine 34 📺
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/7/7176.1534466288.png",Cine Club 📺
