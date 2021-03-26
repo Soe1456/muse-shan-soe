@@ -32,6 +32,17 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportpremiere/pl
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/46ddea93eecc53ef988dc9dd10f95df2.png", Sky-Sport-Football 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8
 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",BT Sport 1 HD (UK) 📺
+http://160.119.77.117/iptv/uk-btsport1hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",BT Sport 2 HD (UK) 📺
+http://160.119.77.117/iptv/uk-btsport2hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",BT Sport 3 HD (UK) 📺
+http://160.119.77.117/iptv/uk-btsport3hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra1.png",BT Sport Extra (UK) 📺
+http://160.119.77.117/iptv/uk-btsportextra1.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsportextra2.png",BT Sport Extra 2 (UK) 📺
+http://160.119.77.117/iptv/uk-btsportextra2.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/692f4edec1fb18054855ecbc2ae9d2fc.png", BT-Sport 1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3263311bc45e74df8644e534d9db66d9.png", BT-SPORT 2 📺
@@ -48,9 +59,16 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia2hd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/f44aa9c735aabee594ee3a4a129774df.png",beinsportsarabia3hd 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/32f3797ea6f2756e6786c90fc2219108.png",beinsport1fr 📺
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein1hd.png",Bein Sport 1 (French) 📺
+http://160.119.77.117/iptv/fr-bein1hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein2hd.png",Bein Sport 2 (French) 📺
+http://160.119.77.117/iptv/fr-bein2hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/fr-bein3hd.png",Bein Sport 3 (French) 📺
+http://160.119.77.117/iptv/fr-bein3hd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/32f3797ea6f2756e6786c90fc2219108.png",Bein Sport 1 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport1fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/14887a19180f75e7efaf1797bad02953.png",beinsport2fr 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/14887a19180f75e7efaf1797bad02953.png",Bein Sport 2 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport2fr/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/bbde8c4456dca3a3d66f5a03ec49fd62.png",beinmax4fr 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax4fr/playlist.m3u8
@@ -234,6 +252,8 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",Eleven Sports (UK) 📺
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
 
@@ -338,7 +358,6 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg",TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/news1.png",News1
@@ -347,17 +366,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 #=========================================================="MOVIES"==========================================================#
 
@@ -389,12 +397,14 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://image.shutterstock.com/image-vector/film-strip-cinema-abstract-logo-260nw-304508495.jpg",CINE LIFE HD
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/i5gQ9LrOYlA/maxresdefault.jpg",Cine 34
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/7/7176.1534466288.png",Cine Club
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w58483295.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports (1080p)
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbs.dreamstime.com/z/stamp-label-text-comedy-movies-stamp-label-movie-projector-filmstrip-text-comedy-movies-written-inside-121314097.jpg",Comedy Movies
 https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbs.dreamstime.com/b/comedy-movies-stamp-seal-watermark-distress-style-blue-vector-rubber-print-comedy-movies-title-corroded-texture-131490132.jpg",Comedy Movies 2
