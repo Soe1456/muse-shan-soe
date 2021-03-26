@@ -70,12 +70,31 @@ http://160.119.77.117/iptv/fr-bein3hd.stream/chunks.m3u8
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport1fr/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/14887a19180f75e7efaf1797bad02953.png",Bein Sport 2 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsport2fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/bbde8c4456dca3a3d66f5a03ec49fd62.png",beinmax4fr 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/bbde8c4456dca3a3d66f5a03ec49fd62.png",Bein Sport max 4 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax4fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/1e792143ba98683de6c414154a1b7c46.png",beinmax5fr 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/1e792143ba98683de6c414154a1b7c46.png",Bein Sport max 5 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax5fr/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3c9a99ceba695930eccd0e23bbcfc099.png",beinmax6fr 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3c9a99ceba695930eccd0e23bbcfc099.png",Bein Sport max 6 (French) 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinmax6fr/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein1.png",BeIN Sports 1 (Arabic)
+http://160.119.77.117/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein2.png",BeIN Sports 2 (Arabic)
+http://160.119.77.117/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein3.png",BeIN Sports 3 (Arabic)
+http://160.119.77.117/iptv/hd-bein3.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein4.png",BeIN Sports 4 (Arabic)
+http://160.119.77.117/iptv/hd-bein4.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein5.png",BeIN Sports 5 (Arabic)
+http://160.119.77.117/iptv/hd-bein5.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein6.png",BeIN Sports 6 (Arabic)
+http://160.119.77.117/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein7.png",BeIN Sports 7 (Arabic)
+http://160.119.77.117/iptv/hd-bein7.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein8.png",BeIN Sports 8 (Arabic)
+http://160.119.77.117/iptv/hd-bein8.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-bein9.png",BeIN Sports 9 (Arabic)
+http://160.119.77.117/iptv/hd-bein9.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/7b1652880c2df4e25bc3d92768c20de5.png",beinsports1tu 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/beinsports1tu/playlist.m3u8
