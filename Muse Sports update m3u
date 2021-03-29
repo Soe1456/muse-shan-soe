@@ -154,6 +154,17 @@ https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports1usa/playlist.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/fox2usa.png",foxsports2usa 2 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/f9/d7/fa/f9d7faae0c4167c3e1199702e091ceeb.png",Skynetsport 1 📺
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/af/87/ec/af87ec79eb5ff750d3e207c728cdd23e.png",Skynetsport 2 📺
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/60/d6/d0/60d6d0094336d45d0396350f2648559a.png",Skynetsport 3 📺
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/18/94/77/1894773124c59b327ad34a7a795b2a18.png",Skynetsport 4 📺
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/53/8d/b0/538db0512ff986b94227c310626a7e98.png",Skynetsport 5 📺
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/87cb4249f08c8bcae55d591fb71967fa.png", Tv3 Sport1 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png", Sport-tv 2 📺
@@ -236,8 +247,14 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/uk-freesport/playli
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/79fce02039a0fa051ce3a12bb8c76433.png",viasatfotboll 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/f1de95261c3ce570fde6592eedcc29f9.png",true sporthd 3 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/0c/1c/6b/0c1c6b37d33d1526cd75ca7f4f687832.png",true sport hd 📺
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/b8/bf/ea/b8bfea95d7214f728543941644bf05e2.png",true sport hd 2 📺
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/f1de95261c3ce570fde6592eedcc29f9.png",true sport hd 3 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/2sporthd3_480p/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/channel-4hd.jpg",true sport hd 4 📺
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/d010fcecff69cd95c72b1eb45c810825.png",true sport 2 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2sport2_480p/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/0c31177e1a7c15248be9b74ec5b3dbd2.png",true sport 5 📺
@@ -253,14 +270,21 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmainevent/p
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apiball.stream9x.com/previews/channel/3c20c1b7814430d9b720e8571c4004de.png",skysportmix 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport1Albania.png",supersport1al 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213",Astro SuperSport 1📺
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/812_300.png",Astro SuperSport 2 📺
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/813_300.png",Astro SuperSport 3 📺
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-arena-logo-png-3.png",Astro SuperSport 4 📺
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport1Albania.png",Astro SuperSport 1📺
 https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/supersport1al/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport2Albania.png",supersport2al 📺
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/SuperSport2Albania.png",Astro SuperSport 2 📺
 https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/supersport2al/playlist.m3u8
-#https://r3-sn-5fo-c37ed5.googleuservideo.com:443/thai88hd_m4/supersport2al/chunks.m3u8?nimblesessionid=79029812
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://doo2you.com/icon/PFCInternacional.png",pfc 📺
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/pfc/playlist.m3u8
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Dubaisports14_2014-08-06_11-33.jpg",Dubai Sports 1 📺
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://www.yalla-shoot.com/tv/uploads/data/469401419aa97e690e15639bae6be203d0.png",Dubai Sports 2 📺
@@ -274,9 +298,9 @@ https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/H4hC3Dv/20200229-230527.png",Sport TV 1 📺
+
 
 #=========================================================="Digital.TV"==========================================================#
 
