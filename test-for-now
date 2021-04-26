@@ -1179,6 +1179,229 @@ http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",JADE TV
 http://m.567it.com/jade.m3u8
 
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",Sport TV 5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="WIN SPORTS HD" tvg-name="WIN SPORTS HD" tvg-shift="11" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1523465492600-Imagen.png" channel-id="11" audio-track="2" mono="1" aspect-ratio="16:9" parent-code="" tvg-chno="11" group-title="", WIN SPORTS HD
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL",espn 2
+https://gma2.blab.email/espn2.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="FOOTBALL2", SERI A ITALIA
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", Special bein sport extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="BeinSports", bein Sport
+https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/2d48ofcy.m3u8?s=_3MhnR3Kyse2t2IpIVyBJg&e=1610598524
+
+
+#EXTINF:-1 tvg-logo="TEST" group-title="tycSports", tyc Sports
+https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/cqj8ghb6kw8wjnp.m3u8?s=22B-NDbMeAsayxXonvKlfg&e=1610598944
+
+
+#EXTINF:-1 tvg-id="CARACOL HD" tvg-name="CARACOL HD" tvg-shift="0" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1529356644165-Imagen.jpg" channel-id="0" audio-track="2" mono="1" aspect-ratio="16:9" parent-code="" tvg-chno="0" group-title="", CARACOL HD
+https://co-e7-p-e-cl2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1200.m3u8?uid=DuW5CP0SaLWU8KuITcre3qv4HkHSDXCE&sid=QtFFzkwdCLuqJJTl2R9koEAsWMUlJIAR&pid=rNEOTZi32ChZxqIGnf3wIqYCJ7z5fh96&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&es=co-e7-p-e-cl2.cdn.mdstrm.com&ote=1613583325823&ot=3Ytjc7H16g1lw7qy4Jos8w&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="CARACOL HD" tvg-name="CARACOL HD" tvg-shift="0" radio="" tvg-logo="https://www.claro.com.co/portal/recursos/co/gc/imagenes/1529356644165-Imagen.jpg" channel-id="0" audio-track="2" mono="1" aspect-ratio="16:9" parent-code="" tvg-chno="0" group-title="", CARACOL HD
+https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/a37b2ec9-b75b-407c-8c10-5b144ec23a39:CHS/variant/c9fe74e2f4d7fc5df7bfad7969bb4acc/bandwidth/4500000.m3u8?hdntl=exp=1613585249~acl=*~id=78a22fab-cad2-472d-8e8b-679e2cc89af3~data=hdntl~hmac=cbef8c4f8d042a752294f8d4eed8f38f7aeed856687c61b1bed6523ebc57f49c
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="PARAGUAY", 24- SUR TV
+http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/logoroga.com/wp-content/uploads/2017/10/snt-hd.png?fit=1000%2C1000&ssl=1" group-title="PARAGUAY", 07- SNT
+http://hidraplay.tv/live/oynpeeno/k70caqT83M/43461.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/logoroga.com/wp-content/uploads/2017/10/snt-hd.png?fit=1000%2C1000&ssl=1" group-title="PARAGUAY", 07- SNT2
+http://echootv.tv:2086/live/brazil2_YpKsE0/ArSlUw0K/154821.ts
+
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2014/12/logoParaguayTv.jpg" group-title="PARAGUAY", 06- PARAGUAY TV
+http://hidraplay.tv/live/oynpeeno/k70caqT83M/43471.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo_web@footer.png" group-title="PARAGUAY", 25- RCN CAAGUAZU PY
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", 10- TIGO SPORTS 
+http://hidraplay.tv/live/oynpeeno/k70caqT83M/43478.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="PARAGUAY", 11- TIGO SPORTS + (SOLO EVENTOS)
+http://hidraplay.tv/live/Cubill/123457/43477.m3u8
+
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES USA/CANADA", USA | BEIN SPORTS XTRA 
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png" group-title="PARAGUAY", 20- PARAVISION
+http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY", 09- TRECE
+http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThVbPsZftotBfQZ2Vr-DMnOXA13H7CgbhS3g&usqp=CAU" group-title="PARAGUAY", 08- TELEFUTURO
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s1600/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png", group-title="PARAGUAY", 21- TVS ENCARNACION
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png", group-title="PARAGUAY", 22- SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="PARAGUAY", 12- UNICANAL
+http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="PARAGUAY", 02- C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
+
+#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY", 04- NOTICIAS PY
+http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="PARAGUAY", 23- LATELE
+http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png" group-title="DEPORTES OCEANIA", AU | FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png" group-title="DEPORTES OCEANIA", AU | FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png" group-title="DEPORTES OCEANIA", AU | FOX SPORTS 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png", POL | ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES EURO" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png", POL | ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" group-title="DEPORTES EURO", POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/novasport.png" group-title="DEPORTES EURO", BULG | NOVA SPORTS
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png" group-title="DEPORTES LATINOS", BR | GLOBO INTERNACIONAL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://teletplay.lateletuya.com/Logo-TLT-Azul.png" group-title="NOTICIAS INTERNACIONALES", VZ | TLT
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONALES", CO | SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="NOTICIAS INTERNACIONALES", BR | CNN BRASIL
+https://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v1a1a2m2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyXKjAAImaBfiJJKnyka3KpWWeNLBISqmIag&usqp=CAU" group-title="NOTICIAS INTERNACIONALES", BR | BAND NEWS
+https://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png" group-title="DEPORTES LATINOS", BR | GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" group-title="DEPORTES LATINOS", BR | ALL SPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="DEPORTES LATINOS", BR | BAND SPORTS HD
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES LATINOS", BR | TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES LATINOS", BR | TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES LATINOS", BR | TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES LATINOS", BR | TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES LATINOS", BR | TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="DEPORTES LATINOS", AR | TyC SPORTS (SOLO EVENTOS)
+https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTES ASIA/AFRICA", AR | BEIN SPORTS PREMIUM 1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTES ASIA/AFRICA", AR | BEIN SPORTS PREMIUM 2
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/0a/8c/870a8cda614558e0fa6ee0c3351bcb61.png" group-title="DEPORTES ASIA/AFRICA", AR | AD SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ln.heytv.org/wp-content/uploads/2019/03/abu_dhabi_sports2.jpg" group-title="DEPORTES ASIA/AFRICA", AR | AD SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/27-277087_ad-sport-3-abu-dhabi-sports-channel-hd.png" group-title="DEPORTES ASIA/AFRICA", AR | AD SPORTS 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="NOTICIAS INTERNACIONALES", VZ | TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+EXTINF:-1,RT ES
+https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="NOTICIAS INTERNACIONALES", VZ | TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 group-title="All Sport" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-2-1071.png",TRUE SPORT2 HD
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1,GOLTV
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/x11gq4.m3u8?s=4L522HYsTTabF3Gc4xEL8w&e=1619406768
+
+#EXTINF:-1,WINSPORTS+
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/ch7lw.m3u8?s=iJwhW_tj3aXi1iei_4j3ow&e=1619406202
+
+#EXTINF:-1,TNT Sports HD
+https://2up5rvfxrrwrmhet.ezcdn483.net:8443/hls/8w87zdvc8c4.m3u8?s=s4qu-nOYgmJ8ARvKhFD5JA&e=1619406294
+
+
+
+
+
+
+
+
+
+
 #:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #EXTINF:-1 tvg-id="" tvg-name="LA: Cinema 01 PPV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Latino",LA: Cinema 01 PPV
