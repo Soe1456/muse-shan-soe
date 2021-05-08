@@ -702,7 +702,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "beIN SPORTS 3 France",
+"name": "beIN SPORTS 3 France backup",
 "image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-3-Logo-Small2.png",
 "url": "http://runnel.ir/tv/tv/bein-fr-3-1.php",
 "referer": "http://runnel.ir/",
@@ -710,10 +710,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "bein-sports-1 ar premium",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/BeIN%20Sports%201%20HD.png?m=1458729215",
+"url": "http://freestreams-live1.com/beinspremium1/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
