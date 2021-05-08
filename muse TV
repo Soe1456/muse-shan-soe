@@ -218,35 +218,34 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "Sky Sports Football",
+"image":"http://runnel.ir/ax/logo/sky-sports-football.jpg",
+"url": "http://runnel.ir/tv/tv/sky-sports-football-tv-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "BT Sport 1 HD",
+"image":"http://runnel.ir/ax/logo/BT_Sport_1_logo.png",
+"url": "http://runnel.ir/bt-sport-1/",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "BT Sport 2 HD",
+"image":"http://runnel.ir/ax/logo/BT_Sport_2_logo.png",
+"url": "http://runnel.ir/tv/tv/bt-sport-2-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "BT Sport 3 HD",  
+"image": "http://runnel.ir/ax/logo/BT_Sport_3_logo.png",  
+"url": "http://runnel.ir/tv/tv/bt-sport-3-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
