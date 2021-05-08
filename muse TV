@@ -491,36 +491,34 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Sky Sports Premier League (UK)",
+"image":"https://thaihd.tv/wp-content/uploads/2020/01/sky-sports-premier.png",
+"url": "http://freestreams-live1.com/skyspl2/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "sky sport 2 hd",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/sky%20sport%202%20hd.png?m=1458729557",
+"url": "http://freestreams-live1.com/sky-sport-2-2/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "sky bundesliga 1",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/sky%20bundesliga%201.png?m=1458730654",
+"url": "http://freestreams-live1.com/sky-bundesliga-1-ger/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "sky bundesliga 2",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/sky%20bundesliga%202.png?m=1458728246",
+"url": "http://freestreams-live1.com/skybundesliga2/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
