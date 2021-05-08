@@ -459,19 +459,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Fox Sports-us",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNjM7gYSpPC5wcRafpCOAc0OrwJ7ZmApPf1smRlmiyGb9CUWw-1WKLKMkQBkgSRJmHJ0&usqp=CAU",
+"url": "http://epctv.com/stream/FoxSports-Stream_2.html",
+"referer": "http://epctv.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "ESPN-2",
+"image":"https://img.sport-tv-guide.live/images/tv-station-nl-fox-sports-2-242.png",
+"url": "http://epctv.com/stream/ESPN2-Stream_1.html",
+"referer": "http://epctv.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
