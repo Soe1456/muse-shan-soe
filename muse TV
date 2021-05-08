@@ -718,10 +718,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "bt sport 1",
+"image":"https://sport-tv-guide.live/images/stations/a97.png",
+"url": "https://www.unacanita.com/canal/31",
+"referer": "https://www.unacanita.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
