@@ -313,7 +313,6 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
 {
 "name": "Setanta Sports 1",
 "image":"http://runnel.ir/ax/logo/Setanta-Sports-1.png",
@@ -323,70 +322,66 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "Setanta Sports 2",
+"image":"http://runnel.ir/ax/logo/Setanta-Sports-2.png",
+"url": "http://runnel.ir/tv/tv/setanta-sports-plus-tv-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "SuperSport 2 Albania",
+"image":"http://runnel.ir/ax/logo/SUPERSPORT2.png",
+"url": "http://runnel.ir/tv/tv/super-sport-2-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "SuperSport 3 Albania",
+"image":"http://runnel.ir/ax/logo/SUPERSPORT3.png",
+"url": "http://runnel.ir/tv/tv/super-sport-3-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Sport.TV 1 Portugal",
+"image":"http://runnel.ir/ax/logo/SportTV1-Logo.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-1-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "Sport.TV 2 Portugal",
+"image":"http://runnel.ir/ax/logo/SportTV2.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-2-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Sport.TV 3 Portugal",
+"image":"http://runnel.ir/ax/logo/SportTV3.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-3-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "Sport.TV 4 Portugal",
+"image":"http://runnel.ir/ax/logo/SportTV4.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-4-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Sport.TV 5 Portugal",
+"image":"http://runnel.ir/ax/logo/SportTV5.png",
+"url": "http://runnel.ir/tv/tv/sport.tv-5-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
