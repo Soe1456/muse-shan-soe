@@ -104,34 +104,34 @@
 
 
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "beIN SPORTS 1 Arabia ",  
+"image": "http://runnel.ir/ax/logo/beIN1-Small.png",  
+"url": "http://runnel.ir/tv/tv/bein-1-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "beIN SPORTS 2 Arabia ",
+"image":"http://runnel.ir/ax/logo/beIN2-Small.png",
+"url": "http://runnel.ir/tv/tv/bein-2-1.php",
+"referer": "http://runnel.ir/",
 "userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "beIN SPORTS 3 Arabia ",
+"image":"http://runnel.ir/ax/logo/beIN3-Small.png",
+"url": "http://runnel.ir/tv/tv/bein-3-1.php",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
+"name": "beIN SPORTS 4 Arabia ",  
+"image": "http://runnel.ir/ax/logo/beIN4-Small.png",  
+"url": "http://runnel.ir/tv/tv/bein-4-1.php",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
