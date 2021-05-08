@@ -250,19 +250,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "BT Sport ESPN",
+"image":"http://runnel.ir/ax/logo/BT_Sport_ESPN_logo.png",
+"url": "http://runnel.ir/tv/tv/bt-sport-espn-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Channel One Russia",
+"image":"http://runnel.ir/ax/logo/1TV-Logo.png",
+"url": "http://runnel.ir/tv/tv/match-tv-2.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
