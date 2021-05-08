@@ -266,35 +266,34 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Futbol 1 Russia",
+"image":"http://runnel.ir/ax/logo/Match-Futbol-1-Logo.png",
+"url": "http://runnel.ir/tv/tv/match-futbol-tv-1-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "Futbol 2 Russia",  
+"image": "http://runnel.ir/ax/logo/Match-Futbol-2-Logo.png",  
+"url": "http://runnel.ir/tv/tv/match-futbol-tv-2-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "Futbol 3 Russia",
+"image":"http://runnel.ir/ax/logo/Match-Futbol-3-Logo.png",
+"url": "http://runnel.ir/tv/tv/match-futbol-tv-3-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Premier-TV",
+"image":"http://runnel.ir/ax/logo/Match-Premier-TV.png",
+"url": "http://runnel.ir/tv/tv/match-premier-tv-3.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
