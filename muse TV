@@ -165,8 +165,40 @@
 "name": "beIN SPORTS 3 Arabia premium",
 "image":"https://data.apksum.com/ca/ptv.bein.ui/5.6.1/icon.png",
 "url": "http://runnel.ir/tv/tv/bein-10-1.php",
+"referer": "http://runnel.ir/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 1 France HD",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-1-Logo-Small.png",
+"url": "http://runnel.ir/tv/tv/bein-fr-1-1.php",
+"referer": "http://runnel.ir/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 1 France HD",  
+"image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo-Small.png",  
+"url": "http://runnel.ir/bein-sports-2-fr/",
+"referer": "http://runnel.ir/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
 "referer": "",
 "userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -203,10 +235,105 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
-
-
-
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
 
 
 
