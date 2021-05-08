@@ -298,18 +298,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Futbol 1 Ukraine",
+"image":"http://runnel.ir/ax/logo/UA-Football-1-Logo.png",
+"url": "http://runnel.ir/tv/tv/ua-football-1-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "Futbol 2 Ukraine",  
+"image": "http://runnel.ir/ax/logo/UA-Football-2-Logo.png",  
+"url": "http://runnel.ir/tv/tv/ua-football-2-2.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
