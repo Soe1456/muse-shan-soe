@@ -636,27 +636,27 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "bein-sports-3",
+"image":"https://musicbrown578.weebly.com/uploads/1/2/5/3/125393174/254677561.png",
+"url": "http://freestreams-live1.com/bein-sports-3-eng/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "bein-sports-n",
+"image":"https://sport-tv-guide.live/images/stations/a85.png",
+"url": "http://31.220.41.87:8081/live/es-bein.stream/playlist.m3u8",
+"referer": "http://freestreams-live1.com/",
 "userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "bein-sports-n",
+"image":"https://sport-tv-guide.live/images/stations/a85.png",
+"url": "https://daddylive.co/embed/stream-23.php",
+"referer": "https://daddylive.co/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
