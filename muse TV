@@ -178,7 +178,7 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "beIN SPORTS 1 France HD",  
+"name": "beIN SPORTS 2 France HD",  
 "image": "http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo-Small.png",  
 "url": "http://runnel.ir/bein-sports-2-fr/",
 "referer": "http://runnel.ir/",
@@ -186,35 +186,34 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "beIN SPORTS 3 France HD",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-3-Logo-Small.png",
+"url": "http://runnel.ir/bein-sports-3-fr/",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "beIN SPORTS 1 Turkey",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Tr-1-Logo-Small.png",
+"url": "http://runnel.ir/tv/tv/bein-tr-1-2.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "beIN SPORTS 2 Turkey",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Tr-2-Logo-Small.png",
+"url": "http://runnel.ir/tv/tv/bein-tr-2-2.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",  
-"image": "",  
-"url": "",
-"referer": "",
+"name": "Sky Sports Premier League",  
+"image": "http://runnel.ir/ax/logo/sky-sports-premier-league.jpg",  
+"url": "http://runnel.ir/tv/tv/sky-sports-premier-league-tv-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
