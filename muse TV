@@ -475,19 +475,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "sky-super calcio",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/sky%20supercalcio.png?m=1458730553",
+"url": "http://freestreams-live1.com/sky-supercalcioit/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "sky sport 2 hd",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/sky%20sport%202%20hd.png?m=1458729557",
+"url": "http://freestreams-live1.com/sky-sport-2-italiaz/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
