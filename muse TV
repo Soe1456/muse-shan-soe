@@ -563,19 +563,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "BT Sport 2",
+"image":"http://jsat.tv/gallery/var/albums/TV%20Logos/BT%20Sport%202.png?m=1458721567",
+"url": "http://freestreams-live1.com/bts2-uk/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "BT Sport 3",
+"image":"http://runnel.ir/ax/logo/BT_Sport_3_logo.png",
+"url": "http://freestreams-live1.com/bts-3uk/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
