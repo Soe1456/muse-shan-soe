@@ -563,6 +563,14 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "BT Sport 1 backup",
+"image":"http://jsat.tv/gallery/var/resizes/TV%20Logos/BT%20Sport%201.png?m=1458728090",
+"url": "http://freestreams-live1.com/bein-sports-us/",
+"referer": "http://freestreams-live1.com/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
 "name": "BT Sport 2",
 "image":"http://jsat.tv/gallery/var/albums/TV%20Logos/BT%20Sport%202.png?m=1458721567",
 "url": "http://freestreams-live1.com/bts2-uk/",
@@ -579,44 +587,34 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "bein-sports-xtra",
+"image":"https://sport-tv-guide.live/images/stations/a1967.png",
+"url": "http://freestreams-live1.com/bein-sports-xtra/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "laliga tv-uk 1",
+"image":"https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/8/7/4/1315874_laligatvlogo_144485.jpg",
+"url": "http://freestreams-live1.com/laligatv-uk1/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "bein sports-la-liga 2",
+"image":"https://www.football-authentica.co.uk/ekmps/shops/bbed27/images/2016-21-spanish-la-liga-lfp-official-player-issue-size-football-soccer-badge-patch-416-p.jpg",
+"url": "http://freestreams-live1.com/beinsports-la-liga2/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "Canal_11",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_Canal_11_FPF_1.svg/120px-Logo_Canal_11_FPF_1.svg.png",
+"url": "http://freestreams-live1.com/bein-sports-n/",
+"referer": "http://freestreams-live1.com/",
 "userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
