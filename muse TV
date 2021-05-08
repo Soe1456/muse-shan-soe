@@ -661,19 +661,18 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"userAgent": "exoplayer_video",
+"name": "beIN SPORTS 1 France",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-1-Logo-Small2.png",
+"url": "http://freestreams-live1.com/beins-1direct/",
+"referer": "http://freestreams-live1.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "beIN SPORTS 1 France backup",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-1-Logo-Small2.png",
+"url": "http://runnel.ir/tv/tv/bein-fr-1-1.php",
+"referer": "http://runnel.ir/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
