@@ -677,15 +677,39 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "beIN SPORTS 2 France",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo-Small2.png",
+"url": "http://freestreams-live1.com/beinsports-2-fr/",
 "referer": "",
 "userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
+"name": "beIN SPORTS 2 France backup",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-2-Logo-Small2.png",
+"url": "http://runnel.ir/tv/tv/bein-fr-2-1.php",
+"referer": "http://runnel.ir/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 3 France",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-3-Logo-Small2.png",
+"url": "http://freestreams-live1.com/beinsp-3fr/",
+"referer": "http://freestreams-live1.com/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "beIN SPORTS 3 France",
+"image":"http://runnel.ir/ax/logo/beIN-SPORTS-Fr-3-Logo-Small2.png",
+"url": "http://runnel.ir/tv/tv/bein-fr-3-1.php",
+"referer": "http://runnel.ir/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
 "name": "",
 "image":"",
 "url": "",
@@ -698,7 +722,6 @@
 "image":"",
 "url": "",
 "referer": "",
-"userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -710,6 +733,148 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
 
 
 ]
