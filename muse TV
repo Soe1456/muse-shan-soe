@@ -1,5 +1,5 @@
 {
-"name": "Thai-true-sports",
+"name": "muse-sports",
 "author": "soe1456",
 "image": "https://i.gifer.com/QQiy.gif",
 "url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/muse%20TV",
@@ -7,7 +7,7 @@
 "stations": [
 
 {
-"name": "19 April 2021",  
+"name": "8 may 2021",  
 "image": "https://i.gifer.com/ItDJ.gif",  
 "url": "https://www.facebook.com/profile.php?id=100004241508542",
 "info": "museappfree",
@@ -24,16 +24,15 @@
 {
 "name": "EPL1  สำรอง 1",
 "image":"https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",
-"url": "https://stream.warpballsod.tv/epl1.m3u8",
-"referer": "https://www.warpballsod.tv/",
-"userAgent": "exoplayer_video",
+"url": "https://xn--l3clbuukk5c4d8a3e5d.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/?id=2163751",
+"referer": "https://xn--l3clbuukk5c4d8a3e5d.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
 "name": "EPL1  สำรอง 2",  
 "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-1&api_key=hmcb4rf66f",
+"url": "https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
 "referer": "https://dooball66.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
@@ -46,8 +45,6 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "EPL2",
 "image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
@@ -57,296 +54,10 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "EPL2  สำรอง 1",  
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL2  สำรอง 2",
-"image":"https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
-"url": "https://stream.warpballsod.tv/epl2.m3u8",
-"referer": "https://www.warpballsod.tv/",
-"userAgent": "exoplayer_video",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL2  สำรอง 3",
-"image":"https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd2/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "EPL3",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg",
-"url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL3  สำรอง 1",  
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-3&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL3  สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg",
-"url": "https://stream.warpballsod.tv/epl3.m3u8",
-"referer": "https://www.warpballsod.tv/",
-"userAgent": "exoplayer_video",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL3  สำรอง 3",
-"image":"https://www.andaman888th.com/wp-content/uploads/2019/08/tpf3.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd3/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "EPL4",  
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf4.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-4&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "EPL5",  
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/08/tpf5.jpg",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "True Sport HD",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd.jpg",
-"url": "https://we-play.tv/watching/tv/true-sports-hd",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 2 สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd2/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 2 สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd2.jpg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-hd-2",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3 สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 3 สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd3.jpg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-hd-3",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 4",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport HD 4 สำรอง",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/01/truehd4.jpg",
-"url": "https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd4/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "True Sport 2",
-"image": "https://www.we-play.tv//uploads/posters/-poster1602704152.jpeg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-2",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 5",
-"image": "https://www.we-play.tv//uploads/posters/-poster1602704158.jpeg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-5",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 6",
-"image": "https://www.we-play.tv//uploads/posters/-poster1602704164.jpeg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-6",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "True Sport 7",
-"image": "https://www.we-play.tv//uploads/posters/-poster1602704170.jpeg",
-"url": "https://www.we-play.tv/watching/tv/true-sports-7",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "Fox Sports HD",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports HD สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",
-"url": "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsporthd",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports HD สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsporthd.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-hd",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport2.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2 สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport2.jpg",
-"url": "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsport2",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 2 สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport2.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-2",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport3.jpg",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-foxsports3&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3 สำรอง 1",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport3.jpg",
-"url": "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsport3/",
-"referer": "https://www.andaman888th.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Fox Sports 3 สำรอง 2",
-"image": "https://www.andaman888th.com/wp-content/uploads/2019/04/chfoxsport3.jpg",
-"url": "https://www.we-play.tv/watching/tv/fox-sports-3",
-"referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
 "name": "Bein Sports 1 TH",
 "image": "https://www.img04.xyz/assets/img/ch_logo/epl-bein1.png",
 "url": "https://www.we-play.tv/watching/tv/bein-sports-1",
 "referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 1 TH สำรอง 1",
-"image": "https://www.img04.xyz/assets/img/ch_logo/epl-bein1.png",
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -358,21 +69,11 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "Bein Sports 2 TH",  
 "image": "https://www.img04.xyz/assets/img/ch_logo/epl-bein2.png",  
 "url": "https://www.we-play.tv/watching/tv/bein-sports-2",
 "referer": "https://www.we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Bein Sports 2 TH สำรอง 1",  
-"image": "https://www.img04.xyz/assets/img/ch_logo/epl-bein2.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
@@ -384,46 +85,10 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "True Tennis",
 "image": "https://fifa55u.com/images/icon/TrueSportTennis.png",
 "url": "https://we-play.tv/watching/tv/true-tennis",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Golf Channel",
-"image": "https://fifa55u.com/images/icon/GolfChannel.png",
-"url": "https://we-play.tv/watching/tv/golf-channel",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "NBA TV",
-"image": "https://fifa55u.com/images/icon/nbatvtrue.png",
-"url": "https://we-play.tv/watching/tv/nba-tv",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-{
-"name": "NFL Network",
-"image": "https://www.img04.xyz/assets/img/ch_logo/nfl-network.png",
-"url": "https://we-play.tv/watching/tv/nfl-network",
-"referer": "https://we-play.tv/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Motor Vision",
-"image": "https://cms.dmpcdn.com/livetv/2017/10/17/b672ba25-f8ba-43e4-b9bb-bd06dcc1856a.png",
-"url": "https://we-play.tv/watching/tv/motor-vision",
 "referer": "https://we-play.tv/",
 "info": "museappfree",
 "playInNatPlayer": "true"
@@ -439,20 +104,113 @@
 
 
 {
-"name": "T Sports ",
-"image": "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",  
-"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-tsports&api_key=hmcb4rf66f",
-"referer": "https://dooball66.com/",
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "T Sports สำรอง",
-"image": "https://www.img04.xyz/assets/img/ch_logo/TSportsChannel.png",
-"url": "https://www.ijube.com/channel-tsports/",
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",  
+"image": "",  
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"userAgent": "exoplayer_video",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+
 
 
 
