@@ -2,8 +2,8 @@
 "name": "muse-tv-mix",
 "author": "soe1456",
 "image": "http://31.media.tumblr.com/tumblr_mdc8w1Nu8V1rz202xo1_500.gif",
-"url": "",
-"info": "",
+"url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/muse-tv-mix",
+"info": "@museshan",
 "stations": [
 
 {
@@ -17,15 +17,15 @@
 "name": "The 1",
 "image":"https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
 "url": "https://www.tdtchannels.com/television/La1",
-"referer": "",
+"referer": "https://www.tdtchannels.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
+"name": "À Punt",
+"image":"https://graph.facebook.com/apuntmedia/picture?width=200&height=200",
+"url": "https://www.tdtchannels.com/television/%C3%80Punt",
+"referer": "https://www.tdtchannels.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
