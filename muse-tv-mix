@@ -22,6 +22,14 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "The 2",
+"image":"https://graph.facebook.com/la2detve/picture?width=200&height=200",
+"url": "https://www.tdtchannels.com/television/La2",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
 "name": "À Punt",
 "image":"https://graph.facebook.com/apuntmedia/picture?width=200&height=200",
 "url": "https://www.tdtchannels.com/television/%C3%80Punt",
@@ -30,17 +38,9 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
+"name": "test",
 "image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
+"url": "https://www.stream2watch.la/video/perth-glory-vs-melbourne-victory-09-May-2021",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
