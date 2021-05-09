@@ -3,7 +3,7 @@
 "author": "soe1456",
 "image": "https://i.gifer.com/QQiy.gif",
 "url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/muse%20TV",
-"info": "",
+"info": "@museshan",
 "stations": [
 
 {
@@ -749,14 +749,7 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-{
-"name": "The 1",
-"image":"https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
-"url": "https://www.tdtchannels.com/television/La1",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "",
 "image":"",
