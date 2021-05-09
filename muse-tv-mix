@@ -40,7 +40,7 @@
 {
 "name": "test",
 "image":"",
-"url": "https://app.plex.tv/desktop/#!/media/tv.plex.provider.epg?source=home",
+"url": "http://time4tv.stream/watch/sports/bein-sports-1.php",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
