@@ -48,7 +48,7 @@
 {
 "name": "test",
 "image":"",
-"url": "http://time4tv.stream/watch/sports/sky-sports-action.php",
+"url": "https://d3u7f2c3yddrxc.cloudfront.net:443/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8?SBN",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
