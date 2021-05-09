@@ -38,26 +38,26 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "test",
-"image":"",
+"name": "bein sport hdt",
+"image":"https://logowik.com/content/uploads/images/bein-sports-hd.jpg",
 "url": "http://d1dpxctgkimrcl.cloudfront.net/live/CH2/index.m3u8?SBN",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "test",
-"image":"",
+"name": "yalla-tv",
+"image":"https://yt3.ggpht.com/ytc/AAUvwngY9e0hcx4TMIuhf_VScsvS510Gu5nVv_FqHsAb=s48-c-k-c0x00ffffff-no-rj",
 "url": "https://d3u7f2c3yddrxc.cloudfront.net:443/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8?SBN",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "test",
-"image":"",
+"name": "Canal+",
+"image":"https://static.wikia.nocookie.net/logopedia/images/f/f0/Canal_1984.svg/revision/latest?cb=20200910155212",
 "url": "http://www.hesgoal.com/news/79573/Rennes_vs_PSG.html",
-"referer": "",
+"referer": "http://www.hesgoal.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
