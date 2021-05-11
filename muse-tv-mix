@@ -78,25 +78,25 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "blue sport 1",
+"image":"https://sport-tv-guide.live/images/stations/a251.png",
+"url": "http://cdn.livetv415.me/webplayer.php?t=ifr&c=1583653&lang=es&eid=1066074&lid=1583653&ci=10&si=1",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "M la liga",
+"image":"https://sport-tv-guide.live/images/stations/a1840.png",
+"url": "http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "bein-sports-1-en",
+"image":"https://cdn.bein.com/mena/wp-content/uploads/2019/01/bein-og-01-1.png",
+"url": "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?per",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
