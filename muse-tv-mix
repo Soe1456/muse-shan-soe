@@ -7,6 +7,35 @@
 "stations": [
 
 {
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+{
 "name": "9 may 2021",  
 "image": "https://i.gifer.com/ItDJ.gif",  
 "url": "https://www.facebook.com/profile.php?id=100004241508542",
@@ -102,6 +131,38 @@
 "playInNatPlayer": "true"
 },
 {
+"name": "sport-tv-5",
+"image":"https://sport-tv-guide.live/images/stations/a454.png",
+"url": "https://v7.sportzonline.to/channels/pt/sporttv5.php",
+"referer": "https://v7.sportzonline.to/",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "ESPN 2 VIVO",
+"image":"https://4.bp.blogspot.com/-gXHnoCH2dsY/XLd3nbuXt0I/AAAAAAAAAdU/beFGf1a2pZwzEjd6EFJstpxq7Ulxx-hmACLcBGAs/s1600/ESPN%2B2%2Ben%2Bvivo.pngg",
+"url": "http://23.237.78.54/live-1000/263/playlist.m3u8?SBN",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
 "name": "",
 "image":"",
 "url": "",
@@ -133,9 +194,46 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-
-
-
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
 
 
 
