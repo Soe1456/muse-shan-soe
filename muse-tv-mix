@@ -7,41 +7,43 @@
 "stations": [
 
 {
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-
-
-
-
-{
 "name": "9 may 2021",  
 "image": "https://i.gifer.com/ItDJ.gif",  
 "url": "https://www.facebook.com/profile.php?id=100004241508542",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
+
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "",
+"image":"",
+"url": "",
+"referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
 {
 "name": "The 1",
 "image":"https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
@@ -147,17 +149,17 @@
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "WWE NXT",
+"image":"https://pbs.twimg.com/profile_images/1382432329721864193/Aj6NaB2C_400x400.jpg",
+"url": "http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
 {
-"name": "",
-"image":"",
-"url": "",
+"name": "Eleven Sports 2 Poland",
+"image":"https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",
+"url": "https://daddylive.co/stream/stream-72.php",
 "referer": "",
 "info": "museappfree",
 "playInNatPlayer": "true"
