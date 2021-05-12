@@ -84,14 +84,7 @@
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
-{
-"name": "Canal+",
-"image":"https://static.wikia.nocookie.net/logopedia/images/f/f0/Canal_1984.svg/revision/latest?cb=20200910155212",
-"url": "http://www.hesgoal.com/news/79573/Rennes_vs_PSG.html",
-"referer": "http://www.hesgoal.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
+
 {
 "name": "tennis live",
 "image":"https://pbs.twimg.com/profile_images/1156215890800758784/pEvdg9nZ_400x400.png",
@@ -169,6 +162,14 @@
 "image":"https://sport-tv-guide.live/images/stations/a733.png",
 "url": "http://46.174.189.51/m1/tracks-v1a1/mono.m3u8",
 "referer": "",
+"info": "museappfree",
+"playInNatPlayer": "true"
+},
+{
+"name": "Futbol 1 HD",
+"image":"https://sport-tv-guide.live/images/stations/a733.png",
+"url": "http://46.174.189.51/m1/tracks-v1a1/index.m3u8",
+"referer": "http://www.hesgoal.com/",
 "info": "museappfree",
 "playInNatPlayer": "true"
 },
