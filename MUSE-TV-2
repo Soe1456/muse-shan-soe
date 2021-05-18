@@ -2,22 +2,24 @@
 #EXTM3U
 
 
-#======"Movies"=======#
+#======"series & movies"=======#
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="Series",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(1)
-https://vd352.mycdn.me/expires/1621432109429/srcIp/223.206.208.238/srcAg/CHROME_ANDROID/ms/45.136.21.67/type/3/sig/5zd0GD2qv6A/ct/8/urls/45.136.22.47/clientType/0/id/858528811611/video/
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="Series",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(2)
-https://vd366.mycdn.me/expires/1621433376212/srcIp/223.206.208.238/srcAg/CHROME_ANDROID/ms/185.226.53.73/type/2/sig/o8OWQaxsJo8/ct/8/urls/45.136.22.79/clientType/0/id/858529925723/video/
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="Series",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(3)
-https://vd167.mycdn.me/expires/1621433632111/srcIp/223.206.208.238/srcAg/CHROME_ANDROID/ms/45.136.21.14/type/2/sig/JoniaWanva4/ct/8/urls/185.226.53.76/clientType/0/id/858537134683/video/
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="Series",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(4)
-https://vd174.mycdn.me/expires/1621433977229/srcIp/223.206.208.238/srcAg/CHROME_ANDROID/ms/45.136.21.21/type/2/sig/huFqd5MBc10/ct/8/urls/45.136.22.23/clientType/0/id/858536544859/video/
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="Series",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(5)
-
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(1)
+https://cdn.youlive-cdn.com/hls/a256556f8213f197dfef9d53fe9242c0/a256556f8213f197dfef9d53fe9242c0.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(2)
+https://cdn.youlive-cdn.com/hls/ac500d508ca7062056ab2c1aaa5b9f93/ac500d508ca7062056ab2c1aaa5b9f93.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(3)
+https://cdn.youlive-cdn.com/hls/bc59fe439b78783fec8700833eb84fab/bc59fe439b78783fec8700833eb84fab.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(4)
+https://cdn.youlive-cdn.com/hls/31f7da3276a19ba19de4df80d99ff07e/31f7da3276a19ba19de4df80d99ff07e.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(5)
+https://cdn.youlive-cdn.com/hls/878a030724aac79c095172d5725f93b7/878a030724aac79c095172d5725f93b7.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(6)
+https://cdn.youlive-cdn.com/hls/7c1b404a40965088a6adbc9014adac22/7c1b404a40965088a6adbc9014adac22.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(7)
+https://cdn.youlive-cdn.com/hls/4badff325c1e8ae79cb959d9a0774f41/4badff325c1e8ae79cb959d9a0774f41.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/movie/2019/04/03/a867094b-c9ca-4d43-b1bc-6365d881b16d_original.jpg" group-title="series & movies",Princess Hours รักวุ่นๆเจ้าหญิงจอมจุ้น(8)
+https://cdn.youlive-cdn.com/hls/93e7c936b926be752dd1629e45bbe9cf/93e7c936b926be752dd1629e45bbe9cf.m3u8
 
 
 
