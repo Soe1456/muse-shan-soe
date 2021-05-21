@@ -1162,6 +1162,298 @@ https://cdn.jebriko.ru/vod/disk3/movies/mnseqi.mp4
 #=====================================================
 
 
+#EXTINF:0 ,PREMIER1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 ,PREMIER2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 ,ESPN 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF:0 ,ESPN 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF:0 ,ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+#EXTINF:0 ,ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF:0 ,ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+#EXTINF:0 ,ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+#EXTINF:0 ,Btsport1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 ,Btsport2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 ,Btsport3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:0 ,BEINSPORT EXTRA*
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:0 ,bein1ฐ
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:0 ,bein2ฐ
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:0 ,bein1*
+http://1.alhawalouh.xyz:80/live/6161655/index.m3u8
+#EXTINF:0 ,bein2*
+http://2.alhawalouh.xyz:80/live/616194987/index.m3u8
+#EXTINF:0 ,bein3*
+http://3.alhawalouh.xyz:80/live/6151278887/index.m3u8
+#EXTINF:0 ,MOTOGP
+http://2.alhawalouh.xyz:80/live/1515000000/index.m3u8
+#EXTINF:0 ,SKYNET SPORTS 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0 ,SKYNET SPORTS 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0 ,SPORT TV 1
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 ,SPORT TV 2
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 ,SPORT TV 3
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 ,SPORT TV 4
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 ,SPORT TV 5
+https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0 ,EPL PTV SPORTS 2
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 ,PTV SPORTS 3
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+#EXTINF:0 ,NBCSN GOLD
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/35600
+#EXTINF:0 ,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 ,bt sport1*
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 ,bt sport2*
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 ,Eleven Sport2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:0 ,RMC SPORT 1
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 ,RMC SPORT 2
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6061?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 ,RMC SPORT 3
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6060?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 ,RMC SPORT 4
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 ,POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,IT | SKY SPORT 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:0 ,IT | BIKE SMART MOBILITY
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:0 ,GRE | EPT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:0 ,ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:0 ,ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:0 ,ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:0 ,ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:0 ,BIELOR | 5 SPORT
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:0 ,HOL | ZIGGO VOETBAL
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:0 ,HOL | ZIGGO SELECT
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:0 ,PT | CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:0 ,POL | ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:0 ,POL | ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,RUS | ASTRAKHAN RU
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0 ,RUS | VIASAT SPORT
+http://myott.top/stream/DHMU2PPUTSS/333.m3u8
+#EXTINF:0 ,SUIZA | SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:0 ,TK | TRT SPOR
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 ,UCRA | FOOTBALLUA 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:0 ,UK | RUGBY MEN'S SEVEN
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:0 ,UK | RUGBY WOMEN'S SEVEN
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:0 ,Tvp Sports
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:0 ,Setanta Sport1
+https://sportuslive.ru/setanta1/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Setanta Sport2
+https://sportuslive.ru/setanta2/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,Fightbox
+http://hlstv.kem.211.ru/239.211.211.166/stream.m3u8
+#EXTINF:0 ,Eurosport 1
+https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:0 ,Eurosport 1
+http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:0 ,Eurosport 2
+http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:0 ,Eurosport 4K HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?token=gelow74
+#EXTINF:0 ,Eurosport 1 (Espanol)
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8?token=gelow74
+#EXTINF:0 ,Eurosport 2 (Espanol)
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8?token=gelow74
+#EXTINF:0 ,TVmatic Sport HD
+http://cdn.tvmatic.net/sport.m3u8?token=gelow74
+#EXTINF:0 ,TVmatic Fight HD
+http://cdn.tvmatic.net/fight.m3u8?token=gelow74
+#EXTINF:0 ,M-1 Global
+http://hlstv.kem.211.ru/239.211.211.190/stream.m3u8
+#EXTINF:0 ,Qazsport HD
+http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8?token=gelow74
+#EXTINF:0 ,football 2
+https://95-213-224-179.livesports24.online/fooootball2.m3u8
+#EXTINF:0 ,RUSIA 6
+https://95-213-224-179.livesports24.online/migra.m3u8
+#EXTINF:0 ,RUSIA 7
+https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
+#EXTINF:0 ,Setanta Sports 1 (BACKUP)
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:0 ,SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:0 ,SETANTA SPORTS" 1
+http://92.43.140.200/s81/04.m3u8
+#EXTINF:0 ,SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:0 ,Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:0 ,espn 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0 ,espnu
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:0 ,espn accn
+https://gma2.blab.email/acc.m3u8
+#EXTINF:0 ,espn sec
+https://gma2.blab.email/sec.m3u8
+#EXTINF:0 ,espn fs2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:0 ,cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 ,ru sport tv
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 ,ufc 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:0 ,ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 ,NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0 ,FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 ,FOX SPORTS 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 ,FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:0 ,FOX SPORTS 2 (MOTO GP)
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:0 ,FOX SPORTS 3
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:0 ,FOXSPORTS1*
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0 ,FOXSPORTS2*
+http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:0 ,FOXSPORTS3*
+http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
+#EXTINF:0 ,FOXSPORTS1 MAL
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:0 ,FOXSPORTS2 MAL
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:0 ,FOXSPORTS3 MAL
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:0 ,Fox sports 1 us
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/756
+#EXTINF:0 ,Fox Sports 2 us
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/757
+#EXTINF:0 ,Astro Arena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:0 ,Astro hd
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
+#EXTINF:0 ,Assp2
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
+#EXTINF:0 ,Assp3
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
+#EXTINF:0 ,Assp4
+http://77.247.108.18:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
+#EXTINF:0 ,Mytgon
+http://92.43.140.200/s41/04.m3u8
+#EXTINF:0 ,Fast box
+http://92.43.140.200/s79/04.m3u8
+#EXTINF:0 ,GLOBAL WEEKEND
+http://92.43.140.200/s89/04.m3u8
+#EXTINF:0 ,Mancing mania
+http://92.43.140.200/s55/04.m3u8
+#EXTINF:0 ,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:0 ,TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0 ,TENIS LAPANGAN  1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0 ,TENIS LAPANGAN  2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 ,ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 ,FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 ,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:0 ,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 ,ARYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 ,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 ,ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 ,ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 ,ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 ,ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 ,ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 ,Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:0 ,Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:0 ,Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 ,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 ,Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 ,maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 ,FightBox
+http://92.43.140.249/s86/04.m3u8
 
 
 
