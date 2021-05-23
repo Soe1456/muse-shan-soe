@@ -102,9 +102,427 @@ https://lb1.one3up.com/hls/2a4cf2a163fa2a12a17e7c45a373606c/2a4cf2a163fa2a12a17e
 #=====================================================#
 
 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520767065.jpg",รหัสกระสุนเจาะกะโหลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_13-thirteen-2010-4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15207668891.jpg",คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506872.jpg",แบทเทิลชิป ยุทธการเรือรบพิฆาตเอเลี่ยน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Battleship%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506991.jpg",อาชญากลปล้นโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Now%20You%20See%20Me%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",จอมเวทย์มหากาฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154779.jpg",ทีมเงาอัจฉริยะ
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hidden%20Figures.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 เร็วแรงทะลุนรก 1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg", 2 fast 2 furious เร็ว คูณ 2 ดับเบิ้ล แรง ท้า นรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",เร็ว..แรงทะลุนรก 8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924128.jpg",ทรานส์ฟอร์มเมอร์ส1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.1.2007.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924530.jpg",ทรานส์ฟอร์มเมอร์ส 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.revenge.of.the.fallen.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927191.jpg",ทรานส์ฟอร์มเมอร์ส 3
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.dark.of.the.moon.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927384.jpg",ทรานส์ฟอร์มเมอร์ส4
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.age.of.Extinction.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507557503.jpg",ทรานส์ฟอร์มเมอร์ส 5
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.The.Last.Knight.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866593.jpg",วอร์คราฟต์: กำเนิดศึกสองพิภพ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866612.jpg",X-Men: Apocalypse
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875036.jpg", จี ไอ โจ ภาค 2 สงคราม ระห่ำ แค้น ค อบ ร้า ทมิฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_4K_G.I.Joe.2.Retaliation.Extended.Cut.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866800.jpg",สงครามเทวดา
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866979.jpg",ฮิทแมน: สายลับ 47
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hitman.agent.47.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866525.jpg",สงครามใหม่วันบดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Independence.Day.Resurgence.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866489.jpg",เจสัน บอร์น ยอดจารชนคนอันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jason.bourne.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875321.jpg",จอห์นวิค แรงกว่านรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_John.wick.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875470.jpg",จูราสสิค เวิลด์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jurassic.World.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875817.jpg",ทะลุเวลา อึดล่าอึด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Looper.2012.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",แมด แม็กซ์: ถนนโลกันตร์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866938.jpg",เมซ รันเนอร์ สมรภูมิมอดไหม้
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Maze.Runner.The.Scorch.Trials.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494881925.jpg",oblivion อุบัติ การณ์ โลก ลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867013.jpg",คู่โดยสารพันล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Passengers.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917010.jpg",San Andreas มหาวินาศแผ่นดินแยก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_San.Andreas.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866550.jpg",เต่านินจา 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Teenage.mutant.ninja.turtles.out.of.the.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866659.jpg",5th wave อุบัติ การณ์ ล้างโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.5.th.Wave.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917307.jpg",ดิ อะเมซิ่ง สไปเดอร์แมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Man.2012.4k.2500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866851.jpg",ตำนานแห่งทาร์ซาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.legend.of.tarzan.2016.2160p.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917734.jpg",เดอะ แมน ฟรอม อั.ง.เ.คิ.ล. คู่ดุไร้ปรานี
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.Man.From.U.N.C.L.E.2015.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917863.jpg",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Martian.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494918176.jpg",The Nice Guys กายส์...นายแสบมาก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.nice.guys.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917501.jpg",ดิ อะเมซิ่ง สไปเดอร์-แมน: ผงาดอสูรกายสายฟ้า
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501578936.jpg",Arrival ผู้มาเยือน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Arrival.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501405187.jpg",สวยสังหาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Salt.2010.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501318248.jpg", bad boy คู่หู ขวาง นรก 2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Bad.boys.ii.2003.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497095846.jpg",โลแกน เดอะ วูล์ฟเวอรีน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Logan.2017.4K.TH.1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496046938.jpg",ใหญ่・ปล้น・ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Railroad.Tigers.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496214903.jpg",xXx ทลายแผนยึดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Xxx.Return.Of.Xander.Cage.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866171.jpg",อัสแซสซินส์ครีด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Assassins.Creed.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867197.jpg",avatar อวตาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Avatar.Extended.Edition.2009.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866641.jpg",แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Batman.V.Superman.Dawn.Of.Justice.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867414.jpg",วันยึดโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Battle.Los.Angeles.2011.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867575.jpg",captain america civil war
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866460.jpg",ฝ่าวิบัติเพลิงนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Deepwater.horizon.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869467.jpg",สงครามพลิกจักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866350.jpg",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie_4K",Kingsman: The Golden Circle (2017) คิงส์แมน รวมพลังโคตรพยัคฆ์
+http://191.96.77.3/4kmovie/4K_2160/Kingsman-the-golden-circle-2017-4k.265.hevc.2160p.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Starship Troopers: Traitor of Mars (2017) สงครามหมื่นขา ล่าล้างจักรวาล จอมกบฏดาวอังคาร
+http://191.96.77.3/4kmovie/4K_2160/Starship.troopers.traitor.of.mars.2017.2160p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด
+http://191.96.77.3/4kmovie/4K_2018/Gintama.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Jumanji welcome to the jungle 2017
+http://191.96.77.3/4kmovie/4K_2018/Jumanji.welcome.to.the.jungle.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Meters Down 2017
+http://191.96.77.3/4kmovie/4K_2018/47.meters.down.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",The Wall 2017
+http://191.96.77.3/4kmovie/4K_2018/The.wall.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Beyond skyline 2017
+http://191.96.77.3/4kmovie/4K_2018/Beyond.skyline.2017.1080p.265.hevc.mkv
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1530273446.jpg",Pacific Rim:Uprising 2018:แปซิฟิค ริม ปฏิวัติพลิกโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1529928480.jpg",ยุทธภูมิทะเลแดง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Operation%20Red%20Sea%202018.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520498958.jpg",Only the Brave คนกล้าไฟนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Only.the.brave.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15142861981.jpg",baywatch ไลฟ์การ์ดฮอตพิทักษ์หาด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Baywatch.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security 2017 โคตร ยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519901795.jpg",Justice League จัสติซ ลีก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Justice.League.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",ธอร์: ศึกอวสานเทพเจ้า
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518777044.jpg",PROFESSOR MARSTON AND THE WONDER WOMEN (2017) กำเนิดวันเดอร์วูแมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Professor.Marston.and.the.Wonder.Women.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",เกมดูดโลก บุกป่ามหัศจรรย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Jumanji.Welcome.to.the.Jungle.2017.FullHD.TH.mp4/index.m3u8
+  
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4319.jpg",Knock Knock ล่อมมาเชือด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Knock.knock.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4687.jpg",Retribution พลิกเส้นตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Retribution.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1506155902.jpg",เดอะ เกรท วอลล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.2016.TH.6500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494523380.jpg",007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_James.Bond.007.Casino.Royale.2006.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",ฝ่าวิกฤติ 12 รอบระห่ำนรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494327857.jpg",  2035 ข้ามเวลากู้โลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_2035.The.Forbidden.Dimensions.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 นัด ยมบาลล้างยมบาล
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3112.jpg",Act Of Valor หน่วยพิฆาตระห่ำกู้โลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Act.Of.Valor.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3586.jpg",โคตรคนปล้นระห่ำเมือง
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_American.Heist.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4332.jpg",แผนระห่ำปล้นทะลุเกราะ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Armored.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3201.jpg",ภารกิจดุ กุมชะตาโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Babylon.a.d.2008.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5428.jpg",คู่เดือด...แสบเกินพิกัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Company.2002.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5204.jpg",เกียรติยศคนโฉดถล่มเมืองโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Lieutenant.Port.of.Call.New.Orleans.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2064.jpg",ยุทธการฝ่ารหัสทมิฬ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_Black.Hawk.Down.2001.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4399.jpg",เหาะทะลุฟ้า ซิ่งมหาประลัย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Black.lightning.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4378.jpg",บลิทซ์ ล่าโคตรคลั่งล้าง สน.
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Blitz.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512811671.jpg",ส่ม ภัค เสี่ยน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_SOM.PAK.SIAN.2017.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512636904.jpg",สาระแน เลิฟยูววว
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Saranair-Love%20You.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496148951.jpg",Z Storm คนคมโค่นพายุ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Z.storm.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495887600.jpg",มังกรหนุ่มผยองเดช
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Call.of.heroes.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497795640.jpg",เชือด เดือด ระอุ 2017
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Operation.mekong.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495286782.jpg",ไซอิ๋ว 2017 คนเล็กอิทธิฤทธิ์ใหญ่
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Journey.to.the.west.the.demons.strike.back.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495874155.jpg",โยคะสู้ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Kung.fu.yoga.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1493535522.jpg",วานรคู่ฟัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Monkey.Twins.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/6300.jpg",ก็อดซิลล่า: รีเซอร์เจนซ์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Shin.Godzilla.2016.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495107888.jpg", คน ล่า ฅน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_the.age.of.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1492853447.jpg", ยากูซ่า ปะทะ แวมไพร์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Yakuza.apocalypse.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4968.jpg",ฟ้าใส ใจชื่นบาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Blue.Sky.of.Love.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3299.jpg",ใหญ่พลิกแผ่นดินฟัด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Little.Big.Soldier.2010.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4157.jpg",แม่เบี้ย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Maebia.2015.Uncut.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3647.jpg",หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Rise.of.the.legend.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5225.jpg",เท่ง โหน่ง จีวรบิน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Teng.Nong.jiworn.bin.2011.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2599.jpg",โจโฉ
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.Assassins.2012.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2553.jpg",ล่าทะลุศตวรรษ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.Iceman.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1612.jpg",เจ้าพ่อเซี่ยงไฮ้คนสุดท้าย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.last.tycoon.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4801.jpg",เงือกสาว ปัง ปัง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Mermaid.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4761.jpg",ไซอิ๋ว 2 ตอน ศึกราชาวานรพิชิตมาร
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_The.monkey.2.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3388.jpg",เดชนางพญาผมขาว
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.White.Haired.Witch.Of.Lunar.Kingdom.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1797.jpg",8 ดาบทรมาน 6 ดาบสังหาร
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_14.blades.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2627.jpg",1911 ใหญ่ผ่าใหญ่
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_1911.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4122.jpg",เชือดระอุ ทะลุองศา
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_-197C.Murder.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/251.jpg",7 เพชฌฆาต ทะเลทราย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_7.Assassins.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2956.jpg",มหาบุรุษ กู้แผ่นดิน
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Batter.Of.Wits.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1750.jpg",ผู้หญิงข้าใครอย่าแตะ 1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.1.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1526.jpg",ผู้หญิงข้าใครอย่าแตะ 2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.2.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1527.jpg",ผู้หญิงข้าใครอย่าแตะ 3
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.3.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4727.jpg",พยัคฆ์ย่ำมังกรโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_A.War.Named.Desire.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2820.jpg",จอมโจรหัวใจไม่ลวงรัก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.World.Without.Thieves.2005.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3895.jpg",ศึกทะยานฟ้า กวดวิชาถล่มมาร
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_Arahan.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/936.jpg", สงครามธนูพิฆาต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Arrow.the.ultimate.weapon.2011.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",12 Rounds
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 Bullets
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91C0NkRaPuL._SL1500_.jpg",Oblivion อุบัติการณ์โลกลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
 
 
+หนัง2...
+#EXTINF:-1 group-title="Movie"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1D35F8iydL._SL1500_.jpg",Gods of Egypt
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security โคตรยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1, Dejavu
+https://glus-st.mthcdn.com/stream/video02/2018/07/19/1531992148/1531992148_720.mp4
+
+#EXTINF:-1, i Spit On Your Grave1
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514472978/1514472978_720.mp4
+
+#EXTINF:-1, i Spit On Your Grave2
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514473017/1514473017_720.mp4
+
+#EXTINF:-1, i Spit On Your Grave3
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514480073/1514480073_720.mp4
+
+#EXTINF:-1, Suicide Squad
+https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515652416/1515652416_720.mp4
+
+#EXTINF:-1, Green Lantern
+https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515908100/1515908100_720.mp4
+
+#EXTINF:-1, MadMax FuryRoad
+https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516802687/1516802687_720.mp4
+
+#EXTINF:-1, Along With The God1
+https://glus-st.mthcdn.com/stream/video02/2018/04/16/1523867634/1523867634_720.mp4
+
+#EXTINF:-1, kingsman2
+https://glus-st.mthcdn.com/stream/video02/2017/12/03/1512283514/1512283514_720.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://doonungdee.online/cover/1532060159.jpg",Next
+https://glus-st.mthcdn.com/stream/video02/2018/07/18/1531908815/1531908815_720.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://onlinemini-hd.com/wp-content/uploads/2015/08/Transformers-4-202x289.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
+
+#=====================================================#
 
 
 
