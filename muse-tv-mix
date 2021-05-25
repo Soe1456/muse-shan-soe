@@ -47,7 +47,7 @@
 {
 "name": "test",
 "image":"",
-"url": "",
+"url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
 "referer": "https://www.ilike-movie.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html",
 "info": "museappfree",
 "playInNatPlayer": "true"
