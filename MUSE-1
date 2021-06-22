@@ -1335,7 +1335,26 @@ http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/7438
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274018
 #EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/270ed65ab46ab2fc29edbc3d3691a203.png" ,UK: BT Sport Extra 6 HD
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/192750
-
+#EXTINF:-1 group-title="UK" tvg-name="UK: EDGE Sport HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" ,UK: EDGE Sport HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/54012
+#EXTINF:-1 group-title="UK" tvg-name="UK: EIR SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: EIR SPORTS 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4725
+#EXTINF:-1 group-title="UK" tvg-name="UK: EIR SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: EIR SPORTS 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/67830
+#EXTINF:-1 group-title="UK" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: ELEVEN SPORTS 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23514
+#EXTINF:-1 group-title="UK" tvg-id="eurosport1.uk" tvg-name="UK: euronews FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: euronews FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1554
+#EXTINF:-1 group-title="UK" tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" ,UK: EUROSPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/692
+#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport2.uk" tvg-name="UK EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" ,UK EUROSPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273577
+#EXTINF:-1 group-title="UK" tvg-name="UK: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" ,UK: EUROSPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1555
+#EXTINF:-1 group-title="Best of Sports" tvg-name="UK EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" ,UK EUROSPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273585
+#EXTINF:-1 group-title="UK" tvg-name="UK: FIGHT BOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3bcabde5f09c868f60b3d691fdf16025.png" ,UK: FIGHT BOX FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/11485
 
 
 
