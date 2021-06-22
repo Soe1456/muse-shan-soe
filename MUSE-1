@@ -1085,6 +1085,38 @@ http://cloudcdn.tk:80/Francesco1/M928b80968/28378
 #EXTINF:-1 ,Sky Sport Austria 2 HD (nur Spiel Tag) AT
 http://cloudcdn.tk:80/Francesco1/M928b80968/28374
 
+#=======================""==============================#
+
+#EXTINF:-1 group-title="Arabic" tvg-name="AR: KSA Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,AR: KSA Sports 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/17316
+#EXTINF:-1 group-title="Arabic" tvg-name="AR: KSA Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,AR: KSA Sports 3 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/43712
+#EXTINF:-1 group-title="Romania" tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" ,RO: DIGI SPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/71457
+#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport1.ro" tvg-name="RO DIGI SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" ,RO DIGI SPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273534
+#EXTINF:-1 group-title="Romania" tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" ,RO: DIGI SPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/71459
+#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport2.ro" tvg-name="RO DIGI SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" ,RO DIGI SPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/81580
+#EXTINF:-1 group-title="Romania" tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" ,RO: DIGI SPORT 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2243
+#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport3.ro" tvg-name="RO DIGI SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" ,RO DIGI SPORT 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273529
+#EXTINF:-1 group-title="Romania" tvg-name="RO: DIGI SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" ,RO: DIGI SPORT 4 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4219
+#EXTINF:-1 group-title="Best of Sports" tvg-name="RO DIGI SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" ,RO DIGI SPORT 4 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273530
+#EXTINF:-1 group-title="Romania" tvg-id="eurosport1.ro" tvg-name="RO: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" ,RO: EUROSPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4221
+#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport1.ro" tvg-name="RO EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" ,RO EUROSPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273593
+#EXTINF:-1 group-title="Romania" tvg-id="eurosport2.ro" tvg-name="RO: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" ,RO: EUROSPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4222
+#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport2.ro" tvg-name="RO EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" ,RO EUROSPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273594
+#EXTINF:-1 group-title="Romania" tvg-id="extremesports.ro" tvg-name="RO: Extreme Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0ad1b81bf39627719b3235060f82f6ac.png" ,RO: Extreme Sports
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/9818
 
 
 
