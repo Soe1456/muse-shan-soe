@@ -1255,6 +1255,88 @@ http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276473
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276474
 #EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 5 FHD
 http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276475
+#EXTINF:-1 group-title="Belgium" tvg-id="voosportworld1.be" tvg-name="BE: Voo Sport World 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9200adb2d3381419d32af6ba7203a1a.png" ,BE: Voo Sport World 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/245
+#EXTINF:-1 group-title="Best of Sports" tvg-id="voosportworld1.be" tvg-name="BE Voo Sport World 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9200adb2d3381419d32af6ba7203a1a.png" ,BE Voo Sport World 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273918
+#EXTINF:-1 group-title="Belgium" tvg-name="BE: Voo Sport World 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe3e202978b4f951509a510282327d2.png" ,BE: Voo Sport World 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1964
+#EXTINF:-1 group-title="Best of Sports" tvg-name="BE Voo Sport World 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe3e202978b4f951509a510282327d2.png" ,BE Voo Sport World 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273920
+#EXTINF:-1 group-title="Switzerland" tvg-id="mysports1.ch" tvg-name="CH: MySports 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23837
+#EXTINF:-1 group-title="Switzerland" tvg-id="mysports2.ch" tvg-name="CH: MySports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/35843
+#EXTINF:-1 group-title="Switzerland" tvg-id="mysports3.ch" tvg-name="CH: MySports 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/70853
+#EXTINF:-1 group-title="Switzerland" tvg-id="mysports4.ch" tvg-name="CH: MySports 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 4 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23838
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 5 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/90859
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 6 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148193
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 7 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148191
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 8 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148198
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 2/S 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 2/S 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148195
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 3/S 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 3/S 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148196
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 4/S 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 4/S 4 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148194
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports DE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports DE HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/198883
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/75723
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports Fr FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports Fr FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/169987
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: TC Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TC Sport 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/157390
+#EXTINF:-1 group-title="Switzerland" tvg-id="teleclubsport1.ch" tvg-name="CH: TELECLUB SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TELECLUB SPORT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2815
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: TELECLUB SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TELECLUB SPORT 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/6187
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: Teleclub Sport EVENT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: Teleclub Sport EVENT 1 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/266820
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: UPC My Sports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: UPC My Sports FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/151278
+#EXTINF:-1 group-title="Switzerland" tvg-name="CH: Viasat Sport HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: Viasat Sport HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148058
+#EXTINF:-1 group-title="UK" tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsport2.uk" tvg-name="UK BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK BT Sport 2 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28344
+#EXTINF:-1 group-title="UK" tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/271
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsport3.uk" tvg-name="UK BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK BT Sport 3 FHD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28348
+#EXTINF:-1 group-title="UK" tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 1 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/270
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportespn.uk" tvg-name="UK BT Sport ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" ,UK BT Sport ESPN HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28349
+#EXTINF:-1 group-title="UK" tvg-id="btsportx1.uk" tvg-name="UK: BT Sport Extra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd8481a6dd51dc2283f529290a353e6e.png" ,UK: BT Sport Extra 1 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/7435
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx1.uk" tvg-name="UK BT Sport Extra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd8481a6dd51dc2283f529290a353e6e.png" ,UK BT Sport Extra 1 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274016
+#EXTINF:-1 group-title="UK" tvg-id="btsportx2.uk" tvg-name="UK: BT Sport Extra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f429fb2ef387debe282f9a05acbb4fd5.png" ,UK: BT Sport Extra 2 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/48713
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx2.uk" tvg-name="UK BT Sport Extra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f429fb2ef387debe282f9a05acbb4fd5.png" ,UK BT Sport Extra 2 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274024
+#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3deb1ec4af9c3a64b1945b8ec5abbfdf.png" ,UK: BT Sport Extra 3 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/279255
+#EXTINF:-1 group-title="UK" tvg-id="btsportx4.uk" tvg-name="UK: BT Sport Extra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76e2e34d4722f591f6f174afad298cfe.png" ,UK: BT Sport Extra 4 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/47961
+#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx4.uk" tvg-name="UK BT Sport Extra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76e2e34d4722f591f6f174afad298cfe.png" ,UK BT Sport Extra 4 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274023
+#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ad8e6710e007ed8cfd7024c66b2f0ec.png" ,UK: BT Sport Extra 5 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/7438
+#EXTINF:-1 group-title="Best of Sports" tvg-name="UK BT Sport Extra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ad8e6710e007ed8cfd7024c66b2f0ec.png" ,UK BT Sport Extra 5 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274018
+#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/270ed65ab46ab2fc29edbc3d3691a203.png" ,UK: BT Sport Extra 6 HD
+http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/192750
+
+
 
 
 
