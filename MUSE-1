@@ -4,8 +4,309 @@
 
 #======================"Sports"===============================#
 
-#EXTINF:-1 ,Polsat Sport Premium 5 PPV FHD PL
-http://85.203.33.88:80/81mwBsZ2/WwC6B62/23422
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,PREMIER1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,PREMIER2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN
+http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 1
+http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 2
+http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 3
+http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 4
+http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 5
+http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,ESPN 6
+http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,Btsport1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,Btsport2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,Btsport3
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,La liga
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,BEINSPORT EXTRA*
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,bein1°
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:0 group-title="WorldSports" tvg-id="bein1hd.jsc" ,bein2°
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png" ,SKYNET SPORTS 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS HD
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png" ,SKYNET SPORTS 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg" ,SPORT TV 1
+https://sport.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg" ,SPORT TV 2
+https://sport.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg" ,SPORT TV 3
+https://sport.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg" ,SPORT TV 4
+https://sport.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg" ,SPORT TV 5
+https://sport.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" ,SPORT​S TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" ,SPORT​S TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" ,SPORT​S TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" ,SPORT​S TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" ,SPORT​S TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" ,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="WorldSports" ,bt sport1*
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" ,bt sport2*
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" ,Eleven Sport1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="WorldSports" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" ,Eleven Sport2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:0 group-title="WorldSports" ,RMC SPORT 1
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6062?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 group-title="WorldSports" ,RMC SPORT 2
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6061?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 group-title="WorldSports" ,RMC SPORT 3
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6060?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:0 group-title="WorldSports" ,RMC SPORT 4
+http://51.15.12.219:8080/kennythetiger244/n6wfNmBlQA/6059?token=GhoNVBVaEA4WUgANVgNSXFgBDgUHAFdRVw5bU1cMB1ZVAVAFUwZQAg1BHBpHRhBdAA9oDQdACQQDDlAdE0FHARNnDFFECBAABVQBGhgQFlEMBxVeUlQDCwMBUgYJBxhGEVEBF1wQAAwEUQcaGBAHQBUHRQoCDmxWVk4LUlQWDgoUVAkZRF1ca1AGXVlaVkACQ1MVSEELQEIRAgxEXVgYRgNREUcHRlcWDkEBAA0CQBRDAVgRDRZBSxECQGRiFhhGBEARUAhBW1taQQoaQEFAFEMLRDsRB0BGQV0DXFRGFl5DCUcZRF9TTGsAX1ZaVwFMCA1ZF0FYEQMDCFITHRZZCw9REVoUbUJdUEEKGgYFVw1ZQEo
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://static.epg.best/pl/CanalPlusSport.pl.png" ,POL | CANAL + SPORTS
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" ,IT | SKY SPORT 24
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://media.engage.it/2021/1/bike-bfc_326346.jpg" ,IT | BIKE SMART MOBILITY
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" ,GRE | EPT SPORTS 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" ,GRE | EPT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" ,GRE | EPT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" ,GRE | EPT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" ,GRE | EPT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" ,ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" ,ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" ,ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" ,ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://lh6.googleusercontent.com/proxy/wWzqXT-iNUZoFrWRFpbYl75Na3Zy6GjuOuDg83q8bJ1SzGtf6_gmVrVjHG5Qu1hgg7hbIubf5qJFH7-oZ--OzRJQUnzk" ,BIELOR | 5 SPORT
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" ,HOL | ZIGGO VOETBAL
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" ,HOL | ZIGGO SELECT
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" ,HOL | ZIGGO RACING
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,PT | CANAL 11
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png" ,POL | ELEVEN SPORTS 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png" ,POL | ELEVEN SPORTS 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UC4NSl5xpEw7GFClwKO0XEo5zUJUxRu_WQ&usqp=CAU" ,RUS | ASTRAKHAN RU
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgf8hpeqRJTg3FLtyHBfMZxNlkY2JDRPZfQ&usqp=CAU" ,RUS | VIASAT SPORT
+http://myott.top/stream/DHMU2PPUTSS/333.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://audienzz.ch/wp-content/uploads/2016/10/swiss_sport.tv-logo-1.png" ,SUIZA | SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" ,TK | TRT SPOR
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/f/f3/World_Rugby_Sevens_Series_logo.png" ,UK | RUGBY MEN'S SEVEN
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 group-title="WorldSports2" tvg-logo="https://i.imgur.com/HZp8PAw.png" ,UK | RUGBY WOMEN'S SEVEN
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" ,Tvp Sports
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Футбол 2
+https://s4.idata.uz/football2/tracks-v3a1/rewind-7200.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1
+https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1
+http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 2
+http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 4K HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1 (Espanol)
+http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Eurosport 2 (Espanol)
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Матч! ТВ
+http://hlstest.eltex-media.ru:8085/Match!/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Матч! Арена
+http://185.74.7.220:8080/arena/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Матч! Арена
+https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Матч! Игра HD
+https://s4.idata.uz/igra/tracks-v1a1/mono.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Матч! Игра
+https://s1.idata.uz/stch_temp19/tracks-v1a1/rewind-7200.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" ,TVmatic Sport HD
+http://cdn.tvmatic.net/sport.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,TVmatic Fight HD
+http://cdn.tvmatic.net/fight.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Точка отрыва
+http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Точка отрыва
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?token=gelow74
+#EXTINF:-1 group-title="Спорт" ,Qazsport HD
+http://176.222.190.76/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8?token=gelow74
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,Setanta Sports 1 (BACKUP)
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,SETANTA SPORTS 1
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,SETANTA SPORTS" 1
+http://92.43.140.200/s81/04.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL" tvg-logo="TEST" ,cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,ru sport tv
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,SERI A ITALIA
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,ufc 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,ufc 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="FOOTBALL2" tvg-logo="TEST" ,NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOX SPORTS 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 ,
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS1*
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS2*
+http://77.83.117.60:8888/02_FoxSport2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS3*
+http://77.83.117.60:8888/02_FoxSport3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS1 MAL
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS2 MAL
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 group-title="FoxSports" tvg-logo="TEST" ,FOXSPORTS3 MAL
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,Mytgon
+http://92.43.140.200/s41/04.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,Fast box
+http://92.43.140.200/s79/04.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,GLOBAL WEEKEND
+http://92.43.140.200/s89/04.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,Mancing mania
+http://92.43.140.200/s55/04.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0 group-title="SportsUnggulan" tvg-logo="TEST" ,SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+#EXTINF:0 group-title="SportsUnggulan" tvg-logo="TEST" ,TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,TENIS LAPANGAN  1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,TENIS LAPANGAN  2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,FIGHT SPORTS
+http://210.210.155.35:80/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="SportsUnggulan" tvg-logo="TEST" ,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SportsArab1" tvg-logo="TEST" ,ARYADIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 group-title="SportsArab1" tvg-logo="TEST" ,ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title="SportsArab1" tvg-logo="TEST" ,Ad Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="SportsArab1" tvg-logo="TEST" ,Ad Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="SportsArab1" tvg-logo="TEST" ,Ad Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 group-title="SportsArab2" tvg-logo="TEST" ,maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="TEST" ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="TEST" ,ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="TEST" ,DD sportS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="TEST" ,FightBox
+http://92.43.140.249/s86/04.m3u8
+
+#======================="github-muse-1"==============================#
+
+#EXTINF:-1 ,bein 1
+http://202.150.161.68:4000/play/a001/index.m3u8
+#EXTINF:-1 ,bein 2
+http://202.150.161.68:4000/play/a002/index.m3u8
 #EXTINF:-1 ,SuperSport PSL HD ZA
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/28894
 #EXTINF:-1 ,SuperSport LaLiga HD ZA
@@ -44,8 +345,6 @@ http://85.203.33.88:80/81mwBsZ2/WwC6B62/3822
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/3823
 #EXTINF:-1 ,SuperSport News FHD AL
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/22807
-#EXTINF:-1 ,SuperSport 1 HD AL
-http://85.203.33.88:80/81mwBsZ2/WwC6B62/4198
 #EXTINF:-1 ,SuperSport 2 HD AL
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/4199
 #EXTINF:-1 ,SuperSport 3 FHD AL
@@ -64,10 +363,6 @@ http://85.203.33.88:80/81mwBsZ2/WwC6B62/15635
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/8077
 #EXTINF:-1 ,Tring Sport 2 FHD AL
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/8079
-#EXTINF:-1 ,Tring Sport 3 HD AL
-http://85.203.33.88:80/81mwBsZ2/WwC6B62/8080
-#EXTINF:-1 ,Tring Sport 4 HD AL
-http://85.203.33.88:80/81mwBsZ2/WwC6B62/8081
 #EXTINF:-1 ,K-Sport 1 AL
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/9150
 #EXTINF:-1 ,K-Sport 2 AL
@@ -144,8 +439,6 @@ http://85.203.33.88:80/81mwBsZ2/WwC6B62/5522
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/14978
 #EXTINF:-1 ,beIN SPORTS 2 HD FR
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/15637
-#EXTINF:-1 ,beIN SPORTS 3 FHD FR
-http://85.203.33.88:80/81mwBsZ2/WwC6B62/4477
 #EXTINF:-1 ,beIN SPORTS 3 HD FR
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/14979
 #EXTINF:-1 ,beIN SPORTS MAX 4 FR
@@ -320,1041 +613,10 @@ http://85.203.33.88:80/81mwBsZ2/WwC6B62/30091
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/57332
 #EXTINF:-1 ,TV3 Sport FHD LT
 http://85.203.33.88:80/81mwBsZ2/WwC6B62/57333
-
-#======================="france"==============================#
-
-
-#EXTINF:-1 ,beIN SPORTS 1 4K QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/24697
-#EXTINF:-1 ,beIN SPORTS 1 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22157
-#EXTINF:-1 ,beIN SPORTS 1 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14980
-#EXTINF:-1 ,beIN SPORTS 1 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14981
-#EXTINF:-1 ,beIN SPORTS 2 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22158
-#EXTINF:-1 ,beIN SPORTS 2 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14982
-#EXTINF:-1 ,beIN SPORTS 2 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14983
-#EXTINF:-1 ,beIN SPORTS 3 4K QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/24695
-#EXTINF:-1 ,beIN SPORTS 3 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22159
-#EXTINF:-1 ,beIN SPORTS 3 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14984
-#EXTINF:-1 ,beIN SPORTS 3 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14985
-#EXTINF:-1 ,beIN SPORTS 4 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22160
-#EXTINF:-1 ,beIN SPORTS 4 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14986
-#EXTINF:-1 ,beIN SPORTS 4 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14987
-#EXTINF:-1 ,bein SPORTS 5 4K QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/24693
-#EXTINF:-1 ,beIN SPORTS 5 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22161
-#EXTINF:-1 ,beIN SPORTS 5 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14988
-#EXTINF:-1 ,beIN SPORTS 5 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14989
-#EXTINF:-1 ,beIN SPORTS 6 4K QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/24692
-#EXTINF:-1 ,beIN SPORTS 6 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22162
-#EXTINF:-1 ,beIN SPORTS 6 HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14990
-#EXTINF:-1 ,beIN SPORTS 6 SD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/14991
-#EXTINF:-1 ,beIN SPORTS 1 English HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/15000
-#EXTINF:-1 ,beIN SPORTS 2 English HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/15001
-#EXTINF:-1 ,beIN SPORTS 1 HD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/14977
-#EXTINF:-1 ,beIN SPORTS 2 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/14978
-#EXTINF:-1 ,beIN SPORTS 2 HD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/15637
-#EXTINF:-1 ,beIN SPORTS 3 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/4477
-#EXTINF:-1 ,beIN SPORTS 3 HD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/14979
-#EXTINF:-1 ,beIN SPORTS MAX 4 FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18218
-#EXTINF:-1 ,beIN SPORTS MAX 5 FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18219
-#EXTINF:-1 ,beIN SPORTS MAX 6 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18220
-#EXTINF:-1 ,beIN SPORTS MAX 7 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18221
-#EXTINF:-1 ,beIN SPORTS MAX 8 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18222
-#EXTINF:-1 ,beIN SPORTS MAX 9 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/18223
-#EXTINF:-1 ,beIN SPORTS 1 HD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/15719
-#EXTINF:-1 ,beIN SPORTS 2 HD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/15943
-#EXTINF:-1 ,beIN SPORTS 3 HD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/6414
-#EXTINF:-1 ,beIN SPORTS 1 FHD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17739
-#EXTINF:-1 ,beIN SPORTS 2 FHD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17740
-#EXTINF:-1 ,beIN SPORTS 3 FHD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17741
-#EXTINF:-1 ,beIN SPORTS 4 FHD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/19038
-#EXTINF:-1 ,beIN SPORTS HABER HD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17896
-#EXTINF:-1 ,beIN SPORTS 4 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/9013
-#EXTINF:-1 ,beIN SPORTS HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/15002
-#EXTINF:-1 ,beIN SPORTS News HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/17038
-#EXTINF:-1 ,beIN SPORTS GLOBAL FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/21927
-#EXTINF:-1 ,beIN SPORTS GLOBAL HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/21926
-#EXTINF:-1 ,beIN SPORTS MAX 1 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22164
-#EXTINF:-1 ,beIN SPORTS MAX 2 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/22167
-#EXTINF:-1 ,beIN SPORTS MAX 3 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/27394
-#EXTINF:-1 ,beIN SPORTS MAX 2 HD TR
-http://cloudcdn.tk:80/Francesco1/M928b80968/29048
-#EXTINF:-1 ,beIN SPORTS HD MY
-http://cloudcdn.tk:80/Francesco1/M928b80968/27938
-#EXTINF:-1 ,beIN SPORTS HD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/29604
-#EXTINF:-1 ,beIN LaLiga HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/32747
-#EXTINF:-1 ,beIN SPORTS 5 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/32748
-#EXTINF:-1 ,beIN SPORTS 6 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/32749
-#EXTINF:-1 ,beIN SPORTS 7 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/32750
-#EXTINF:-1 ,beIN SPORTS Canada HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/51290
-#EXTINF:-1 ,beIN SPORTS Premium 1 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/75533
-#EXTINF:-1 ,beIN SPORTS Premium 3 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/75535
-#EXTINF:-1 ,beIN SPORTS MAX 5 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/81407
-#EXTINF:-1 ,beIN SPORTS MAX 6 FHD QA
-http://cloudcdn.tk:80/Francesco1/M928b80968/81408
-#EXTINF:-1 ,Play Sports 1 FHD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/26835
-#EXTINF:-1 ,Play Sports 2 HD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/26836
-#EXTINF:-1 ,Play Sports 3 FHD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/34490
-#EXTINF:-1 ,Eleven Sports 1 HD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28711
-#EXTINF:-1 ,Eleven Sports 2 HD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28712
-#EXTINF:-1 ,Eleven Sports 3 HD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/44052
-#EXTINF:-1 ,Eleven Pro League 2 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/50897
-#EXTINF:-1 ,VOO Sport World 1 FHD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/62716
-#EXTINF:-1 ,VOO Sport World 2 FHD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/62717
-#EXTINF:-1 ,VOO Sport World 3 FHD BE
-http://cloudcdn.tk:80/Francesco1/M928b80968/67450
-#EXTINF:-1 ,Eleven Pro League 1 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/72651
-#EXTINF:-1 ,Eleven Pro League 3 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/72652
-#EXTINF:-1 ,TV 3 Sport DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/12067
-#EXTINF:-1 ,TV 3 Sport FHD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/16605
-#EXTINF:-1 ,TV2 Sport HD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/11563
-#EXTINF:-1 ,TV 2 Sport X HD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/30318
-#EXTINF:-1 ,Eurosport 2 HD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/15512
-#EXTINF:-1 ,Sport Live FHD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/29346
-#EXTINF:-1 ,V Sport Golf HD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/30088
-#EXTINF:-1 ,V Sport Ultra UHD DK
-http://cloudcdn.tk:80/Francesco1/M928b80968/30091
-#EXTINF:-1 ,Eurosport 1 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/1443
-#EXTINF:-1 ,Eurosport 2 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/1444
-#EXTINF:-1 ,Arena Sport 1 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/1436
-#EXTINF:-1 ,Arena Sport 1 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/19004
-#EXTINF:-1 ,Arena Sport 2 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17914
-#EXTINF:-1 ,Arena Sport 3 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/1438
-#EXTINF:-1 ,Arena Sport 3 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17916
-#EXTINF:-1 ,Arena Sport 4 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17915
-#EXTINF:-1 ,Arena Sport 5 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13827
-#EXTINF:-1 ,Arena Sport 6 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13828
-#EXTINF:-1 ,Arena Sport 1 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/3182
-#EXTINF:-1 ,Arena Sport 2 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/3183
-#EXTINF:-1 ,Arena Sport 2 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/52132
-#EXTINF:-1 ,Arena Sport 3 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/3184
-#EXTINF:-1 ,Arena Sport 4 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/3185
-#EXTINF:-1 ,Arena Sport 5 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/3186
-#EXTINF:-1 ,Sport Klub HD [Multi-audio] ex-Yu
-http://cloudcdn.tk:80/Francesco1/M928b80968/27524
-#EXTINF:-1 ,Sport Klub 1 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17252
-#EXTINF:-1 ,Sport Klub 1 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17256
-#EXTINF:-1 ,Sport Klub 2 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13833
-#EXTINF:-1 ,Sport Klub 2 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17254
-#EXTINF:-1 ,Sport Klub 3 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13834
-#EXTINF:-1 ,Sport Klub 3 FHD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17917
-#EXTINF:-1 ,Sport Klub 4 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17249
-#EXTINF:-1 ,Sport Klub 5 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17250
-#EXTINF:-1 ,Sport Klub 1 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/13832
-#EXTINF:-1 ,Sport Klub 1 FHD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/1440
-#EXTINF:-1 ,Sport Klub 2 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/1441
-#EXTINF:-1 ,Sport Klub 3 HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/1442
-#EXTINF:-1 ,Sport Klub 3 FHD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/17258
-#EXTINF:-1 ,Sport Klub 4 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/13829
-#EXTINF:-1 ,Sport Klub 5 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/13830
-#EXTINF:-1 ,Sport Klub 6 RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/13831
-#EXTINF:-1 ,Sport Klub Golf HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/17745
-#EXTINF:-1 ,Nova Sport HD RS
-http://cloudcdn.tk:80/Francesco1/M928b80968/29855
-#EXTINF:-1 ,Sportska TV HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13861
-#EXTINF:-1 ,PlanetSport 1 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/26089
-#EXTINF:-1 ,PlanetSport 2 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/26090
-#EXTINF:-1 ,PlanetSport 3 HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/26091
-#EXTINF:-1 ,PlanetSport 4 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/27815
-#EXTINF:-1 ,PlanetSport 5 HD HR
-http://cloudcdn.tk:80/Francesco1/M928b80968/27816
-#EXTINF:-1 ,Sport Klub 2 SI
-http://cloudcdn.tk:80/Francesco1/M928b80968/16821
-#EXTINF:-1 ,Sport Klub 3 FHD SI
-http://cloudcdn.tk:80/Francesco1/M928b80968/16822
-#EXTINF:-1 ,Sport TV 1 HD SI
-http://cloudcdn.tk:80/Francesco1/M928b80968/27817
-#EXTINF:-1 ,Sport TV 2 HD SI
-http://cloudcdn.tk:80/Francesco1/M928b80968/27818
-#EXTINF:-1 ,RMC Sport 2 HD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/2251
-#EXTINF:-1 ,RMC Sport 3 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/21522
-#EXTINF:-1 ,RMC Sport 4 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/13148
-#EXTINF:-1 ,RMC Sport Access 1 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28583
-#EXTINF:-1 ,RMC Sport Access 3 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28585
-#EXTINF:-1 ,RMC Sport Live 5 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28586
-#EXTINF:-1 ,RMC Sport Live 9 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28590
-#EXTINF:-1 ,RMC Sport Live 10 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28591
-#EXTINF:-1 ,RMC Sport Live 11 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28592
-#EXTINF:-1 ,RMC Sport Live 13 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28594
-#EXTINF:-1 ,RMC Sport Live 14 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28595
-#EXTINF:-1 ,RMC Sport Live 15 FHD FR
-http://cloudcdn.tk:80/Francesco1/M928b80968/28596
-#EXTINF:-1 ,DAZN 1 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/23280
-#EXTINF:-1 ,DAZN 2 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/23281
-#EXTINF:-1 ,Eurosport 1 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/19101
-#EXTINF:-1 ,Eurosport 2 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/15568
-#EXTINF:-1 ,Eurosport 2 Xtra HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/17281
-#EXTINF:-1 ,Sky Sport News DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14577
-#EXTINF:-1 ,Sky Sport News FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/7337
-#EXTINF:-1 ,Sky Sport F1 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/74989
-#EXTINF:-1 ,Sky Bundesliga 1 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/7338
-#EXTINF:-1 ,Sky Bundesliga 3 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14552
-#EXTINF:-1 ,Sky Bundesliga 9 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/7346
-#EXTINF:-1 ,Sky Sport 1 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14559
-#EXTINF:-1 ,Sky Sport 1 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/1479
-#EXTINF:-1 ,Sky Sport 1 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/7326
-#EXTINF:-1 ,Sky Sport 2 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14560
-#EXTINF:-1 ,Sky Sport 4 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14562
-#EXTINF:-1 ,SPORT1 DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/9552
-#EXTINF:-1 ,SPORT1 FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/15745
-#EXTINF:-1 ,sportdigital HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/16582
-#EXTINF:-1 ,Auto Motor und Sport HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/19658
-#EXTINF:-1 ,FC Bayern FHD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/16767
-#EXTINF:-1 ,Sky Sport 24 HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/1686
-#EXTINF:-1 ,Sky Sport F1 HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/1691
-#EXTINF:-1 ,Sky Sport MotoGP HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3639
-#EXTINF:-1 ,Sky Uno HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/1681
-#EXTINF:-1 ,Super Tennis HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/4084
-#EXTINF:-1 ,Super! HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/14066
-#EXTINF:-1 ,Sky Sport Football HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/17371
-#EXTINF:-1 ,Sky Sport Collection HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23265
-#EXTINF:-1 ,Top Calcio 24 IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/28203
-#EXTINF:-1 ,Sky Sport HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23266
-#EXTINF:-1 ,Sky SuperCalcio HD IT
-http://cloudcdn.tk:80/Francesco1/M928b80968/1692
-#EXTINF:-1 ,Extreme Sports NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/11233
-#EXTINF:-1 ,FOX FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/17215
-#EXTINF:-1 ,ESPN HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/15843
-#EXTINF:-1 ,ESPN 2 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4170
-#EXTINF:-1 ,ESPN 2 FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/12530
-#EXTINF:-1 ,ESPN 3 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4171
-#EXTINF:-1 ,ESPN 3 FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/17218
-#EXTINF:-1 ,ESPN 4 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4172
-#EXTINF:-1 ,ESPN 5 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4173
-#EXTINF:-1 ,ESPN 6 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/11231
-#EXTINF:-1 ,Ziggo Sport FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/29050
-#EXTINF:-1 ,Ziggo Sport Voetbal NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4167
-#EXTINF:-1 ,Ziggo Sport Racing HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/7009
-#EXTINF:-1 ,Ziggo Sport Golf HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/4168
-#EXTINF:-1 ,Ziggo Sport Docu NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/7007
-#EXTINF:-1 ,Ziggo Sport Extra NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/7008
-#EXTINF:-1 ,Eurosport 1 HD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/11235
-#EXTINF:-1 ,Eurosport 1 FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/12532
-#EXTINF:-1 ,ESPN 4 FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/17219
-#EXTINF:-1 ,ESPN 5 FHD NL
-http://cloudcdn.tk:80/Francesco1/M928b80968/17220
-#EXTINF:-1 ,Viasport 1 HD NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/19644
-#EXTINF:-1 ,Viasport 2 HD NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/19645
-#EXTINF:-1 ,Viasport 3 HD NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/19646
-#EXTINF:-1 ,TV 2 Sport 1 HD NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30076
-#EXTINF:-1 ,Eurosport Pluss 9 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30084
-#EXTINF:-1 ,Eurosport Pluss 2 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/16974
-#EXTINF:-1 ,Eurosport Pluss 3 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/16975
-#EXTINF:-1 ,Eurosport Pluss 4 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/16976
-#EXTINF:-1 ,Eurosport Pluss 5 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30080
-#EXTINF:-1 ,Eurosport Pluss 6 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30081
-#EXTINF:-1 ,Eurosport Pluss 7 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30082
-#EXTINF:-1 ,Eurosport Pluss 8 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30083
-#EXTINF:-1 ,Eurosport Pluss 10 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30085
-#EXTINF:-1 ,Eurosport Pluss 11 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30086
-#EXTINF:-1 ,Eurosport Pluss 12 NO
-http://cloudcdn.tk:80/Francesco1/M928b80968/30087
-#EXTINF:-1 ,Sport5 FHD IL
-http://cloudcdn.tk:80/Francesco1/M928b80968/17429
-#EXTINF:-1 ,Astro Supersports 1 MY
-http://cloudcdn.tk:80/Francesco1/M928b80968/23453
-#EXTINF:-1 ,Astro Supersports 2 MY
-http://cloudcdn.tk:80/Francesco1/M928b80968/23452
-#EXTINF:-1 ,Astro Cricket HD MY
-http://cloudcdn.tk:80/Francesco1/M928b80968/23450
-#EXTINF:-1 ,FOX Sports News FHD AU
-http://cloudcdn.tk:80/Francesco1/M928b80968/33653
-#EXTINF:-1 ,FOX Sports 502 HD AU
-http://cloudcdn.tk:80/Francesco1/M928b80968/33655
-#EXTINF:-1 ,Astro Supersports 4 MY
-http://cloudcdn.tk:80/Francesco1/M928b80968/33973
-#EXTINF:-1 ,Sport 1 FHD IL
-http://cloudcdn.tk:80/Francesco1/M928b80968/74811
-#EXTINF:-1 ,Sport 3 FHD IL
-http://cloudcdn.tk:80/Francesco1/M928b80968/74813
-#EXTINF:-1 ,Sport 4 FHD IL
-http://cloudcdn.tk:80/Francesco1/M928b80968/74814
-#EXTINF:-1 ,Sporting TV HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3246
-#EXTINF:-1 ,Eleven Sports 1 HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23325
-#EXTINF:-1 ,Eleven Sports 2 HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23320
-#EXTINF:-1 ,Eleven Sports 3 HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23321
-#EXTINF:-1 ,Eleven Sports 5 HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23323
-#EXTINF:-1 ,Eleven Sports 6 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/23324
-#EXTINF:-1 ,Sport TV + PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/9499
-#EXTINF:-1 ,Sport TV 1 PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/7846
-#EXTINF:-1 ,Sport TV 1 HD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3221
-#EXTINF:-1 ,Sport TV 1 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/17744
-#EXTINF:-1 ,Sport TV 2 PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/7845
-#EXTINF:-1 ,Sport TV 2 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3222
-#EXTINF:-1 ,Sport TV 3 PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/7844
-#EXTINF:-1 ,Sport TV 3 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3223
-#EXTINF:-1 ,Sport TV 4 PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/7843
-#EXTINF:-1 ,Sport TV 4 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3224
-#EXTINF:-1 ,Sport TV 5 PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/7842
-#EXTINF:-1 ,Sport TV 5 FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/16297
-#EXTINF:-1 ,Sport TV + FHD PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/19589
-#EXTINF:-1 ,Sporting TV PT
-http://cloudcdn.tk:80/Francesco1/M928b80968/3305
-#EXTINF:-1 ,Movistar LaLiga HD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28329
-#EXTINF:-1 ,Movistar LaLiga 1 HD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28330
-#EXTINF:-1 ,Movistar LaLiga 2 HD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28331
-#EXTINF:-1 ,Movistar LaLiga 3 ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28328
-#EXTINF:-1 ,Movistar LaLiga 3 HD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28332
-#EXTINF:-1 ,Movistar LaLiga ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28334
-#EXTINF:-1 ,FOX Sports 1 HD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28597
-#EXTINF:-1 ,Esport 3 Cat ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28600
-#EXTINF:-1 ,Movistar Liga de Campeones ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28654
-#EXTINF:-1 ,Movistar Liga de Campeones 1 ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28656
-#EXTINF:-1 ,Movistar Liga de Campeones 1 FHD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28655
-#EXTINF:-1 ,Movistar Liga de Campeones 2 FHD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28657
-#EXTINF:-1 ,DAZN 1 FHD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/28893
-#EXTINF:-1 ,Somos FHD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/53150
-#EXTINF:-1 ,DAZN 2 FHD ES
-http://cloudcdn.tk:80/Francesco1/M928b80968/72648
-#EXTINF:-1 ,C More Fotboll HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14455
-#EXTINF:-1 ,C More Live SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28845
-#EXTINF:-1 ,C More Live HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/15530
-#EXTINF:-1 ,C More Live 2 SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28846
-#EXTINF:-1 ,C More Live 3 SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11610
-#EXTINF:-1 ,C More Live 4 FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/15533
-#EXTINF:-1 ,C More Live 4 SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11609
-#EXTINF:-1 ,C More Live 5 HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11570
-#EXTINF:-1 ,V Sport Fotboll HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14420
-#EXTINF:-1 ,V Sport Fotboll FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11567
-#EXTINF:-1 ,V Sport Golf FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11574
-#EXTINF:-1 ,V Sport Hockey HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11568
-#EXTINF:-1 ,V Sport Motor HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11569
-#EXTINF:-1 ,V Sport Motor FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/18228
-#EXTINF:-1 ,V Sport 1 Sverige HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11566
-#EXTINF:-1 ,V Sport 1 Sverige FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14416
-#EXTINF:-1 ,V Sport Extra HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/14445
-#EXTINF:-1 ,V Sport Premium SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/11581
-#EXTINF:-1 ,V Sport Premium FHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/18226
-#EXTINF:-1 ,V Sport Ultra HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28842
-#EXTINF:-1 ,V Sport Ultra UHD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/30095
-#EXTINF:-1 ,Esports TV HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/25783
-#EXTINF:-1 ,Fuel TV HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/35183
-#EXTINF:-1 ,SportExpressen TV HD SE
-http://cloudcdn.tk:80/Francesco1/M928b80968/44163
-#EXTINF:-1 ,MySports 2 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/17485
-#EXTINF:-1 ,MySports 4 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/17487
-#EXTINF:-1 ,MySports 5 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/17488
-#EXTINF:-1 ,MySports 6 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/17489
-#EXTINF:-1 ,MySports 7 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/18811
-#EXTINF:-1 ,MySports 9 FHD [Multi] CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/18813
-#EXTINF:-1 ,Sky Bundesliga 1 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/18263
-#EXTINF:-1 ,Blue Sport 1 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/16307
-#EXTINF:-1 ,Blue Sport 2 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/16306
-#EXTINF:-1 ,Teleclub Sky Sport 1 CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/28579
-#EXTINF:-1 ,Teleclub Sky Sport 2 CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/28581
-#EXTINF:-1 ,Teleclub Sky Sport 2 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/28582
-#EXTINF:-1 ,Blue Sport Event 1 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/75528
-#EXTINF:-1 ,Blue Sport Event 2 FHD CH
-http://cloudcdn.tk:80/Francesco1/M928b80968/75529
-#EXTINF:-1 ,BT Sport 1 FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14657
-#EXTINF:-1 ,BT Sport 1 HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/1991
-#EXTINF:-1 ,BT Sport 1 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/3586
-#EXTINF:-1 ,BT Sport 2 FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14658
-#EXTINF:-1 ,BT Sport 2 HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/1992
-#EXTINF:-1 ,BT Sport 2 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/3588
-#EXTINF:-1 ,BT Sport 3 FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14659
-#EXTINF:-1 ,BT Sport 3 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/1965
-#EXTINF:-1 ,BT Sport ESPN UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/2673
-#EXTINF:-1 ,BT Sport ESPN HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/1980
-#EXTINF:-1 ,BT Sport Extra 1 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14778
-#EXTINF:-1 ,BT Sport Extra 4 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14807
-#EXTINF:-1 ,BT Sport 3 HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14903
-#EXTINF:-1 ,Sky Sports Main Event FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14651
-#EXTINF:-1 ,Sky Sports Cricket FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14652
-#EXTINF:-1 ,Sky Sports Action FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14653
-#EXTINF:-1 ,Sky Sports Golf FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14654
-#EXTINF:-1 ,Sky Sports Premier League FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14655
-#EXTINF:-1 ,Sky Sports F1 FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14656
-#EXTINF:-1 ,Sky Sports Action HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/3598
-#EXTINF:-1 ,Sky Sports Action UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14747
-#EXTINF:-1 ,Sky Sports Arena HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/16968
-#EXTINF:-1 ,Sky Sports Main Event HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/5600
-#EXTINF:-1 ,Sky Sports Main Event UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14753
-#EXTINF:-1 ,Sky Sports Cricket HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/5601
-#EXTINF:-1 ,Sky Sports Cricket UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14750
-#EXTINF:-1 ,Sky Sports Football FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/16970
-#EXTINF:-1 ,Sky Sports Golf HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/3600
-#EXTINF:-1 ,Sky Sports Golf UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14744
-#EXTINF:-1 ,Sky Sports Premier League HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/4458
-#EXTINF:-1 ,Sky Sports Premier League UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14742
-#EXTINF:-1 ,Sky Sports F1 HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/3603
-#EXTINF:-1 ,Sky Sports F1 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14739
-#EXTINF:-1 ,Sky Sports Mix HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14902
-#EXTINF:-1 ,Sky Sports Mix UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/14926
-#EXTINF:-1 ,Sky Sports News HD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/1954
-#EXTINF:-1 ,Eir Sport 1 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/12343
-#EXTINF:-1 ,Eir Sport 2 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/12344
-#EXTINF:-1 ,Premier Sports 2 UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/26594
-#EXTINF:-1 ,Love Nature FHD UK
-http://cloudcdn.tk:80/Francesco1/M928b80968/26838
-#EXTINF:-1 ,EPL 1
-http://cloudcdn.tk:80/Francesco1/M928b80968/19032
-#EXTINF:-1 ,EPL 2
-http://cloudcdn.tk:80/Francesco1/M928b80968/19033
-#EXTINF:-1 ,EPL 3
-http://cloudcdn.tk:80/Francesco1/M928b80968/19034
-#EXTINF:-1 ,EPL 4
-http://cloudcdn.tk:80/Francesco1/M928b80968/19035
-#EXTINF:-1 ,EPL 5
-http://cloudcdn.tk:80/Francesco1/M928b80968/19036
-#EXTINF:-1 ,EPL 6
-http://cloudcdn.tk:80/Francesco1/M928b80968/19037
-#EXTINF:-1 ,EPL 8
-http://cloudcdn.tk:80/Francesco1/M928b80968/19090
-#EXTINF:-1 ,EPL 9
-http://cloudcdn.tk:80/Francesco1/M928b80968/28167
-#EXTINF:-1 ,ESPN HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/9023
-#EXTINF:-1 ,FOX Sports 2 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/9030
-#EXTINF:-1 ,ESPN U US
-http://cloudcdn.tk:80/Francesco1/M928b80968/18190
-#EXTINF:-1 ,ESPN Deportes HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/23260
-#EXTINF:-1 ,FOX Sports North HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/23257
-#EXTINF:-1 ,FOX Sports Midwest HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/23256
-#EXTINF:-1 ,FOX Sports Detroit HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/23255
-#EXTINF:-1 ,Fox Sports South HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/28217
-#EXTINF:-1 ,Fox Sports Southwest HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/28216
-#EXTINF:-1 ,Fox Sports San Diego HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/28218
-#EXTINF:-1 ,Sportsman Channel HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/28391
-#EXTINF:-1 ,ESPN + HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/28741
-#EXTINF:-1 ,TSN 1 HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/9032
-#EXTINF:-1 ,TSN 2 HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/9033
-#EXTINF:-1 ,TSN 3 HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/9034
-#EXTINF:-1 ,TSN 5 HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/9036
-#EXTINF:-1 ,SportsNet Pacific HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/10342
-#EXTINF:-1 ,SportsNet One HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/10344
-#EXTINF:-1 ,SportsNet West HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/10345
-#EXTINF:-1 ,SportsNet 360 HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/10700
-#EXTINF:-1 ,SportsNet East HD CA
-http://cloudcdn.tk:80/Francesco1/M928b80968/13692
-#EXTINF:-1 ,Flow Sports HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/26261
-#EXTINF:-1 ,Epix 2 HD US
-http://cloudcdn.tk:80/Francesco1/M928b80968/19606
-#EXTINF:-1 ,Premiere HD BR
-http://cloudcdn.tk:80/Francesco1/M928b80968/23164
-#EXTINF:-1 ,Premiere 2 HD BR
-http://cloudcdn.tk:80/Francesco1/M928b80968/24268
-#EXTINF:-1 ,Premiere 3 HD BR
-http://cloudcdn.tk:80/Francesco1/M928b80968/24269
-#EXTINF:-1 ,Telekom Fussball 1 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24231
-#EXTINF:-1 ,Telekom Fussball 2 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24232
-#EXTINF:-1 ,Telekom Fussball 3 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24233
-#EXTINF:-1 ,Telekom Fussball 4 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24234
-#EXTINF:-1 ,Telekom Fussball 6 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24236
-#EXTINF:-1 ,Telekom Fussball 7 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24237
-#EXTINF:-1 ,Telekom Fussball 8 HD DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/24238
-#EXTINF:-1 ,Telekom Del Sport 1 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28381
-#EXTINF:-1 ,Telekom Del Sport 2 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28382
-#EXTINF:-1 ,Telekom Del Sport 3 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28383
-#EXTINF:-1 ,Telekom Del Sport 4 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28384
-#EXTINF:-1 ,Telekom Del Sport 5 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28385
-#EXTINF:-1 ,Telekom Del Sport 6 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28386
-#EXTINF:-1 ,Telekom Sport BBL 1 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28377
-#EXTINF:-1 ,Telekom Sport BBL 2 HD (nur Spiel Tag) DE
-http://cloudcdn.tk:80/Francesco1/M928b80968/28378
-#EXTINF:-1 ,Sky Sport Austria 2 HD (nur Spiel Tag) AT
-http://cloudcdn.tk:80/Francesco1/M928b80968/28374
-
-#=======================""==============================#
-
-#EXTINF:-1 group-title="Arabic" tvg-name="AR: KSA Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,AR: KSA Sports 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/17316
-#EXTINF:-1 group-title="Arabic" tvg-name="AR: KSA Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,AR: KSA Sports 3 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/43712
-#EXTINF:-1 group-title="Romania" tvg-id="digisport1.ro" tvg-name="RO: DIGI SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" ,RO: DIGI SPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/71457
-#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport1.ro" tvg-name="RO DIGI SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" ,RO DIGI SPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273534
-#EXTINF:-1 group-title="Romania" tvg-id="digisport2.ro" tvg-name="RO: DIGI SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" ,RO: DIGI SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/71459
-#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport2.ro" tvg-name="RO DIGI SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" ,RO DIGI SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/81580
-#EXTINF:-1 group-title="Romania" tvg-id="digisport3.ro" tvg-name="RO: DIGI SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" ,RO: DIGI SPORT 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2243
-#EXTINF:-1 group-title="Best of Sports" tvg-id="digisport3.ro" tvg-name="RO DIGI SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" ,RO DIGI SPORT 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273529
-#EXTINF:-1 group-title="Romania" tvg-name="RO: DIGI SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" ,RO: DIGI SPORT 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4219
-#EXTINF:-1 group-title="Best of Sports" tvg-name="RO DIGI SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d4ab4ae9f452f94a08fb0260dbfcd765.png" ,RO DIGI SPORT 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273530
-#EXTINF:-1 group-title="Romania" tvg-id="eurosport1.ro" tvg-name="RO: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" ,RO: EUROSPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4221
-#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport1.ro" tvg-name="RO EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/820299f77efed8d360574e7f51427b03.png" ,RO EUROSPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273593
-#EXTINF:-1 group-title="Romania" tvg-id="eurosport2.ro" tvg-name="RO: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" ,RO: EUROSPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4222
-#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport2.ro" tvg-name="RO EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fdcc5cd18396240d141cb87caa9f6b06.png" ,RO EUROSPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273594
-#EXTINF:-1 group-title="Romania" tvg-id="extremesports.ro" tvg-name="RO: Extreme Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0ad1b81bf39627719b3235060f82f6ac.png" ,RO: Extreme Sports
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/9818
-#EXTINF:-1 group-title="Romania" tvg-name="RO: Look Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0e1c4c6b0ccf4d2898a922df1bf5f5db.png" ,RO: Look Sport 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/147299
-#EXTINF:-1 group-title="Romania" tvg-name="RO: Look Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,RO: Look Sport 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/147300
-#EXTINF:-1 group-title="Romania" tvg-id="looktv.ro" tvg-name="RO: LOOK SPORT HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/14686593401fe137573cbbe0ad302284.png" ,RO: LOOK SPORT HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2229
-#EXTINF:-1 group-title="Romania" tvg-id="lookplus.ro" tvg-name="RO: LOOK SPORT PLUS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/57c5a931c81d2ea35520677d35e10669.png" ,RO: LOOK SPORT PLUS HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4226
-#EXTINF:-1 group-title="Romania" tvg-name="RO: TELEKOM SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3343250192919739691cabcd994d2ffb.png" ,RO: TELEKOM SPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/12727
-#EXTINF:-1 group-title="Best of Sports" tvg-name="RO TELEKOM SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3343250192919739691cabcd994d2ffb.png" ,RO TELEKOM SPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/37202
-#EXTINF:-1 group-title="Romania" tvg-name="RO: TELEKOM SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/10fe64dc8c8d3b47af40ff08543ffd6d.png" ,RO: TELEKOM SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/12728
-#EXTINF:-1 group-title="Best of Sports" tvg-name="RO TELEKOM SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/10fe64dc8c8d3b47af40ff08543ffd6d.png" ,RO TELEKOM SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/37203
-#EXTINF:-1 group-title="Romania" tvg-name="RO: TELEKOM SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d1105679a6689083de272be6e99db8c3.png" ,RO: TELEKOM SPORT 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/12729
-#EXTINF:-1 group-title="Best of Sports" tvg-name="RO TELEKOM SPORT 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d1105679a6689083de272be6e99db8c3.png" ,RO TELEKOM SPORT 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/37204
-#EXTINF:-1 group-title="Romania" tvg-name="RO: TELEKOM SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f12536de9f9fc64ec140996feee73531.png" ,RO: TELEKOM SPORT 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/12730
-#EXTINF:-1 group-title="Best of Sports" tvg-name="RO TELEKOM SPORT 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f12536de9f9fc64ec140996feee73531.png" ,RO TELEKOM SPORT 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/37205
-#EXTINF:-1 group-title="Greece" tvg-name="GR: ERT Sports 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b68a5fcf7c402244cd6110a2071f5e18.png" ,GR: ERT Sports 2 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276085
-#EXTINF:-1 group-title="Greece" tvg-name="GR: ERT Sports FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c444f3de686c33453b98bbe88bf4028e.png" ,GR: ERT Sports FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/11
-#EXTINF:-1 group-title="Greece" tvg-name="GR: ERT World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30aa521ff2eb450b6ee2ac99847cb983.png" ,GR: ERT World
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/9
-#EXTINF:-1 group-title="Greece" tvg-name="GR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" ,GR: EUROSPORT 1
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/138
-#EXTINF:-1 group-title="Best of Sports" tvg-name="GR EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" ,GR EUROSPORT 1
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/279070
-#EXTINF:-1 group-title="Greece" tvg-id="eurosport2.gr" tvg-name="GR: EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" ,GR: EUROSPORT 2 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/139
-#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport2.gr" tvg-name="GR EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" ,GR EUROSPORT 2 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273573
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 4 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 4 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/42973
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 5 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 5 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/5902
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 6 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 6 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/19
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 7 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 7 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/146535
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 8 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 8 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/20
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 9 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 9 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/146536
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 10 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 10 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/146537
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 11 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 11 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/22
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 12 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 12 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 13 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 13 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/24
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 14 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 14 4K
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/5905
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 15 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 15 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/25
-#EXTINF:-1 group-title="Greece" tvg-name="GR: NOVA Premiere 16 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: NOVA Premiere 16 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/26
-#EXTINF:-1 group-title="Greece" tvg-name="GR: Novasports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f8731347902606090d849fe2d678b399.png" ,GR: Novasports 3
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/12846
-#EXTINF:-1 group-title="Best of Sports" tvg-name="GR Novasports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f8731347902606090d849fe2d678b399.png" ,GR Novasports 3
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273538
-#EXTINF:-1 group-title="Greece" tvg-name="GR: Novasports World HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR: Novasports World HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/278721
-#EXTINF:-1 group-title="Best of Sports" tvg-name="GR Novasports World HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,GR Novasports World HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/279067
-#EXTINF:-1 group-title="France" tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" ,FR: beIN Sports 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/145
-#EXTINF:-1 group-title="Best of Sports" tvg-id="beinsports2.fr" tvg-name="FR beIN Sports 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" ,FR beIN Sports 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273332
-#EXTINF:-1 group-title="France" tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" ,FR: beIN Sports 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/146
-#EXTINF:-1 group-title="Best of Sports" tvg-id="beinsports3.fr" tvg-name="FR beIN Sports 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" ,FR beIN Sports 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273320
-#EXTINF:-1 group-title="France" tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" ,FR: beIN Sports 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/144
-#EXTINF:-1 group-title="Best of Sports" tvg-id="beinsports1.fr" tvg-name="FR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" ,FR beIN Sports 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273327
-#EXTINF:-1 group-title="France" tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" ,FR: beIN Sports Max 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/3599
-#EXTINF:-1 group-title="France" tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" ,FR: beIN Sports Max 5 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/6083
-#EXTINF:-1 group-title="France" tvg-id="bein6max.fr" tvg-name="FR: beIN Sports Max 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" ,FR: beIN Sports Max 6 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4368
-#EXTINF:-1 group-title="France" tvg-id="bein10max.fr" tvg-name="FR: beIN Sports Max 10 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" ,FR: beIN Sports Max 10 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/6088
-#EXTINF:-1 group-title="France" tvg-id="bein7max.fr" tvg-name="FR: beIN Sports Max 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" ,FR: beIN Sports Max 7 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4369
-#EXTINF:-1 group-title="France" tvg-id="bein8max.fr" tvg-name="FR: beIN Sports Max 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" ,FR: beIN Sports Max 8 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4370
-#EXTINF:-1 group-title="France" tvg-id="bein9max.fr" tvg-name="FR: beIN Sports Max 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" ,FR: beIN Sports Max 9 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4371
-#EXTINF:-1 group-title="France" tvg-name="FR: Berbere TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8a05b981cc820cbcdd7fd55d53336cf0.png" ,FR: Berbere TV
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/36513
-#EXTINF:-1 group-title="France" tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ Sport FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" ,FR: CANAL+ Sport FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/143
-#EXTINF:-1 group-title="Best of Sports" tvg-id="canalplussport.fr" tvg-name="FR CANAL+ Sport FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" ,FR CANAL+ Sport FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273501
-#EXTINF:-1 group-title="France" tvg-id="m6.fr" tvg-name="FR: M6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" ,FR: M6 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/158
-#EXTINF:-1 group-title="France" tvg-id="tf1.fr" tvg-name="FR: TF 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d8fa325e3c7d2142d8a75f91ab50be9d.png" ,FR: TF 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/153
-#EXTINF:-1 group-title="France" tvg-id="rmcsportnews.fr" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" ,FR: RMC SPORT 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1937
-#EXTINF:-1 group-title="Best of Sports" tvg-id="rmcsportnews.fr" tvg-name="FR RMC SPORT 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" ,FR RMC SPORT 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/279116
-#EXTINF:-1 group-title="France" tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" ,FR: RMC SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1938
-#EXTINF:-1 group-title="Best of Sports" tvg-id="rmcsport2.fr" tvg-name="FR RMC SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" ,FR RMC SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/37158
-#EXTINF:-1 group-title="France" tvg-id="rmcsport3.fr" tvg-name="FR: RMC SPORT FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b30461864d3d7b9eb43f228739c2616.png" ,FR: RMC SPORT FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2983
-#EXTINF:-1 group-title="France" tvg-name="FR: RMC Story FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e2d03d4ce49d38977bb7dd4772ffeaa1.png" ,FR: RMC Story FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/162
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Eleven Pro League 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1527078b52ae042d2b05dad4f187808d.png" ,BE: Eleven Pro League 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/198690
-#EXTINF:-1 group-title="Belgium" tvg-id="elevensports1nl.be" tvg-name="BE: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ce96de2bbb24a056acf10765f000d48.png" ,BE: ELEVEN SPORTS 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/36420
-#EXTINF:-1 group-title="Belgium" tvg-id="elevensports2nl.be" tvg-name="BE: ELEVEN SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cce2a70fbce9c36d42cef63e6da8c3f8.png" ,BE: ELEVEN SPORTS 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/82246
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: ELEVEN SPORTS 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: ELEVEN SPORTS 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/65336
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/47437
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/47438
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 3 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276473
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276474
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Play Sports 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,BE: Play Sports 5 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/276475
-#EXTINF:-1 group-title="Belgium" tvg-id="voosportworld1.be" tvg-name="BE: Voo Sport World 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9200adb2d3381419d32af6ba7203a1a.png" ,BE: Voo Sport World 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/245
-#EXTINF:-1 group-title="Best of Sports" tvg-id="voosportworld1.be" tvg-name="BE Voo Sport World 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9200adb2d3381419d32af6ba7203a1a.png" ,BE Voo Sport World 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273918
-#EXTINF:-1 group-title="Belgium" tvg-name="BE: Voo Sport World 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe3e202978b4f951509a510282327d2.png" ,BE: Voo Sport World 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1964
-#EXTINF:-1 group-title="Best of Sports" tvg-name="BE Voo Sport World 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe3e202978b4f951509a510282327d2.png" ,BE Voo Sport World 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273920
-#EXTINF:-1 group-title="Switzerland" tvg-id="mysports1.ch" tvg-name="CH: MySports 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23837
-#EXTINF:-1 group-title="Switzerland" tvg-id="mysports2.ch" tvg-name="CH: MySports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/35843
-#EXTINF:-1 group-title="Switzerland" tvg-id="mysports3.ch" tvg-name="CH: MySports 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/70853
-#EXTINF:-1 group-title="Switzerland" tvg-id="mysports4.ch" tvg-name="CH: MySports 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23838
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 5 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/90859
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 6 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148193
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 7 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 7 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148191
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 8 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 8 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148198
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 2/S 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 2/S 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148195
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 3/S 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 3/S 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148196
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports 4/S 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports 4/S 4 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148194
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports DE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports DE HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/198883
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/75723
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: MySports Fr FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: MySports Fr FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/169987
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: TC Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TC Sport 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/157390
-#EXTINF:-1 group-title="Switzerland" tvg-id="teleclubsport1.ch" tvg-name="CH: TELECLUB SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TELECLUB SPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/2815
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: TELECLUB SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: TELECLUB SPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/6187
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: Teleclub Sport EVENT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: Teleclub Sport EVENT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/266820
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: UPC My Sports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: UPC My Sports FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/151278
-#EXTINF:-1 group-title="Switzerland" tvg-name="CH: Viasat Sport HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,CH: Viasat Sport HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/148058
-#EXTINF:-1 group-title="UK" tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsport2.uk" tvg-name="UK BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK BT Sport 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28344
-#EXTINF:-1 group-title="UK" tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/271
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsport3.uk" tvg-name="UK BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK BT Sport 3 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28348
-#EXTINF:-1 group-title="UK" tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: BT Sport 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/270
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportespn.uk" tvg-name="UK BT Sport ESPN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" ,UK BT Sport ESPN HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/28349
-#EXTINF:-1 group-title="UK" tvg-id="btsportx1.uk" tvg-name="UK: BT Sport Extra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd8481a6dd51dc2283f529290a353e6e.png" ,UK: BT Sport Extra 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/7435
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx1.uk" tvg-name="UK BT Sport Extra 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd8481a6dd51dc2283f529290a353e6e.png" ,UK BT Sport Extra 1 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274016
-#EXTINF:-1 group-title="UK" tvg-id="btsportx2.uk" tvg-name="UK: BT Sport Extra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f429fb2ef387debe282f9a05acbb4fd5.png" ,UK: BT Sport Extra 2 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/48713
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx2.uk" tvg-name="UK BT Sport Extra 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f429fb2ef387debe282f9a05acbb4fd5.png" ,UK BT Sport Extra 2 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274024
-#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3deb1ec4af9c3a64b1945b8ec5abbfdf.png" ,UK: BT Sport Extra 3 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/279255
-#EXTINF:-1 group-title="UK" tvg-id="btsportx4.uk" tvg-name="UK: BT Sport Extra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76e2e34d4722f591f6f174afad298cfe.png" ,UK: BT Sport Extra 4 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/47961
-#EXTINF:-1 group-title="Best of Sports" tvg-id="btsportx4.uk" tvg-name="UK BT Sport Extra 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76e2e34d4722f591f6f174afad298cfe.png" ,UK BT Sport Extra 4 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274023
-#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ad8e6710e007ed8cfd7024c66b2f0ec.png" ,UK: BT Sport Extra 5 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/7438
-#EXTINF:-1 group-title="Best of Sports" tvg-name="UK BT Sport Extra 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ad8e6710e007ed8cfd7024c66b2f0ec.png" ,UK BT Sport Extra 5 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/274018
-#EXTINF:-1 group-title="UK" tvg-name="UK: BT Sport Extra 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/270ed65ab46ab2fc29edbc3d3691a203.png" ,UK: BT Sport Extra 6 HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/192750
-#EXTINF:-1 group-title="UK" tvg-name="UK: EDGE Sport HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" ,UK: EDGE Sport HD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/54012
-#EXTINF:-1 group-title="UK" tvg-name="UK: EIR SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: EIR SPORTS 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/4725
-#EXTINF:-1 group-title="UK" tvg-name="UK: EIR SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: EIR SPORTS 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/67830
-#EXTINF:-1 group-title="UK" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: ELEVEN SPORTS 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/23514
-#EXTINF:-1 group-title="UK" tvg-id="eurosport1.uk" tvg-name="UK: euronews FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK: euronews FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1554
-#EXTINF:-1 group-title="UK" tvg-id="eurosport2.uk" tvg-name="UK: EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" ,UK: EUROSPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/692
-#EXTINF:-1 group-title="Best of Sports" tvg-id="eurosport2.uk" tvg-name="UK EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" ,UK EUROSPORT 1 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273577
-#EXTINF:-1 group-title="UK" tvg-name="UK: EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" ,UK: EUROSPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/1555
-#EXTINF:-1 group-title="Best of Sports" tvg-name="UK EUROSPORT 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" ,UK EUROSPORT 2 FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/273585
-#EXTINF:-1 group-title="UK" tvg-name="UK: FIGHT BOX FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3bcabde5f09c868f60b3d691fdf16025.png" ,UK: FIGHT BOX FHD
-http://iptvtree.net:8080/766a3d10/WBkYyKsP3qPzc9Ne/11485
+#EXTINF:-1 ,(ch 414) BT2
+http://116.202.245.40:9191/play/a002
+#EXTINF:-1 ,(ch 413) BT1
+http://116.202.245.40:9191/play/a03p
 
 
 
