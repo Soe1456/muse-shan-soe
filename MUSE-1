@@ -620,572 +620,2344 @@ http://116.202.245.40:9191/play/a03p
 
 #======================="Telegram-1-m3u8"==============================#
 
-#EXTINF:-1 ,Первый канал HD
-http://plmgr-moretv.cdnvideo.ru/1tvstream/playlist.m3u8
-#EXTINF:-1 ,Первый канал
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://radio-live-mg.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 ,НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 ,НТВ HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/15265
-#EXTINF:-1 ,РЕН ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_HLS/variant.m3u8
-#EXTINF:-1 ,Рен ТВ HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD_HLS/variant.m3u8
-#EXTINF:-1 ,Мир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 ,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 ,ТВ Центр
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 ,Звезда
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 ,ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 ,Пятый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 ,Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 ,Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 ,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 ,Russian Extreme Ultra HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,Russian Extreme UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
-#EXTINF:-1 ,Fashion TV
-https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Москва. Доверие
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
-#EXTINF:-1 ,Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 ,Пятница HD
-https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 ,СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 ,СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 ,СТС-Мир
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
-#EXTINF:-1 ,Суббота!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 ,ТВ-3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 ,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 ,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 ,Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 ,Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 ,Перец
-http://edge04.beetv.kz/btv/SWM/Perec/Perec_576p_2000kbps.m3u8?token=gelow74
-#EXTINF:-1 ,E TV
-http://83.222.205.65:8080/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Love Nature 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8
-#EXTINF:-1 ,Наша Сибирь 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 ,National Geographic
-http://edge04.beetv.kz:80/btv/SWM/NatGeo_channel/NatGeo_channel_270p_1200kbps.m3u8
-#EXTINF:-1 ,National Geographic HD
-http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Nat Geo Wild
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 ,Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 ,Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 ,Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 ,Арсенал HD
-http://194.44.203.253/hls/449/stream.m3u8
-#EXTINF:-1 ,Кто есть кто
-http://188.40.68.167/russia/ktoestkto/playlist.m3u8
-#EXTINF:-1 ,Кухня ТВ
-http://188.113.190.12/314/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,365 дней ТВ
-http://188.113.190.12/301/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,RTG
-http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,History
-http://87.247.41.228:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,History2 HD
-http://212.76.27.29:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Техно 24
-http://185.74.7.220:8080/techno_24/index.m3u8
-#EXTINF:-1 ,Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1 ,Моя планета
-http://edge04.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Discovery Science
-https://s1.idata.uz/stch_temp10/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1 ,Discovery EE
-http://clientportal.link:80/46AbZpq81/QSQrUH05/10278
-#EXTINF:-1 ,Discovery Channel HD
-http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://194.44.203.253/hls/22/stream.m3u8
-#EXTINF:-1 ,DTX
-http://tv.sharkiptv.hitv.one:80/IXYY2qBrVM1362/iCJHoS845/72690
-#EXTINF:-1 ,TLC HD
-http://edge04.beetv.kz/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Animal Planet
-http://edge04.beetv.kz/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
-#EXTINF:-1 ,Animal Planet HD
-http://185.74.7.220:8080/animal/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Дикая охота HD
-http://91.221.201.2:7100/play/a00n/index.m3u8
-#EXTINF:-1 ,Дикая рыбалка HD
-http://91.221.201.2:7100/play/a00l/index.m3u8
-#EXTINF:-1 ,Охотник и Рыболов International
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Мужской
-http://edge04.beetv.kz/btv/SWM/Muzhskoy/Muzhskoy_576p_2000kbps.m3u8
-#EXTINF:-1 ,Joy Cook
-https://strm.yandex.ru/kal/joycook/joycook0.m3u8
-#EXTINF:-1 ,UFC HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/variant.m3u8
-#EXTINF:-1 ,Eurosport 4k
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-#EXTINF:-1 ,M-1 Global
-http://edge04.beetv.kz/btv/SWM/M1/M1_720p_3500kbps.m3u8
-#EXTINF:-1 ,Беларусь 5 HD
-https://77-247-178-24.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 ,MostVideo
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 ,Матч! HD
-https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 ,Матч! Арена
-https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! Арена HD
-http://ns2.dreamstar.ru.com/russia/match_arena_sd_new/playlist.m3u8
-#EXTINF:-1 ,Матч! Игра
-https://46-21-250-207.livesports24.online/migra.m3u8
-#EXTINF:-1 ,Матч! Игра HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/15337
-#EXTINF:-1 ,Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/15247
-#EXTINF:-1 ,Матч! Футбол 2
-https://s4.idata.uz/football2/tracks-v3a1/rewind-7200.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/15246
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/15245
-#EXTINF:-1 ,Футбол 2 Украина
-https://95-213-224-187.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://ns2.dreamstar.ru.com/russia/nash_futbol_sd_new/playlist.m3u8
-#EXTINF:-1 ,Телеканал Футбол
-http://188.113.190.12/105/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Конный мир HD
-http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 ,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,NBA TV
-http://188.113.190.12/168/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Моторспорт ТВ
-http://188.113.190.12/220/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Viasat Sport
-http://194.44.203.253/hls/185/stream.m3u8
-#EXTINF:-1 ,БОКС ТВ
-http://92.50.221.130:8000/play/a081/index.m3u8
-#EXTINF:-1 ,Fast & FunBox
-http://92.43.140.249:80/s79/04.m3u8
-#EXTINF:-1 ,VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 ,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 ,VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 ,BACKUSTV
-http://stream.backustv.ru/content/39837/index.m3u8
-#EXTINF:-1 ,BACKUSTV Страшное
-http://stream.backustv.ru/content/39864/index.m3u8
-#EXTINF:-1 ,Кинопремьера
-http://185.74.7.220:8080/kinopremyera/index.m3u8
-#EXTINF:-1 ,Киносвидание
-http://212.76.27.27/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
-#EXTINF:-1 ,Киноужас
-http://188.113.190.12/323/video.m3u8
-#EXTINF:-1 ,Наше новое кино
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Родное Кино
-http://212.76.27.27/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8
-#EXTINF:-1 ,TV 1000 Русское Кино
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 ,TV 1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 ,TV 1000 Action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 ,Победа
-http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
-#EXTINF:-1 ,День Победы
-http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
-#EXTINF:-1 ,Твоё ТВ HD
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:-1 ,Cinema
-http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:-1 ,Фантастика Sci-Fi
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 ,Amedia Premium HD
-http://edge04.beetv.kz:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:-1 ,Amedia 1 HD
-http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-#EXTINF:-1 ,Amedia 2 HD
-http://edge04.beetv.kz/btv/SWM/A2/A2.m3u8
-#EXTINF:-1 ,Дом Кино
-http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:-1 ,AL AOULA INTER HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2265
+#EXTINF:-1 ,2M MAROC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2360
+#EXTINF:-1 ,AL MAGHRIBIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2323
+#EXTINF:-1 ,MEDI 1 TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2078
+#EXTINF:-1 ,ARRYADIA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2219
+#EXTINF:-1 ,M24 TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41616
+#EXTINF:-1 ,TAMAZIGHT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/44861
+#EXTINF:-1 ,ARRABIAA HD (Athaqafia)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2220
+#EXTINF:-1 ,TELE MAROC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2930
+#EXTINF:-1 ,CHADA TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2960
+#EXTINF:-1 ,TNT  ASSABIA Aflam
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5400
+#EXTINF:-1 ,ASSADISSA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41615
+#EXTINF:-1 ,TNT  2M
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5404
+#EXTINF:-1 ,TNT  AL OULA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5402
+#EXTINF:-1 ,TNT  LAAYOUNE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5398
+#EXTINF:-1 ,TNT  MEDI1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5397
+#EXTINF:-1 ,TNT  ARRIADIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5401
+#EXTINF:-1 ,LAAYOUNE TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2932
+#EXTINF:-1 ,TOYOR BABY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1978
+#EXTINF:-1 ,ARRYADIA TNT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2933
+#EXTINF:-1 ,MAROC COMEDY 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62815
+#EXTINF:-1 ,MAROC COMEDY 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62816
+#EXTINF:-1 ,MAROC MUSIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62817
+#EXTINF:-1 ,MAROC AFLAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62818
+#EXTINF:-1 ,MAROC AFLAM 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62819
+#EXTINF:-1 ,MAROC ISLAM HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65267
+#EXTINF:-1 ,MAROC ANASHID HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65268
+#EXTINF:-1 ,TF1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2479
+#EXTINF:-1 ,M6 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2474
+#EXTINF:-1 ,FRANCE 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2478
+#EXTINF:-1 ,FRANCE 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2477
+#EXTINF:-1 ,FRANCE 4 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2476
+#EXTINF:-1 ,FRANCE 5 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2475
+#EXTINF:-1 ,FRANCE INFO TV FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2463
+#EXTINF:-1 ,TF1 SERIES FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2461
+#EXTINF:-1 ,RTS DEUX FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2370
+#EXTINF:-1 ,RTS UN FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2371
+#EXTINF:-1 ,W9 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2471
+#EXTINF:-1 ,NRJ 12 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2468
+#EXTINF:-1 ,TFX FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2469
+#EXTINF:-1 ,CHERIE 25 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2456
+#EXTINF:-1 ,TMC FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2470
+#EXTINF:-1 ,6TER FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2459
+#EXTINF:-1 ,RTL9 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2434
+#EXTINF:-1 ,AB1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2430
+#EXTINF:-1 ,AB 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2380
+#EXTINF:-1 ,SYFY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2431
+#EXTINF:-1 ,13EME RUE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2437
+#EXTINF:-1 ,TV BREIZH FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2429
+#EXTINF:-1 ,COMEDIE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2436
+#EXTINF:-1 ,ELLE GIRLS FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2428
+#EXTINF:-1 ,CANAL FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2455
+#EXTINF:-1 ,CANAL  CINEMA FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2454
+#EXTINF:-1 ,CANAL  FAMILY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2453
+#EXTINF:-1 ,CANAL  DECALE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2452
+#EXTINF:-1 ,CANAL  SERIES FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2451
+#EXTINF:-1 ,CINE  PREMIER FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2450
+#EXTINF:-1 ,CINE  EMOTION FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2449
+#EXTINF:-1 ,CINE  FAMIZ FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2448
+#EXTINF:-1 ,CINE  FRISSON FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2447
+#EXTINF:-1 ,CINE  CLASSIC FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2446
+#EXTINF:-1 ,OCS GEANTS FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2444
+#EXTINF:-1 ,OCS CITY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2443
+#EXTINF:-1 ,OCS CHOC FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2442
+#EXTINF:-1 ,OCS MAX FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2441
+#EXTINF:-1 ,ACTION FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2440
+#EXTINF:-1 ,CINE POLAR FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2439
+#EXTINF:-1 ,PARIS PREMIERE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2435
+#EXTINF:-1 ,SERIE CLUB FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2433
+#EXTINF:-1 ,TEVA FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2432
+#EXTINF:-1 ,E! ENTERTAINMENT FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2427
+#EXTINF:-1 ,PLANETE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2426
+#EXTINF:-1 ,PLANETE  A&E FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2425
+#EXTINF:-1 ,PLANETE  CI FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2424
+#EXTINF:-1 ,USHUAIA TV FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2423
+#EXTINF:-1 ,NATIONAL GEO CHANNEL FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2422
+#EXTINF:-1 ,NAT GEO WILD FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2421
+#EXTINF:-1 ,SCIENCES & VIE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2420
+#EXTINF:-1 ,HISTOIRE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2419
+#EXTINF:-1 ,TOUTE L'HISTOIRE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2418
+#EXTINF:-1 ,ANIMAUX FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2417
+#EXTINF:-1 ,DISNEY CHANNEL FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2415
+#EXTINF:-1 ,DISNEY CHANNEL  1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2414
+#EXTINF:-1 ,DISNEY CINEMA FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2413
+#EXTINF:-1 ,DISNEY JUNIOR FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2412
+#EXTINF:-1 ,NICKELODEON FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2410
+#EXTINF:-1 ,NICK JUNIOR FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2409
+#EXTINF:-1 ,CANAL J FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2408
+#EXTINF:-1 ,GULLI FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2407
+#EXTINF:-1 ,PIWI FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2406
+#EXTINF:-1 ,TIJI FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2405
+#EXTINF:-1 ,TELETOON FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2404
+#EXTINF:-1 ,TELETOON  1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2403
+#EXTINF:-1 ,BOING FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2402
+#EXTINF:-1 ,BOOMERANG FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2401
+#EXTINF:-1 ,CARTOON NETWORK FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2400
+#EXTINF:-1 ,MANGAS FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2399
+#EXTINF:-1 ,GAME ONE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2398
+#EXTINF:-1 ,RMC 1 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/4949
+#EXTINF:-1 ,RMC 2 SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/4950
+#EXTINF:-1 ,CANAL  SPORT FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2397
+#EXTINF:-1 ,EUROSPORT 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2393
+#EXTINF:-1 ,C STAR FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2460
+#EXTINF:-1 ,RMC DECOUVERTE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2457
+#EXTINF:-1 ,L'EQUIPE 21 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2395
+#EXTINF:-1 ,EQUIDIA LIVE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2392
+#EXTINF:-1 ,FOOT  24/24 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2390
+#EXTINF:-1 ,GOLF FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2385
+#EXTINF:-1 ,GOLF CHANNEL FR FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2384
+#EXTINF:-1 ,MCM FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2382
+#EXTINF:-1 ,M6 MUSIC FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2378
+#EXTINF:-1 ,TV5 MONDE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2374
+#EXTINF:-1 ,ARTE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2473
+#EXTINF:-1 ,BFMTV FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2467
+#EXTINF:-1 ,C8 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2472
+#EXTINF:-1 ,TF1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/594
+#EXTINF:-1 ,M6
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/593
+#EXTINF:-1 ,FRANCE 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/592
+#EXTINF:-1 ,FRANCE 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/591
+#EXTINF:-1 ,FRANCE 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/590
+#EXTINF:-1 ,FRANCE 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/589
+#EXTINF:-1 ,FRANCE O
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/588
+#EXTINF:-1 ,W9
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/585
+#EXTINF:-1 ,ARTE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/479
+#EXTINF:-1 ,TV5  MONDE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/478
+#EXTINF:-1 ,NRJ12
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/584
+#EXTINF:-1 ,NT1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/583
+#EXTINF:-1 ,HD1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/582
+#EXTINF:-1 ,CHERIE 25
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/581
+#EXTINF:-1 ,TMC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/580
+#EXTINF:-1 ,CSTAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/578
+#EXTINF:-1 ,6TER
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/577
+#EXTINF:-1 ,RTL9
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/575
+#EXTINF:-1 ,AB1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/574
+#EXTINF:-1 ,SYFYFR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/572
+#EXTINF:-1 ,13EME RUE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/571
+#EXTINF:-1 ,TV BREIZH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/570
+#EXTINF:-1 ,EENTERTAINMENTFR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/569
+#EXTINF:-1 ,ELLE GIRL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/567
+#EXTINF:-1 ,CANAL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/565
+#EXTINF:-1 ,CANAL  CINEMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/564
+#EXTINF:-1 ,CANAL  FAMILY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/563
+#EXTINF:-1 ,CANAL  DECALE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/562
+#EXTINF:-1 ,CANAL  SERIES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/561
+#EXTINF:-1 ,CANAL  SPORT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/560
+#EXTINF:-1 ,CINE   PREMIER
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/559
+#EXTINF:-1 ,CINE  EMOTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/558
+#EXTINF:-1 ,CINE  FRISSON
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/557
+#EXTINF:-1 ,CINE  FAMIZ
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/556
+#EXTINF:-1 ,CINE  CLASSIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/555
+#EXTINF:-1 ,OCS CHOC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/551
+#EXTINF:-1 ,OCS CITY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/550
+#EXTINF:-1 ,OCS GEANTS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/549
+#EXTINF:-1 ,OCS MAX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/548
+#EXTINF:-1 ,ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/546
+#EXTINF:-1 ,TF1 SERIES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/62830
+#EXTINF:-1 ,PARAMOUNT CHANNE FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/545
+#EXTINF:-1 ,BEINSPORT1FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/544
+#EXTINF:-1 ,BEINSPORT2FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/543
+#EXTINF:-1 ,BEINSPORT3FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/542
+#EXTINF:-1 ,Bein Sport Max 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3187
+#EXTINF:-1 ,Bein Sport Max 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3186
+#EXTINF:-1 ,Bein Sport Max 6
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3185
+#EXTINF:-1 ,Bein Sport Max 7
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3184
+#EXTINF:-1 ,Bein Sport Max 8
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3183
+#EXTINF:-1 ,Bein Sport Max 9
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3182
+#EXTINF:-1 ,Bein Sport Max 10
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3181
+#EXTINF:-1 ,RMC SPORT 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/541
+#EXTINF:-1 ,RMC SPORT 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/540
+#EXTINF:-1 ,RMC SPORT 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/539
+#EXTINF:-1 ,RMCSPORT4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/538
+#EXTINF:-1 ,RMC SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3215
+#EXTINF:-1 ,EUROSPORT  2 FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/537
+#EXTINF:-1 ,EUROSPORT 1 FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/536
+#EXTINF:-1 ,INFOSPORT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/534
+#EXTINF:-1 ,L'EQUIPE 21
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/533
+#EXTINF:-1 ,EQUIDIA LIVE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/531
+#EXTINF:-1 ,GOLF CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/530
+#EXTINF:-1 ,DISNEY CHANNEL FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/511
+#EXTINF:-1 ,DISNEY CINEMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/510
+#EXTINF:-1 ,DISNEY JUNIOR FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/509
+#EXTINF:-1 ,DISNEY XD FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/508
+#EXTINF:-1 ,CARTOON   NETWORK
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/496
+#EXTINF:-1 ,BOOMERANG FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/495
+#EXTINF:-1 ,GAME ONE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/494
+#EXTINF:-1 ,MANGAS TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/493
+#EXTINF:-1 ,NICKELODEONFR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/492
+#EXTINF:-1 ,NICKELODEON JUNIOR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/491
+#EXTINF:-1 ,TELETOON
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/490
+#EXTINF:-1 ,CANAL J
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/489
+#EXTINF:-1 ,GULLI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/488
+#EXTINF:-1 ,PIWI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/487
+#EXTINF:-1 ,TIJI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/486
+#EXTINF:-1 ,BOING FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/485
+#EXTINF:-1 ,NATIONALGEOGRAPHICFR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/528
+#EXTINF:-1 ,NATIONALGEOWILDFR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/527
+#EXTINF:-1 ,DISCOVERY FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/526
+#EXTINF:-1 ,DISCOVERY SCIENCE FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/525
+#EXTINF:-1 ,DISCOVERY INVESTIGATION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/524
+#EXTINF:-1 ,Disc Family HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/3189
+#EXTINF:-1 ,ANIMAUX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/522
+#EXTINF:-1 ,RMCDECOUVERTE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/521
+#EXTINF:-1 ,PLANETE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/520
+#EXTINF:-1 ,PLANETE AE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/519
+#EXTINF:-1 ,PLANETE CI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/518
+#EXTINF:-1 ,CRIME DISTRICT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/517
+#EXTINF:-1 ,SCIENCES & VIE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/516
+#EXTINF:-1 ,USHUAIA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/515
+#EXTINF:-1 ,VOYAGE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/514
+#EXTINF:-1 ,HISTOIRE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/513
+#EXTINF:-1 ,SEASON
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/512
+#EXTINF:-1 ,c8
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58589
+#EXTINF:-1 ,FRANCEINFO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/484
+#EXTINF:-1 ,EURONEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/482
+#EXTINF:-1 ,BFM TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/481
+#EXTINF:-1 ,CNEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/47375
+#EXTINF:-1 ,LCI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/47376
+#EXTINF:-1 ,BFM BUSINESS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/480
+#EXTINF:-1 ,FRANCE24
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/477
+#EXTINF:-1 ,MTV FRANCE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/507
+#EXTINF:-1 ,TREK
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/523
+#EXTINF:-1 ,TRACE TROPICAL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/505
+#EXTINF:-1 ,MTV HITS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/501
+#EXTINF:-1 ,MEZZO FR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/498
+#EXTINF:-1 ,CANALPLAY 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2490
+#EXTINF:-1 ,CANALPLAY 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53918
+#EXTINF:-1 ,CANALPLAY 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53921
+#EXTINF:-1 ,CANALPLAY 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53922
+#EXTINF:-1 ,CANALPLAY 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53923
+#EXTINF:-1 ,CANALPLAY 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53924
+#EXTINF:-1 ,CANALPLAY 6
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53925
+#EXTINF:-1 ,CANALPLAY 7
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53926
+#EXTINF:-1 ,CANALPLAY 8
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53927
+#EXTINF:-1 ,CANALPLAY 9
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53928
+#EXTINF:-1 ,CANALPLAY 10
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/53929
+#EXTINF:-1 ,RESALA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39033
+#EXTINF:-1 ,MECCA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39035
+#EXTINF:-1 ,AHLU ALQURAN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39036
+#EXTINF:-1 ,AL MAJD 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39037
+#EXTINF:-1 ,AL MAJD AL HADEETH AL NABAWY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39038
+#EXTINF:-1 ,AL MAJD 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39039
+#EXTINF:-1 ,AL MAJD 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39040
+#EXTINF:-1 ,Al Nas
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39041
+#EXTINF:-1 ,AL RESALA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39043
+#EXTINF:-1 ,AL SIRAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39046
+#EXTINF:-1 ,Saudi Ch. For Quran
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39047
+#EXTINF:-1 ,Saudi Ch. For Sunnah
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39048
+#EXTINF:-1 ,AL AYAT TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39050
+#EXTINF:-1 ,AL JAZEERA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38143
+#EXTINF:-1 ,AL JAZEERA DOCUMENTARY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38144
+#EXTINF:-1 ,AL JAZEERA MUBASHER HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38145
+#EXTINF:-1 ,AL JAZEERA ENGLISH HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38156
+#EXTINF:-1 ,SKY NEWS ARABIA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38151
+#EXTINF:-1 ,AL ARABIYA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38146
+#EXTINF:-1 ,BBC ARABIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38148
+#EXTINF:-1 ,FRANCE 24
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38149
+#EXTINF:-1 ,RT ARAB
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38150
+#EXTINF:-1 ,AL HURRA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38152
+#EXTINF:-1 ,TRT ARABIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38153
+#EXTINF:-1 ,DW ARABIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38155
+#EXTINF:-1 ,MBC 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38159
+#EXTINF:-1 ,MBC 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38160
+#EXTINF:-1 ,MBC 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38161
+#EXTINF:-1 ,MBC 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38162
+#EXTINF:-1 ,MBC 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38163
+#EXTINF:-1 ,MBC ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38164
+#EXTINF:-1 ,MBC MAX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38165
+#EXTINF:-1 ,MBC DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38166
+#EXTINF:-1 ,MBC BOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38167
+#EXTINF:-1 ,MBC IRAQ HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38168
+#EXTINF:-1 ,MBC MASR 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38169
+#EXTINF:-1 ,MBC MASR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38170
+#EXTINF:-1 ,B4U AFLAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38171
+#EXTINF:-1 ,B4U PLUS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38172
+#EXTINF:-1 ,ZEE ALWAN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38173
+#EXTINF:-1 ,ZEE AFLAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38174
+#EXTINF:-1 ,ROTANA COMEDY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38176
+#EXTINF:-1 ,ROTANA CINEMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38177
+#EXTINF:-1 ,ROTANA MUSIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38180
+#EXTINF:-1 ,WANASAH TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38181
+#EXTINF:-1 ,MAZZIKA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38182
+#EXTINF:-1 ,CANAL ALGERIE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38190
+#EXTINF:-1 ,A3 ALGERIE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38191
+#EXTINF:-1 ,ECHOUROUK NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38194
+#EXTINF:-1 ,SAMIRA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38195
+#EXTINF:-1 ,EL BILAD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38197
+#EXTINF:-1 ,EL DJAZAIRIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38199
+#EXTINF:-1 ,BEUR TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38201
+#EXTINF:-1 ,DZAIR 24
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38203
+#EXTINF:-1 ,ALGERIE 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38204
+#EXTINF:-1 ,M TUNISIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38207
+#EXTINF:-1 ,ZITOUNA HEDAYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38210
+#EXTINF:-1 ,NESSMA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38213
+#EXTINF:-1 ,LIBYA 218
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38217
+#EXTINF:-1 ,LIBYA EL WATAN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38218
+#EXTINF:-1 ,LIBYA AL RSMIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38219
+#EXTINF:-1 ,LIBYA ALHADATH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38220
+#EXTINF:-1 ,CBC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38235
+#EXTINF:-1 ,CBC DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38236
+#EXTINF:-1 ,CBC SOFRA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38237
+#EXTINF:-1 ,CBC EXTRA NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38238
+#EXTINF:-1 ,AL NAHAR ONE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38239
+#EXTINF:-1 ,AL NAHAR DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38240
+#EXTINF:-1 ,ALHAYAT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38241
+#EXTINF:-1 ,AL HAYAT MUSLSALAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38242
+#EXTINF:-1 ,AL KAHERA WE AL NASS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38243
+#EXTINF:-1 ,SADA EL BALAD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38244
+#EXTINF:-1 ,PANORAMA DRAMA 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38247
+#EXTINF:-1 ,PANORAMA FOOD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38248
+#EXTINF:-1 ,DREAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38249
+#EXTINF:-1 ,MEHWAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38250
+#EXTINF:-1 ,AL MASRIYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38251
+#EXTINF:-1 ,NILE CINEMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38256
+#EXTINF:-1 ,NILE DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38257
+#EXTINF:-1 ,NILE COMEDY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38258
+#EXTINF:-1 ,NILE LIFE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38260
+#EXTINF:-1 ,NILE NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38262
+#EXTINF:-1 ,NILE TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38263
+#EXTINF:-1 ,NILE SPORT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38264
+#EXTINF:-1 ,DMC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38267
+#EXTINF:-1 ,TOKTOK CINEMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38273
+#EXTINF:-1 ,AL QUDS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38278
+#EXTINF:-1 ,Palestine Mubasher
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41613
+#EXTINF:-1 ,PALESTINE TODAY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38275
+#EXTINF:-1 ,PALESTINE NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38277
+#EXTINF:-1 ,PALESTINE TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38279
+#EXTINF:-1 ,LBC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38292
+#EXTINF:-1 ,MTV LEBANON HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38294
+#EXTINF:-1 ,AL JADEED
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38295
+#EXTINF:-1 ,LDC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38297
+#EXTINF:-1 ,NBN LEBANON HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38300
+#EXTINF:-1 ,AGHANI AGHANI TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38302
+#EXTINF:-1 ,LBC SAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38304
+#EXTINF:-1 ,Hawacom TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38305
+#EXTINF:-1 ,SYRIA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38307
+#EXTINF:-1 ,Syria News
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38309
+#EXTINF:-1 ,SYRIA EDUCATION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38310
+#EXTINF:-1 ,LANA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38311
+#EXTINF:-1 ,NOOR AL SHAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38313
+#EXTINF:-1 ,MINBIJ
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38317
+#EXTINF:-1 ,SAMA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38318
+#EXTINF:-1 ,ALRAI HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38324
+#EXTINF:-1 ,AL QURAIN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38326
+#EXTINF:-1 ,SAMA DUBAI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38329
+#EXTINF:-1 ,NOOR DUBAI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38331
+#EXTINF:-1 ,ABU DHABI TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38332
+#EXTINF:-1 ,ABU DHABI DRAMA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38334
+#EXTINF:-1 ,AL SHARJAH HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38336
+#EXTINF:-1 ,DUBAI SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38337
+#EXTINF:-1 ,BAHRAIN QURAN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38350
+#EXTINF:-1 ,JORDAN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38353
+#EXTINF:-1 ,KARAMEESH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38355
+#EXTINF:-1 ,JORDAN TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38356
+#EXTINF:-1 ,OMAN TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38371
+#EXTINF:-1 ,OMAN TV CULTURE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38372
+#EXTINF:-1 ,Ajyal TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41609
+#EXTINF:-1 ,Watan TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41614
+#EXTINF:-1 ,ALFAJER
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/41617
+#EXTINF:-1 ,MBC HD 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1758
+#EXTINF:-1 ,MBC HD 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1757
+#EXTINF:-1 ,MBC HD 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1756
+#EXTINF:-1 ,MBC HD 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1755
+#EXTINF:-1 ,MBC ACTION HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1754
+#EXTINF:-1 ,MBC MAX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1749
+#EXTINF:-1 ,MBC IRAQ HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/16563
+#EXTINF:-1 ,MBC DRAMA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1752
+#EXTINF:-1 ,MBC DRAMA  HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1751
+#EXTINF:-1 ,Jeem TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/4231
+#EXTINF:-1 ,BEIN BOOMERANGE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2758
+#EXTINF:-1 ,Bein Cartoon Network HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/4232
+#EXTINF:-1 ,NAT GEO BEIN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2757
+#EXTINF:-1 ,OSN ART Aflam 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18967
+#EXTINF:-1 ,OSN ART Aflam 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18966
+#EXTINF:-1 ,OSN ART Cinema
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18965
+#EXTINF:-1 ,OSN ART Hekayat
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18964
+#EXTINF:-1 ,OSN ART Hekayat 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18963
+#EXTINF:-1 ,OSN Yahala HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18895
+#EXTINF:-1 ,OSN Yahala Oula HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18896
+#EXTINF:-1 ,OSN Yahala Cinema HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18898
+#EXTINF:-1 ,OSN Cinema 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18959
+#EXTINF:-1 ,OSN Cinema 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18958
+#EXTINF:-1 ,OSN Al Youm HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18969
+#EXTINF:-1 ,OSN FANN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18946
+#EXTINF:-1 ,OSN National Geo HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18923
+#EXTINF:-1 ,OSN National Geo Wild HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18921
+#EXTINF:-1 ,OSN Discovery HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18953
+#EXTINF:-1 ,OSN Discovery ID HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18952
+#EXTINF:-1 ,OSN Discovery Family HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18954
+#EXTINF:-1 ,OSN Discovery Science HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18951
+#EXTINF:-1 ,OSN Cartoon Network
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18960
+#EXTINF:-1 ,OSN Kids Zone
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18940
+#EXTINF:-1 ,OSN Movies Kids HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18927
+#EXTINF:-1 ,OSN Living HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18939
+#EXTINF:-1 ,OSN Movies HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18928
+#EXTINF:-1 ,OSN Movies Action HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18936
+#EXTINF:-1 ,OSN Movies First HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18929
+#EXTINF:-1 ,OSN Movies First  2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18930
+#EXTINF:-1 ,OSN Movies Comedy HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18934
+#EXTINF:-1 ,OSN Movies Enigma
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18931
+#EXTINF:-1 ,OSN Star Movies HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18905
+#EXTINF:-1 ,OSN Star World HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18904
+#EXTINF:-1 ,OSN Paramount Channel
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18917
+#EXTINF:-1 ,OSN Series Comedy HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18915
+#EXTINF:-1 ,OSN Series First HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18914
+#EXTINF:-1 ,OSN History 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18943
+#EXTINF:-1 ,OSN Music Now
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18924
+#EXTINF:-1 ,beIN MOVIES 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63894
+#EXTINF:-1 ,beIN MOVIES 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63895
+#EXTINF:-1 ,beIN MOVIES 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63896
+#EXTINF:-1 ,beIN MOVIES 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63897
+#EXTINF:-1 ,beIN SERIES 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63898
+#EXTINF:-1 ,beIN SERIES 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63899
+#EXTINF:-1 ,Bein BARAEAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63900
+#EXTINF:-1 ,Bein JEEM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63901
+#EXTINF:-1 ,Bein BBC EARTH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63903
+#EXTINF:-1 ,Bein FATAFEAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63904
+#EXTINF:-1 ,Bein FOX CRIME
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63905
+#EXTINF:-1 ,Bein FOX LIFE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63906
+#EXTINF:-1 ,Bein FOX MOV ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63907
+#EXTINF:-1 ,Bein FOX MOVIES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63908
+#EXTINF:-1 ,Bein FOX REWAYAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63909
+#EXTINF:-1 ,Bein GORMENT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63910
+#EXTINF:-1 ,beIN DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63911
+#EXTINF:-1 ,BEIN SPORTS  News HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1884
+#EXTINF:-1 ,BEIN SPORTS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1885
+#EXTINF:-1 ,BEIN SPORT MAX 1 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67780
+#EXTINF:-1 ,BEIN SPORT MAX 2 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67781
+#EXTINF:-1 ,BEIN SPORT MAX 3 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67782
+#EXTINF:-1 ,BEIN SPORT MAX 4 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67783
+#EXTINF:-1 ,BEINSPORT MAX 5 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68014
+#EXTINF:-1 ,BEINSPORT MAX 6 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68015
+#EXTINF:-1 ,BEIN PREMUIM 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/668
+#EXTINF:-1 ,BEIN PREMUIM 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/666
+#EXTINF:-1 ,BEIN PREMUIM 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/664
+#EXTINF:-1 ,BEIN SPORTS 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/681
+#EXTINF:-1 ,BEIN SPORTS 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/680
+#EXTINF:-1 ,BEIN SPORTS 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/678
+#EXTINF:-1 ,BEIN SPORTS 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/676
+#EXTINF:-1 ,BEIN SPORTS 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/674
+#EXTINF:-1 ,BEIN SPORTS 6
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/672
+#EXTINF:-1 ,BEIN SPORTS 7
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/670
+#EXTINF:-1 ,BEIN SPORT MAX 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67776
+#EXTINF:-1 ,BEIN SPORT MAX 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67777
+#EXTINF:-1 ,BEIN SPORT MAX 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67778
+#EXTINF:-1 ,BEIN SPORT MAX 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68012
+#EXTINF:-1 ,BEIN SPORT MAX 6 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68013
+#EXTINF:-1 ,BEIN SPORT MAX 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67779
+#EXTINF:-1 ,BEIN PREMUIM 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/669
+#EXTINF:-1 ,BEIN PREMUIM 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/667
+#EXTINF:-1 ,BEIN PREMUIM 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/665
+#EXTINF:-1 ,beIN SPORTS HD1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/682
+#EXTINF:-1 ,beIN SPORTS HD3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/679
+#EXTINF:-1 ,beIN SPORTS HD4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/677
+#EXTINF:-1 ,beIN SPORTS HD5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/675
+#EXTINF:-1 ,beIN SPORTS HD6
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/673
+#EXTINF:-1 ,beIN SPORTS HD7
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/671
+#EXTINF:-1 ,BEIN SPORTS NBA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63912
+#EXTINF:-1 ,BEIN SPORTS XTRA 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63913
+#EXTINF:-1 ,BEIN SPORTS ENGLISH 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63916
+#EXTINF:-1 ,BEIN SPORTS ENGLISH 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63914
+#EXTINF:-1 ,BEIN SPORTS ENGLISH 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63915
+#EXTINF:-1 ,BEIN SPORTS FRENCH 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63917
+#EXTINF:-1 ,BEIN SPORTS FRENCH 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/63918
+#EXTINF:-1 ,BEIN SPORT MAX 1 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67772
+#EXTINF:-1 ,BEIN SPORT MAX 2 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67773
+#EXTINF:-1 ,BEIN SPORT MAX 3 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67774
+#EXTINF:-1 ,BEIN SPORT MAX 4 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/67775
+#EXTINF:-1 ,BEIN SPORT MAX 5 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68016
+#EXTINF:-1 ,BEIN SPORT MAX 6 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68017
+#EXTINF:-1 ,BEIN PREMUIM 1 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58417
+#EXTINF:-1 ,BEIN PREMUIM 2 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58418
+#EXTINF:-1 ,BEIN PREMUIM 3 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58419
+#EXTINF:-1 ,BIENSPORT 1 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58410
+#EXTINF:-1 ,BIENSPORT 2 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58411
+#EXTINF:-1 ,BIENSPORT 3 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58412
+#EXTINF:-1 ,BIENSPORT 4 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58413
+#EXTINF:-1 ,BIENSPORT 5 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58414
+#EXTINF:-1 ,BIENSPORT 6 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58415
+#EXTINF:-1 ,BIENSPORT 7 H265
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/58416
+#EXTINF:-1 ,BEIN SPORT MAX 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68475
+#EXTINF:-1 ,BEIN SPORT MAX 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68476
+#EXTINF:-1 ,BEIN SPORT MAX 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68477
+#EXTINF:-1 ,BEIN SPORT MAX 4 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/68478
+#EXTINF:-1 ,BEIN PREMUIM 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5651
+#EXTINF:-1 ,BEIN PREMUIM 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5650
+#EXTINF:-1 ,BEIN PREMUIM 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5649
+#EXTINF:-1 ,BEIN SPORT 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5658
+#EXTINF:-1 ,BEIN SPORT 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37619
+#EXTINF:-1 ,BEIN SPORT 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5656
+#EXTINF:-1 ,BEIN SPORT 4 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5655
+#EXTINF:-1 ,BEIN SPORT 5 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5654
+#EXTINF:-1 ,BEIN SPORT 6 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5653
+#EXTINF:-1 ,BEIN SPORT 7 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/5652
+#EXTINF:-1 ,TOYOR AL JANNAH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1970
+#EXTINF:-1 ,MASHA & MISHA TV 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37503
+#EXTINF:-1 ,JEEM TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39027
+#EXTINF:-1 ,TAHA TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39029
+#EXTINF:-1 ,CN ARABIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2190
+#EXTINF:-1 ,MR BEAN TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37502
+#EXTINF:-1 ,MAJID KIDS TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/2086
+#EXTINF:-1 ,MODY KIDS TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39028
+#EXTINF:-1 ,MICKEY HOUSE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39025
+#EXTINF:-1 ,AJYAL KIDS TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1957
+#EXTINF:-1 ,KARAMEESH TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1939
+#EXTINF:-1 ,SAOUD WA SARA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37504
+#EXTINF:-1 ,GULLI BEL ARABIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37084
+#EXTINF:-1 ,SEMSEM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/1992
+#EXTINF:-1 ,BARAEM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/37083
+#EXTINF:-1 ,MBC 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39026
+#EXTINF:-1 ,LA UNE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38536
+#EXTINF:-1 ,LA DEUX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38537
+#EXTINF:-1 ,LA TROIS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38538
+#EXTINF:-1 ,RTL TVI HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38539
+#EXTINF:-1 ,CLUB RTL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38540
+#EXTINF:-1 ,PLUG RTL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38541
+#EXTINF:-1 ,NRJ Hits TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38545
+#EXTINF:-1 ,NOTELE TOURNAI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38547
+#EXTINF:-1 ,RTL LUXEMBOURG
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38548
+#EXTINF:-1 ,VTM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38549
+#EXTINF:-1 ,VITAYA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38551
+#EXTINF:-1 ,EEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38552
+#EXTINF:-1 ,AB3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64456
+#EXTINF:-1 ,CANVAS FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64457
+#EXTINF:-1 ,Canvas HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64458
+#EXTINF:-1 ,EEN FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64459
+#EXTINF:-1 ,EEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64460
+#EXTINF:-1 ,ELEVEN PRO LEAGUE 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64461
+#EXTINF:-1 ,ELEVEN PRO LEAGUE 1 HD  (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64462
+#EXTINF:-1 ,ELEVEN PRO LEAGUE 1 HD (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64463
+#EXTINF:-1 ,ELEVEN PRO LEAGUE 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64464
+#EXTINF:-1 ,ELEVEN PRO LEAGUES 1 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64465
+#EXTINF:-1 ,ELEVEN PRO LEAGUES 2 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64466
+#EXTINF:-1 ,ELEVEN PRO LEAGUES 3 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64467
+#EXTINF:-1 ,ELEVENSPORT 1 (BE)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64468
+#EXTINF:-1 ,ELEVENSPORT 1 (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64469
+#EXTINF:-1 ,ELEVENSPORT 2 (BE)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64470
+#EXTINF:-1 ,ELEVENSPORT 2 (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64471
+#EXTINF:-1 ,ELEVENSPORT 3 (BE)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64472
+#EXTINF:-1 ,ELEVENSPORT 3 (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64473
+#EXTINF:-1 ,KETNET
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64474
+#EXTINF:-1 ,PLAY SPORTS 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64475
+#EXTINF:-1 ,PLAY SPORTS 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64476
+#EXTINF:-1 ,PLAY SPORTS 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64477
+#EXTINF:-1 ,PLAY SPORTS 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64478
+#EXTINF:-1 ,PLAY SPORTS 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64479
+#EXTINF:-1 ,PLAY SPORTS 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64480
+#EXTINF:-1 ,PLAY SPORTS 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64481
+#EXTINF:-1 ,PLAY SPORTS 5
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64482
+#EXTINF:-1 ,VIER FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64486
+#EXTINF:-1 ,VIER HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64487
+#EXTINF:-1 ,VIJF
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64488
+#EXTINF:-1 ,VIJF HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64489
+#EXTINF:-1 ,VOO SPORT 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64490
+#EXTINF:-1 ,VOO SPORT 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64491
+#EXTINF:-1 ,VOO SPORT WORLD 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64492
+#EXTINF:-1 ,VOO SPORT WORLD 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64493
+#EXTINF:-1 ,VOO SPORT WORLD 3 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64494
+#EXTINF:-1 ,VTM 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64495
+#EXTINF:-1 ,VTM 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64496
+#EXTINF:-1 ,VTM 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64497
+#EXTINF:-1 ,VTM 4
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64498
+#EXTINF:-1 ,VTM FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64499
+#EXTINF:-1 ,VTM HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64500
+#EXTINF:-1 ,VTM Kids
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64501
+#EXTINF:-1 ,ZES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64502
+#EXTINF:-1 ,ZES HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/64503
+#EXTINF:-1 ,LA 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38378
+#EXTINF:-1 ,LA 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38379
+#EXTINF:-1 ,La 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38380
+#EXTINF:-1 ,ANTENA 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38381
+#EXTINF:-1 ,ANTENA3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38382
+#EXTINF:-1 ,CUATRO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38383
+#EXTINF:-1 ,CUATRO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38384
+#EXTINF:-1 ,TELECINCO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38386
+#EXTINF:-1 ,LA SEXTA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38387
+#EXTINF:-1 ,LA SEXTA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38388
+#EXTINF:-1 ,MOVISTAR SERIES MANIA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38392
+#EXTINF:-1 ,M. SERIES HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38393
+#EXTINF:-1 ,A3 SERIES HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38395
 #EXTINF:-1 ,FOX HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 ,Fox Life Россия
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
-#EXTINF:-1 ,Иллюзион +
-http://188.113.190.12/45/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Paramount Comedy Россия
-http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-#EXTINF:-1 ,Paramount Channel
-http://russia2.livetv.az/russia/paramount/playlist.m3u8
-#EXTINF:-1 ,Shot TV
-https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
-#EXTINF:-1 ,НСТ
-http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://bitrix.powernet.com.ru/mosfilm/index.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
-http://31.128.159.41:8080/mosfilm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Hollywood
-http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1 ,Феникс+ Кино
-https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
-#EXTINF:-1 ,Sony ТВ
-https://edge04.beetv.kz/btv/SWM/Sony/Sony_576p_2000kbps.m3u8
-#EXTINF:-1 ,Мир сериала
-http://188.40.68.167/russia/mir_seriala/playlist.m3u8
-#EXTINF:-1 ,Ultra HD Cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
-#EXTINF:-1 ,Блокбастер HD
-https://eucdn.auratv.fun/blokbaster-hd/video.m3u8?token=test
-#EXTINF:-1 ,Остросюжетное HD
-https://eucdn.auratv.fun/ostrosiuzhetnoe-hd/video.m3u8?token=test
-#EXTINF:-1 ,Шокирующее HD
-https://eucdn.auratv.fun/kinopokaz-hd1/video.m3u8?token=test
-#EXTINF:-1 ,Комедийное HD
-https://eucdn.auratv.fun/kinopokaz-hd2/video.m3u8?token=test
-#EXTINF:-1 ,Trash HD
-http://cdn.nexttvnet.ru/hlsl/provide/10/TrashHD/Trash_HD_1/index.m3u8
-#EXTINF:-1 ,Свежаки
-https://ed-ru-01.mycdn.video/fresh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Уже видел
-https://ed-ru-01.mycdn.video/hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Film TV
-http://filmtv.zapto.org:8050/hls/filmtv/index.m3u8
-#EXTINF:-1 ,VHS
-https://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1 ,Premiere Group Promo HD
-http://195.154.242.229:3000/telegram/premiere_group/65237
-#EXTINF:-1 ,Premiere HD
-http://195.154.242.229:3000/telegram/premiere_group/19550
-#EXTINF:-1 ,Premium HD
-http://195.154.242.229:3000/telegram/premiere_group/19547
-#EXTINF:-1 ,РуКино HD
-http://195.154.242.229:3000/telegram/premiere_group/19549
-#EXTINF:-1 ,Victory HD
-http://195.154.242.229:3000/telegram/premiere_group/65234
-#EXTINF:-1 ,Thriller HD
-http://195.154.242.229:3000/telegram/premiere_group/19677
-#EXTINF:-1 ,Paradox HD
-http://195.154.242.229:3000/telegram/premiere_group/47349
-#EXTINF:-1 ,Paradise HD
-http://195.154.242.229:3000/telegram/premiere_group/19551
-#EXTINF:-1 ,Serial HD
-http://195.154.242.229:3000/telegram/premiere_group/64127
-#EXTINF:-1 ,USSR
-http://195.154.242.229:3000/telegram/premiere_group/47342
-#EXTINF:-1 ,Disney
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 ,Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 ,Мультимания
-http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38397
+#EXTINF:-1 ,FOX LIFE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38398
+#EXTINF:-1 ,FOX LIFE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38399
+#EXTINF:-1 ,AXN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38400
+#EXTINF:-1 ,AXN WHITE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38401
+#EXTINF:-1 ,AXN WHITE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38402
+#EXTINF:-1 ,TNT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38403
+#EXTINF:-1 ,TNT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38404
+#EXTINF:-1 ,COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38405
+#EXTINF:-1 ,COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38406
+#EXTINF:-1 ,CALLE 13
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38407
+#EXTINF:-1 ,CALLE 13 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38408
+#EXTINF:-1 ,COSMO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38409
+#EXTINF:-1 ,COSMO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38410
+#EXTINF:-1 ,SYFY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38414
+#EXTINF:-1 ,SOMOS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38417
+#EXTINF:-1 ,ENERGY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38419
+#EXTINF:-1 ,M.ESTRENOS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38422
+#EXTINF:-1 ,Movistar Cine Doc & Roll HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38423
+#EXTINF:-1 ,DISNEY CH.
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38424
+#EXTINF:-1 ,DISNEY CH HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38425
+#EXTINF:-1 ,C+ ACCION HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38426
+#EXTINF:-1 ,M.COMEDIA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38427
+#EXTINF:-1 ,MOVISTAR DRAMA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38428
+#EXTINF:-1 ,C+ DCINE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38430
+#EXTINF:-1 ,TCM HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38431
+#EXTINF:-1 ,HOLLYWOOD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38432
+#EXTINF:-1 ,Hollywood HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38433
+#EXTINF:-1 ,PARAMOUNT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38434
+#EXTINF:-1 ,M. LIGA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38437
+#EXTINF:-1 ,LALIGATV BAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38438
+#EXTINF:-1 ,LA LIGA TV BAR HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38439
+#EXTINF:-1 ,M Liga de Campeones HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38440
+#EXTINF:-1 ,M. Liga de campeones 2  HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38442
+#EXTINF:-1 ,M. Liga de campeones 3 HD (Solo Eventos)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38443
+#EXTINF:-1 ,TELEDEPORTE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38450
+#EXTINF:-1 ,M. DEPORTE 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38452
+#EXTINF:-1 ,M. GOLF HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38454
+#EXTINF:-1 ,Realmadrid TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38456
+#EXTINF:-1 ,mega
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38457
+#EXTINF:-1 ,Eurosport 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38462
+#EXTINF:-1 ,M.Liga De Campeones HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38463
+#EXTINF:-1 ,DAZN 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38469
+#EXTINF:-1 ,NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38475
+#EXTINF:-1 ,NAT GEOGRAPHIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38476
+#EXTINF:-1 ,HISTORIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38478
+#EXTINF:-1 ,DMAX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38480
+#EXTINF:-1 ,VIAJAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38483
+#EXTINF:-1 ,VIAJAR HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38484
+#EXTINF:-1 ,CRIMEN+INVES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38485
+#EXTINF:-1 ,CANAL COCINA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38487
+#EXTINF:-1 ,CANAL DE CASA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38488
+#EXTINF:-1 ,Be Mad
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38489
+#EXTINF:-1 ,Be Mad tv HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38490
+#EXTINF:-1 ,CANAL ORBE21
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38491
+#EXTINF:-1 ,SUNDANCE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38492
+#EXTINF:-1 ,DKISS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38493
+#EXTINF:-1 ,CAZA Y PESCA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38494
+#EXTINF:-1 ,CAZA y PESCA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38495
+#EXTINF:-1 ,IBERALIA TV FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38496
+#EXTINF:-1 ,Toros
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38497
+#EXTINF:-1 ,C+ TOROS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38498
+#EXTINF:-1 ,NOVA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38499
+#EXTINF:-1 ,DIVINITY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38500
+#EXTINF:-1 ,TEN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38501
+#EXTINF:-1 ,BOING
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38503
+#EXTINF:-1 ,Clan HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38505
+#EXTINF:-1 ,BABY TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38506
+#EXTINF:-1 ,NICK JR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38507
+#EXTINF:-1 ,CANAL PANDA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38508
+#EXTINF:-1 ,NICKELODEON
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38509
+#EXTINF:-1 ,NICKELODEON HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38510
+#EXTINF:-1 ,DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38511
+#EXTINF:-1 ,DISNEY XD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38512
+#EXTINF:-1 ,MTV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38514
+#EXTINF:-1 ,MEZZO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38515
+#EXTINF:-1 ,MEZZO LIVE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38516
+#EXTINF:-1 ,CANAL SUR A.
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38519
+#EXTINF:-1 ,Aragon TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38520
+#EXTINF:-1 ,7RM HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38523
+#EXTINF:-1 ,24 HORAS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38524
+#EXTINF:-1 ,VAMOS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38525
+#EXTINF:-1 ,BBC 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38561
+#EXTINF:-1 ,BBC 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38562
+#EXTINF:-1 ,BBC 4 HD / CBEEBIES HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38563
+#EXTINF:-1 ,BBC NEWS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38564
+#EXTINF:-1 ,BBC ONE SCOTTLAND HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38565
+#EXTINF:-1 ,BBC ONE WALES HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38566
+#EXTINF:-1 ,BABY TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38568
+#EXTINF:-1 ,CARTOON NETWORK
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38570
+#EXTINF:-1 ,BOOMERANG
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38571
+#EXTINF:-1 ,CARTOON NETWORK HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38572
+#EXTINF:-1 ,DISNEY CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38573
+#EXTINF:-1 ,DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38574
+#EXTINF:-1 ,DISNEY XD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38577
+#EXTINF:-1 ,NICK HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38578
+#EXTINF:-1 ,NICK JUNIOR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38580
+#EXTINF:-1 ,NICK TOONS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38582
+#EXTINF:-1 ,NICKELODEON EUROPE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38583
+#EXTINF:-1 ,KY CINEMA ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38585
+#EXTINF:-1 ,KY ATLANTIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38586
+#EXTINF:-1 ,KY CINEMA COMEDY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38588
+#EXTINF:-1 ,KY CINEMA DISNEY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38589
+#EXTINF:-1 ,KY CINEMA DRAMA & ROMANCE FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38590
+#EXTINF:-1 ,KY  CINEMA FAMILY FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38591
+#EXTINF:-1 ,KY CINEMA GREATS FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38592
+#EXTINF:-1 ,KY CINEMA PREMIER FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38594
+#EXTINF:-1 ,KY CINEMA SCI-FI FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38595
+#EXTINF:-1 ,KY CINEMA SELECT FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38596
+#EXTINF:-1 ,KY CINEMA THRILLER FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38597
+#EXTINF:-1 ,KY ONE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38598
+#EXTINF:-1 ,TRUE MOVIES
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38599
+#EXTINF:-1 ,Star Gold
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38601
+#EXTINF:-1 ,SYFY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38602
+#EXTINF:-1 ,TCM HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38603
+#EXTINF:-1 ,FILM 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38604
+#EXTINF:-1 ,FOX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38605
+#EXTINF:-1 ,CBS DRAMA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38606
+#EXTINF:-1 ,CBS ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38607
+#EXTINF:-1 ,CBS REALITY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38608
+#EXTINF:-1 ,CBS REALITY 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38609
+#EXTINF:-1 ,CHANNEL 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38610
+#EXTINF:-1 ,CHANNEL 5 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38611
+#EXTINF:-1 ,COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38612
+#EXTINF:-1 ,COMEDY CENTRAL EXTRA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38613
+#EXTINF:-1 ,COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38614
+#EXTINF:-1 ,MORE 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38616
+#EXTINF:-1 ,LIFETIME HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38617
+#EXTINF:-1 ,Movies4men
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38618
+#EXTINF:-1 ,MTV BASE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38619
+#EXTINF:-1 ,MTV CLASSIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38620
+#EXTINF:-1 ,MTV DANCE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38621
+#EXTINF:-1 ,MTV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38622
+#EXTINF:-1 ,MTV HITS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38623
+#EXTINF:-1 ,MTV LIVE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38624
+#EXTINF:-1 ,MTV MUSIC UK
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38625
+#EXTINF:-1 ,MTV ONE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38626
+#EXTINF:-1 ,MTV ROCKS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38627
+#EXTINF:-1 ,TG 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38629
+#EXTINF:-1 ,TINY POP
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38630
+#EXTINF:-1 ,TINY POP  1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38631
+#EXTINF:-1 ,TLC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38632
+#EXTINF:-1 ,TRAVEL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38633
+#EXTINF:-1 ,TRUE ENTERTAINMENT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38634
+#EXTINF:-1 ,NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38636
+#EXTINF:-1 ,NAT GEO WILD FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38637
+#EXTINF:-1 ,DISCOVERY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38638
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38639
+#EXTINF:-1 ,CI HD (CRIME AND INVESTIGATION)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38640
+#EXTINF:-1 ,BT Sports 1 | HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38642
+#EXTINF:-1 ,BT Sports 2 | HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38643
+#EXTINF:-1 ,BT Sports 3 | HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38644
+#EXTINF:-1 ,MUTV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38645
+#EXTINF:-1 ,KY SPORT NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38646
+#EXTINF:-1 ,KY SPORT ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38647
+#EXTINF:-1 ,KY SPORT FOOTBALL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38648
+#EXTINF:-1 ,KY SPORT F1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38649
+#EXTINF:-1 ,KY SPORT MAIN EVENT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38650
+#EXTINF:-1 ,KY SPORT MIX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38651
+#EXTINF:-1 ,KY SPORT PREMIER LEAGUE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38652
+#EXTINF:-1 ,EIR SPORT 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38653
+#EXTINF:-1 ,EIR SPORT 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38654
+#EXTINF:-1 ,EUROSPORT 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38655
+#EXTINF:-1 ,EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38656
+#EXTINF:-1 ,ITV 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38658
+#EXTINF:-1 ,ITV 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38659
+#EXTINF:-1 ,ITV 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38660
+#EXTINF:-1 ,ITV 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38661
+#EXTINF:-1 ,ITV BE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38662
+#EXTINF:-1 ,5STAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38666
+#EXTINF:-1 ,ALIBI HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38667
+#EXTINF:-1 ,AMC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38668
+#EXTINF:-1 ,BLAZE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38669
+#EXTINF:-1 ,DAVE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38671
+#EXTINF:-1 ,E4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38672
+#EXTINF:-1 ,EDEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38673
+#EXTINF:-1 ,GOOD FOOD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38675
+#EXTINF:-1 ,HISTORY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38677
+#EXTINF:-1 ,Home & Health
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38678
+#EXTINF:-1 ,INVESTIGATION DISCOVERY (ID)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38679
+#EXTINF:-1 ,HORROR CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38680
+#EXTINF:-1 ,REALLY UK
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38685
+#EXTINF:-1 ,RT AMERICA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38686
+#EXTINF:-1 ,RTE JUNIOR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38687
+#EXTINF:-1 ,RTE NEWS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38688
+#EXTINF:-1 ,RTE TWO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38690
+#EXTINF:-1 ,UNIVERSAL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38691
+#EXTINF:-1 ,RAI 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18465
+#EXTINF:-1 ,RAI 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18463
+#EXTINF:-1 ,RAI Movie
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18459
+#EXTINF:-1 ,RAI SCUOLA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18456
+#EXTINF:-1 ,Rai Storia HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18454
+#EXTINF:-1 ,CANALE 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18368
+#EXTINF:-1 ,Mediaset la 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18332
+#EXTINF:-1 ,MEDIASET la 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18331
+#EXTINF:-1 ,Premium Cinema  24
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18318
+#EXTINF:-1 ,Premium Cinema HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18317
+#EXTINF:-1 ,Premium Crime HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18315
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18322
+#EXTINF:-1 ,Fox Comedy HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18353
+#EXTINF:-1 ,Fox Crime
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18352
+#EXTINF:-1 ,Fox HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18351
+#EXTINF:-1 ,RSI LA1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18449
+#EXTINF:-1 ,RSI LA2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18448
+#EXTINF:-1 ,Cartoonito
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18367
+#EXTINF:-1 ,Nick
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18323
+#EXTINF:-1 ,Real Time
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18452
+#EXTINF:-1 ,Cielo HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18365
+#EXTINF:-1 ,CLASSICA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18364
+#EXTINF:-1 ,Dmax HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18358
+#EXTINF:-1 ,Focus
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18355
+#EXTINF:-1 ,FRESBEE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18348
+#EXTINF:-1 ,Giallo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18346
+#EXTINF:-1 ,History
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18345
+#EXTINF:-1 ,K2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18340
+#EXTINF:-1 ,Super J
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18400
+#EXTINF:-1 ,Super TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18398
+#EXTINF:-1 ,Caccia e Pesca HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18369
+#EXTINF:-1 ,NPO 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18505
+#EXTINF:-1 ,NPO 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18504
+#EXTINF:-1 ,NPO 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18503
+#EXTINF:-1 ,RTL 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18494
+#EXTINF:-1 ,RTL 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18493
+#EXTINF:-1 ,RTL 7 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18492
+#EXTINF:-1 ,RTL 8 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18491
+#EXTINF:-1 ,RTL Z HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18487
+#EXTINF:-1 ,NET 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18513
+#EXTINF:-1 ,SBS 6 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18485
+#EXTINF:-1 ,SBS 9 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18484
+#EXTINF:-1 ,VERONICA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18473
+#EXTINF:-1 ,NPO NIEUWS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18501
+#EXTINF:-1 ,NPO POLITIEK HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18500
+#EXTINF:-1 ,NICK JUNIOR HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18510
+#EXTINF:-1 ,NICK MUSIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18509
+#EXTINF:-1 ,NICKELODEON HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18508
+#EXTINF:-1 ,NICKTOONS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18507
+#EXTINF:-1 ,DISNEY CHANNEL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18542
+#EXTINF:-1 ,DISNEY XD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18540
+#EXTINF:-1 ,BABY TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18553
+#EXTINF:-1 ,BOOMERANG HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18552
+#EXTINF:-1 ,CARTOON NETWORK HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18551
+#EXTINF:-1 ,MTV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18515
+#EXTINF:-1 ,MTV MUSIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18514
+#EXTINF:-1 ,FILM 1 ACTION HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18535
+#EXTINF:-1 ,FILM 1 DRAMA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18534
+#EXTINF:-1 ,FILM 1 FAMILY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18533
+#EXTINF:-1 ,FILM 1 PREMIERE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18532
+#EXTINF:-1 ,CRIME INVESTIGATION HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18547
+#EXTINF:-1 ,RTL CRIME HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18490
+#EXTINF:-1 ,RTL LOUNGE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18489
+#EXTINF:-1 ,E! HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18539
+#EXTINF:-1 ,24 KITCHEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18556
+#EXTINF:-1 ,ONS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18495
+#EXTINF:-1 ,TLC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18482
+#EXTINF:-1 ,DISCOVERY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18546
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18555
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18545
+#EXTINF:-1 ,DISCOVERY WORLD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18544
+#EXTINF:-1 ,DISCOVERY INVESTIGATION HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18543
+#EXTINF:-1 ,HISTORY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18520
+#EXTINF:-1 ,NAT GEO WILD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18511
+#EXTINF:-1 ,FOX SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18529
+#EXTINF:-1 ,FOX SPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18528
+#EXTINF:-1 ,FOX SPORT 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18527
+#EXTINF:-1 ,FOX SPORT 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18526
+#EXTINF:-1 ,FOX SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18525
+#EXTINF:-1 ,FOX SPORT 6 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18524
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18538
+#EXTINF:-1 ,EUROSPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18537
+#EXTINF:-1 ,EXTREME SPORTS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18536
+#EXTINF:-1 ,COMEDY CENTRAL EXTRA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18549
+#EXTINF:-1 ,192 TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18557
+#EXTINF:-1 ,AT 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18554
+#EXTINF:-1 ,COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18550
+#EXTINF:-1 ,COMEDY CENTRAL FAMILY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18548
+#EXTINF:-1 ,FOX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18530
+#EXTINF:-1 ,KETNET HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18519
+#EXTINF:-1 ,L1 LIMBURG HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18518
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18512
+#EXTINF:-1 ,OMROEP BRABANT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18499
+#EXTINF:-1 ,OMROEP FLEVOLAND HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18498
+#EXTINF:-1 ,RTL TELEKIDS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18488
+#EXTINF:-1 ,RTV UTRECHT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18486
+#EXTINF:-1 ,SPIKE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18483
+#EXTINF:-1 ,TV DRENTHE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18480
+#EXTINF:-1 ,TV NOORD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18478
+#EXTINF:-1 ,TV ORANJE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18476
+#EXTINF:-1 ,TV RIJNMOND HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18475
+#EXTINF:-1 ,TV WEST HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18474
+#EXTINF:-1 ,OMROEP ZEELAND HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/18496
+#EXTINF:-1 ,ZIGGO SPORT EXTRA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59331
+#EXTINF:-1 ,ZIGGO SPORT GOLF HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59332
+#EXTINF:-1 ,ZIGGO SPORT RACING HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59333
+#EXTINF:-1 ,ZIGGO SPORT SELECT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59334
+#EXTINF:-1 ,ZIGGO VOTBAL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59335
+#EXTINF:-1 ,DAS ERSTE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38855
+#EXTINF:-1 ,ARTE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38856
+#EXTINF:-1 ,ZDF HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38857
+#EXTINF:-1 ,ZDF INFO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38858
+#EXTINF:-1 ,ZDF NEO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38859
+#EXTINF:-1 ,RTL HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38860
+#EXTINF:-1 ,RTL PLUS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38863
+#EXTINF:-1 ,RTL NITRO
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38864
+#EXTINF:-1 ,RTL2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38862
+#EXTINF:-1 ,SIXX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38865
+#EXTINF:-1 ,PROSIEBEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38866
+#EXTINF:-1 ,SAT.1 GOLD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38868
+#EXTINF:-1 ,VOX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38869
+#EXTINF:-1 ,SAT.1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38867
+#EXTINF:-1 ,PHOENIX HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38870
+#EXTINF:-1 ,KABEL EINS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38871
+#EXTINF:-1 ,KABEL EINS CLASSICS HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38872
+#EXTINF:-1 ,TELE 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38873
+#EXTINF:-1 ,ANIXE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38874
+#EXTINF:-1 ,- KY 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38876
+#EXTINF:-1 ,- KY ATLANTIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38877
+#EXTINF:-1 ,- KY CINEMA ACTION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38880
+#EXTINF:-1 ,KY - CINEMA FAMILY
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38883
+#EXTINF:-1 ,KY - SKY KRIMI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38886
+#EXTINF:-1 ,TNT COMEDY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38887
+#EXTINF:-1 ,- KY BUNDESLIGA 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38895
+#EXTINF:-1 ,KY BUNDESLIGA 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38896
+#EXTINF:-1 ,- KY BUNDESLIGA 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38897
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38902
+#EXTINF:-1 ,EUROSPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38903
+#EXTINF:-1 ,EUROSPORT 2 HD XTRA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38904
+#EXTINF:-1 ,SPORT1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38906
+#EXTINF:-1 ,JUKEBOX
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38908
+#EXTINF:-1 ,CLASSICA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38909
+#EXTINF:-1 ,DISCOVERY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38912
+#EXTINF:-1 ,E! ENTERTAINMENT HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38913
+#EXTINF:-1 ,HISTORY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38914
+#EXTINF:-1 ,NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38915
+#EXTINF:-1 ,NAT GEO WILD HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38916
+#EXTINF:-1 ,TLC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38917
+#EXTINF:-1 ,RTL LIVING
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38918
+#EXTINF:-1 ,SPIEGEL GESCHICHTE HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38919
+#EXTINF:-1 ,DELUXE MUSIC HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38920
+#EXTINF:-1 ,MDR SACHSEN HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38925
+#EXTINF:-1 ,NDR HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/38926
+#EXTINF:-1 ,DAZN 1 Bar HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39051
+#EXTINF:-1 ,DAZN 2 Bar HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/39052
+#EXTINF:-1 ,RTP 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59258
+#EXTINF:-1 ,RTP 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59259
+#EXTINF:-1 ,RTP 3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59260
+#EXTINF:-1 ,RTP MEMORIA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59265
+#EXTINF:-1 ,RTP Africa
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59262
+#EXTINF:-1 ,RTP Acores
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59261
+#EXTINF:-1 ,TVI24 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59298
+#EXTINF:-1 ,TVI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59294
+#EXTINF:-1 ,TVI HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59296
+#EXTINF:-1 ,SIC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59266
+#EXTINF:-1 ,Sic Caras
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59267
+#EXTINF:-1 ,Sic HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59268
+#EXTINF:-1 ,SIC KIDS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59269
+#EXTINF:-1 ,Sport TV 1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59274
+#EXTINF:-1 ,Sport TV 2 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59275
+#EXTINF:-1 ,Sport TV 3 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59276
+#EXTINF:-1 ,Sport TV 4 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59277
+#EXTINF:-1 ,Sport TV 5 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59278
+#EXTINF:-1 ,Sporting TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59280
+#EXTINF:-1 ,Eurosport 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59225
+#EXTINF:-1 ,Fightox FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59228
+#EXTINF:-1 ,Kombat Sport
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59242
+#EXTINF:-1 ,Motorvision
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59247
+#EXTINF:-1 ,TV Globo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59290
+#EXTINF:-1 ,SIC MULHER
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59270
+#EXTINF:-1 ,SIC Noticias
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59271
+#EXTINF:-1 ,Sic Radical HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59273
+#EXTINF:-1 ,Afro Music
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59205
+#EXTINF:-1 ,AMC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59206
+#EXTINF:-1 ,AXN Movies
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59207
+#EXTINF:-1 ,AXN FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59208
+#EXTINF:-1 ,AXN White
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59209
 #EXTINF:-1 ,Baby TV
-https://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
-#EXTINF:-1 ,Nickelodeon HD
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/23819
-#EXTINF:-1 ,Nick Jr
-http://185.32.44.186:8004/play/a025/index.m3u8
-#EXTINF:-1 ,JimJam
-http://188.40.68.167/russia/jimjam/playlist.m3u8
-#EXTINF:-1 ,Gulli Girl
-http://92.50.221.130:8000/play/a05z/index.m3u8
-#EXTINF:-1 ,TiJi
-http://194.190.78.81:8080/TiJi_OT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,О!
-http://46.34.209.242:80/btv/SWM/O/O_576p_2000kbps.m3u8
-#EXTINF:-1 ,Мульт
-http://92.50.221.130:8000/play/a07r/index.m3u8
-#EXTINF:-1 ,СТС Kids HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 ,Мультимузыка
-http://92.50.221.130:8000/play/a07z/index.m3u8
-#EXTINF:-1 ,FreshTV
-https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,RITSA TV
-https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
-#EXTINF:-1 ,Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,Музыка Первого
-http://176.222.187.146/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
-#EXTINF:-1 ,О2ТВ HD
-https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,#ё (Самара)
-https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
-#EXTINF:-1 ,Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 ,Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 ,Sonus
-http://www.sonus.fm:1935/public/stream_in/playlist.m3u8
-#EXTINF:-1 ,TechnoDanceMusic
-https://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:-1 ,Первый Музыкальный HD
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 ,Xite HD
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 ,MIXM TV
-http://89.179.247.144/mixm.m3u8
-#EXTINF:-1 ,Music History Radio TV
-https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
-#EXTINF:-1 ,DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 ,MTV Club
-http://92.119.251.239/udp_mtv_dance_sd/video.m3u8
-#EXTINF:-1 ,m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 ,Viva Russia
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 ,Clubbing TV HD
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Эхо TV
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 ,Эхо Москвы
-https://strm.yandex.ru/kal/echomoscow_supres/echomoscow_supres0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 ,РБК
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 ,Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 ,Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,RTVi
-http://46.34.209.243:80/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
-#EXTINF:-1 ,Москва 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
-#EXTINF:-1 ,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 ,1+1
-http://194.44.203.253/hls/4/stream.m3u8
-#EXTINF:-1 ,ЧП.iнфо
-http://lb1.macc.com.ua/life/magnolia_3/index.m3u8?bw986329639912.m3u8
-#EXTINF:-1 ,2+2
-http://188.40.68.167/russia/22/playlist.m3u8
-#EXTINF:-1 ,Украина
-https://185-82-203-145.livesports24.online/ua2plus2.m3u8
-#EXTINF:-1 ,К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 ,Новий канал
-http://51.15.176.84/hls/novy-live/index.m3u8
-#EXTINF:-1 ,Bolt
-http://iptv.prosto.tv:7000/ch53/video.m3u8
-#EXTINF:-1 ,Iнтер
-https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 ,НЛО TV
-http://maikl.megogo.xyz/iptv/8K6QLPHQA9XWMN/6372/index.m3u8
-#EXTINF:-1 ,ТЕТ
-http://iptv.prosto.tv:7000/ch7/video.m3u8
-#EXTINF:-1 ,НТН
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
-#EXTINF:-1 ,ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 ,1 Незалежний
-http://app.live.112.events/hls/112hd_hi/index.m3u8
-#EXTINF:-1 ,Союз
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 ,Спас ТВ
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,2x2 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 ,2x2 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 ,2x2 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 ,Домашний (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 ,Домашний (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 ,Домашний (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 ,Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 ,Звезда (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 ,Звезда (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 ,Карусель (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 ,Карусель (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 ,Карусель (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 ,Мир (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 ,Мир (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 ,Мир (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 ,Муз ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 ,Муз ТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
-#EXTINF:-1 ,Муз ТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 ,НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 ,НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 ,НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 ,Первый канал (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 ,Первый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 ,Первый канал (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 ,Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 ,Первый канал (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 ,Первый канал (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 ,Первый канал (+8)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 ,Первый канал (+9)
-http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 ,Пятница (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 ,Пятый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 ,Пятый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 ,Пятый канал (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 ,Рен ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 ,Рен ТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+7)
-http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+8)
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия К (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 ,Россия К (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 ,Россия К (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 ,СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 ,СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 ,СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 ,СТС Love (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 ,СТС Love (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 ,Супер (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 ,Супер (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 ,Супер (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 ,ТВ Центр (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 ,ТВ Центр (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 ,ТВ Центр (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 ,ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 ,ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 ,ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 ,ТНТ4 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 ,ТНТ4 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 ,ТНТ4 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 ,Че (+2)
-http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 ,Че (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 ,Че (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 ,Ю (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 ,Ю (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 ,Ю (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 ,Penthouse
-http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-#EXTINF:-1 ,Redlight
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 ,Hustler HD Europe
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,AST TV 1
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1 ,AST TV 2
-https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1 ,FilmON TV Adult
-http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-#EXTINF:-1 ,FilmON TV Adult 2
-http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 ,Pink Erotic 2
-http://91.212.150.248:80/PinkErotic2/tracks-v1a1/index.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59210
+#EXTINF:-1 ,Benfica TV1 HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59211
+#EXTINF:-1 ,Cacavision HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59212
+#EXTINF:-1 ,Canal Panda
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59213
+#EXTINF:-1 ,Canal Q
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59214
+#EXTINF:-1 ,Cartoon Network
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59215
+#EXTINF:-1 ,CBS Reality
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59217
+#EXTINF:-1 ,Cinemundo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59218
+#EXTINF:-1 ,Discovery Channel
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59220
+#EXTINF:-1 ,Disney Channel
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59222
+#EXTINF:-1 ,Disney Junior
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59223
+#EXTINF:-1 ,E Entertainment
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59224
+#EXTINF:-1 ,Canal 11
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59227
+#EXTINF:-1 ,Food Network
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59230
+#EXTINF:-1 ,Fox HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59233
+#EXTINF:-1 ,Fox Life FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59234
+#EXTINF:-1 ,Fox Movies
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59235
+#EXTINF:-1 ,Fuel TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59236
+#EXTINF:-1 ,Globo Portugal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59237
+#EXTINF:-1 ,Historia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59239
+#EXTINF:-1 ,Hollywood
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59240
+#EXTINF:-1 ,JIM JAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59241
+#EXTINF:-1 ,MCM Pop
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59243
+#EXTINF:-1 ,Canal 11 FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59245
+#EXTINF:-1 ,MTV Portugal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59248
+#EXTINF:-1 ,Nat Geo Wild
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59250
+#EXTINF:-1 ,National Geographic FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59251
+#EXTINF:-1 ,Nickelodeon
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59252
+#EXTINF:-1 ,Odisseia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59253
+#EXTINF:-1 ,PANDA BIGGS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59254
+#EXTINF:-1 ,PFC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59255
+#EXTINF:-1 ,Porto Canal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59256
+#EXTINF:-1 ,Record News
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59257
+#EXTINF:-1 ,SyFy
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59282
+#EXTINF:-1 ,Syfy FHD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59283
+#EXTINF:-1 ,TLC
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59284
+#EXTINF:-1 ,Travel Channel HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59285
+#EXTINF:-1 ,TVI FICIยฟยฝAO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59295
+#EXTINF:-1 ,TVI REALITY HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59297
+#EXTINF:-1 ,VH1 SD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/59299
+#EXTINF:-1 ,IRAQ AFAQ
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65178
+#EXTINF:-1 ,IRAQ DIJLA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65179
+#EXTINF:-1 ,IRAQ ALHYRAI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65180
+#EXTINF:-1 ,IRAQ AL GHADEER
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65181
+#EXTINF:-1 ,IRAQ ALLRAQIYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65182
+#EXTINF:-1 ,IRAQ AL RAFIDIAN
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65183
+#EXTINF:-1 ,IRAQ ALSHARGIYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65184
+#EXTINF:-1 ,IRAQ Alrasheed
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65185
+#EXTINF:-1 ,IRAQ HONA BAGHDAD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65186
+#EXTINF:-1 ,MBC IRAQ
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65187
+#EXTINF:-1 ,IRAQ DIJLA TARAB
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65188
+#EXTINF:-1 ,IRAQ MAWESILYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65189
+#EXTINF:-1 ,IRAQ TERKMANIYA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65190
+#EXTINF:-1 ,IRAQ SPORT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65191
+#EXTINF:-1 ,IRAQ Al Sharqia NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65192
+#EXTINF:-1 ,IRAQ ALFORAT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65193
+#EXTINF:-1 ,IRAQ AL ITIJAH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65194
+#EXTINF:-1 ,IRAQ AL ANBAR
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65195
+#EXTINF:-1 ,IRAQ ALAHAD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65196
+#EXTINF:-1 ,IRAQ IRAQIA NEWS
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65197
+#EXTINF:-1 ,IRAQ SAMARA
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65198
+#EXTINF:-1 ,IRAQ FUTURE
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65200
+#EXTINF:-1 ,IRAQ ANB
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65201
+#EXTINF:-1 ,IRAQ AL TALEE3A
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65202
+#EXTINF:-1 ,IRAQ ALBAENAH
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65203
+#EXTINF:-1 ,IRAQ ALAYAM
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65204
+#EXTINF:-1 ,IRAQ ASIATV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/65205
+#EXTINF:-1 ,AF: SN TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66338
+#EXTINF:-1 ,AF: A2i Music TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66341
+#EXTINF:-1 ,AF: Addis TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66342
+#EXTINF:-1 ,AF: Africa 7 -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66343
+#EXTINF:-1 ,AF: NAGO TV -Haiti
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66344
+#EXTINF:-1 ,AF: Al Mouridiyyah
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66345
+#EXTINF:-1 ,AF: Benie TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66346
+#EXTINF:-1 ,AF: D5TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66347
+#EXTINF:-1 ,AF: ITV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66348
+#EXTINF:-1 ,AF: Kana TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66349
+#EXTINF:-1 ,AF: Kruiskyk
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66350
+#EXTINF:-1 ,AF: Lamp Fall -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66351
+#EXTINF:-1 ,AF: Lumire TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66352
+#EXTINF:-1 ,AF: NAHOO HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66353
+#EXTINF:-1 ,AF: NTV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66354
+#EXTINF:-1 ,AF: Prime Media HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66355
+#EXTINF:-1 ,AF: Hadi TV1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66356
+#EXTINF:-1 ,AF: RTJ TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66358
+#EXTINF:-1 ,AF: SERIE -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66359
+#EXTINF:-1 ,AF: Surnaturel TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66360
+#EXTINF:-1 ,AF: Television De Mauritanie
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66361
+#EXTINF:-1 ,AF: Digital Black Music (FR)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66362
+#EXTINF:-1 ,AF: Y254 Kenya
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66364
+#EXTINF:-1 ,AF: Sahel TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66365
+#EXTINF:-1 ,AF: RTI 1
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66366
+#EXTINF:-1 ,AF: Eri TV Eritrea
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66367
+#EXTINF:-1 ,AF: RT
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66369
+#EXTINF:-1 ,AF: RT France
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66370
+#EXTINF:-1 ,AF: TV5 Monde
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66371
+#EXTINF:-1 ,AF: TV7 Colmar
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66372
+#EXTINF:-1 ,AF: ZIG -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66373
+#EXTINF:-1 ,AF: Ivoire Channel
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66374
+#EXTINF:-1 ,AF: A12 TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66375
+#EXTINF:-1 ,AF: TBN Africa
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66376
+#EXTINF:-1 ,AF: OBN TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66377
+#EXTINF:-1 ,AF: Salvation TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66378
+#EXTINF:-1 ,AF: RTF -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66381
+#EXTINF:-1 ,AF: My Comedy
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66382
+#EXTINF:-1 ,AF: Al Jazeera
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66383
+#EXTINF:-1 ,AF: RTI 2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66384
+#EXTINF:-1 ,AF: Mouride tv
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66385
+#EXTINF:-1 ,AF: Vision 4 TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66386
+#EXTINF:-1 ,AF: Kalsan TV Somali
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66387
+#EXTINF:-1 ,AF: Tv Francophonie 24
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66388
+#EXTINF:-1 ,AF: A2i TV Religion -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66389
+#EXTINF:-1 ,AF: A2ITV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66390
+#EXTINF:-1 ,AF: Mourchid TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66391
+#EXTINF:-1 ,AF: Faso
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66392
+#EXTINF:-1 ,AF: RTS 1 -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66393
+#EXTINF:-1 ,AF: RTS 2 -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66394
+#EXTINF:-1 ,AF: Hadi TV3
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66395
+#EXTINF:-1 ,AF: Walf -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66396
+#EXTINF:-1 ,AF: KTV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66397
+#EXTINF:-1 ,AF: 7 SPIRITS TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66398
+#EXTINF:-1 ,AF: Mereja TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66399
+#EXTINF:-1 ,So: Galmudug TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66400
+#EXTINF:-1 ,AF: MTV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66401
+#EXTINF:-1 ,AF: Chabiba TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66402
+#EXTINF:-1 ,AF: ORTM  -Mali
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66404
+#EXTINF:-1 ,AF: Canal CVV -Congo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66405
+#EXTINF:-1 ,AF: Obosso TV -Congo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66406
+#EXTINF:-1 ,AF: Cis TV -Congo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66407
+#EXTINF:-1 ,AF: Tele Congo -Congo
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66408
+#EXTINF:-1 ,AF: AMANI TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66410
+#EXTINF:-1 ,AF: CGTN Africa -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66411
+#EXTINF:-1 ,AF: CGTN English -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66412
+#EXTINF:-1 ,AF: CGTN France -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66413
+#EXTINF:-1 ,AF: My TV Channel -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66414
+#EXTINF:-1 ,AF: Equinoxe -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66415
+#EXTINF:-1 ,AF: Espace TV -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66416
+#EXTINF:-1 ,AF: Impac TV -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66417
+#EXTINF:-1 ,AF: Sun Plus TV -Cameron
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66418
+#EXTINF:-1 ,AF: Studio 1 TV -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66419
+#EXTINF:-1 ,AF: 3ABN Francais -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66420
+#EXTINF:-1 ,AF: 3ABN International -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66421
+#EXTINF:-1 ,AF: 3ABN Kids -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66422
+#EXTINF:-1 ,AF: JOY NEWS -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66423
+#EXTINF:-1 ,AF: Hope Africa -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66424
+#EXTINF:-1 ,AF: RTV -Ghana
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66426
+#EXTINF:-1 ,AF: ANN -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66427
+#EXTINF:-1 ,AF: EMCI TV -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66428
+#EXTINF:-1 ,AF: Hope Africa -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66429
+#EXTINF:-1 ,AF: Light TV -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66430
+#EXTINF:-1 ,AF: Spydar TV Network -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66431
+#EXTINF:-1 ,AF: TV Continental -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66432
+#EXTINF:-1 ,AF: Biafra -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66433
+#EXTINF:-1 ,AF: Hadi TV2
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66434
+#EXTINF:-1 ,AF: Dove TV -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66435
+#EXTINF:-1 ,AF: Dunamis TV -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66436
+#EXTINF:-1 ,AF: EBRU AFRICA -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66437
+#EXTINF:-1 ,AF: Nollywood -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66438
+#EXTINF:-1 ,AF: TVC News Live -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66439
+#EXTINF:-1 ,AF: Nollywood [ Fr ] -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66440
+#EXTINF:-1 ,AF: ABN TV -Nigeria
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66441
+#EXTINF:-1 ,AF: JTV -Ethiopia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66442
+#EXTINF:-1 ,AF: Amhara TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66443
+#EXTINF:-1 ,AF: Anointing TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66444
+#EXTINF:-1 ,AF: Eriteria TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66446
+#EXTINF:-1 ,AF: 2Si racines -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66448
+#EXTINF:-1 ,AF: TFM Religions -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66449
+#EXTINF:-1 ,AF: Kale Awadi TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66450
+#EXTINF:-1 ,AF: Love World Mena TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66451
+#EXTINF:-1 ,AF: MarCil TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66452
+#EXTINF:-1 ,AF: South TV HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66454
+#EXTINF:-1 ,AF: TVIslaamaa
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66457
+#EXTINF:-1 ,AF: KBC TV -Kenya
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66458
+#EXTINF:-1 ,AF: Inooro TV -Kenya
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66460
+#EXTINF:-1 ,AF: Kwanza -Kenya
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66461
+#EXTINF:-1 ,AF: Faith World TV -Etopia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66462
+#EXTINF:-1 ,AF: Tv Mocambique -Mozambique
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66463
+#EXTINF:-1 ,AF: TVM1 -Mozambique
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66464
+#EXTINF:-1 ,AF: TVM2 -Mozambique
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66465
+#EXTINF:-1 ,AF: Love World TV -South Africa
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66466
+#EXTINF:-1 ,AF: MY HOLYFIELD TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66468
+#EXTINF:-1 ,AF: MTV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66469
+#EXTINF:-1 ,AF: Africa Gospel TV -Senegal
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66470
+#EXTINF:-1 ,AF: MBC MALAWI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66472
+#EXTINF:-1 ,AF: NCI  (CI)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66474
+#EXTINF:-1 ,AF: energy 100fm namibia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66475
+#EXTINF:-1 ,AF: amaze tv sierra leone
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66476
+#EXTINF:-1 ,AF: MY MUSIC AFRICA HD
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66477
+#EXTINF:-1 ,AF: AYV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66480
+#EXTINF:-1 ,AF: Better Life TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66482
+#EXTINF:-1 ,AF: BFM Grand Lille
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66483
+#EXTINF:-1 ,AF: EVASION
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66484
+#EXTINF:-1 ,AF: Evandis Gospel TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66485
+#EXTINF:-1 ,AF: GNN TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66486
+#EXTINF:-1 ,AF: Kingdom Impact Ministry
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66487
+#EXTINF:-1 ,AF: Kingdom Sat channel
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66488
+#EXTINF:-1 ,AF: NRB TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66489
+#EXTINF:-1 ,AF: Sigma TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66490
+#EXTINF:-1 ,AF: Arise News -Ethiopia
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66491
+#EXTINF:-1 ,AF: ORTB -Benin
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66492
+#EXTINF:-1 ,SO: Universal TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66493
+#EXTINF:-1 ,SO: HCTV [ Horn Cable TV ]
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66494
+#EXTINF:-1 ,SO: Puntland TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66495
+#EXTINF:-1 ,SO: SNTV News 1 [ Somali National TV ]
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66496
+#EXTINF:-1 ,SO: Nuur Al Hudaa TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66498
+#EXTINF:-1 ,SO: Somaliland [ SLNTV ]
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66499
+#EXTINF:-1 ,SO: Dacwa TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66500
+#EXTINF:-1 ,SO: Jubbaland TV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66501
+#EXTINF:-1 ,SO: PLTV
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66503
+#EXTINF:-1 ,SO: Somali Cable
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66504
+#EXTINF:-1 ,SO: Bulsho TV SOMALI
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66505
+#EXTINF:-1 ,SO: DALKA TV (SO)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66506
+#EXTINF:-1 ,SO: RTD Djibouti
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66507
+#EXTINF:-1 ,SO: Galmudug (SO)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66509
+#EXTINF:-1 ,SO: NATIONAL
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66511
+#EXTINF:-1 ,SO: SBC TV  (SO)
+http://dimapro.cz:8080/00:1A:79:16:F9:A5/buk42424BBBB/66513
 
 #=======================""==============================#
 
