@@ -217,3 +217,70 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 ,FightBox
 http://92.43.140.249/s86/04.m3u8
+
+
+#EXTINF:-1,Animal Planet HD
+http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,AXN HD
+http://77.83.117.60:8888/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1,BT Sports 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT Sports 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies EN
+http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports HD1
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,Fox Thai TH
+http://77.83.117.60:8888/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,H2 HD
+http://77.83.117.60:8888/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,History HD
+http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere HD1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere HD2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere HD3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere HD4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True Premiere HD5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD1
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD2
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD3
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,Warner TV
+http://77.83.117.60:8888/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,*Discovery Asia
+http://77.83.117.60:8888/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1,*Fox Action True
+http://77.83.117.60:8888/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1,*NBA HD
+http://77.83.117.60:8888/02_nbahd_720p/chunklist2.m3u8
+#EXTINF:-1,*True Sport HD4
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,*True Tennis
+http://77.83.117.60:8888/02_TennisHD_720p/chunklist2.m3u8
+#EXTINF:-1,*T-Sports
+http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
+
