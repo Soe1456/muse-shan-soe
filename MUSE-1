@@ -654,10 +654,8 @@ https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 ###########----------- MOVIE : sub eng ----------###########
 #EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-07-02-2020-07-02-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dcdac100-05f3-4c95-9e97-2cf86d3b069f-large16x9_STIRR_0721_EPG_Cinehouse_1920x1080.png?1625778767229?cb=c4ca4238a0b923820dcc509a6f75849b",Cinehouse
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe91d8c6-3ff8-4480-815d-bb8d93ced667-large16x9_STIRR_0721_EPG_CineLife_1920x1080.png?1625778769097?cb=c4ca4238a0b923820dcc509a6f75849b",CineLife
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",CHARGE
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
