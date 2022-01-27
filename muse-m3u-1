@@ -1,9 +1,16 @@
 #EXTM3U8
+
+#EXTINF:-1, 1
 http://videocdn.dlyilian.com:8091/20190331/VQK8LFE139/index.m3u8
+#EXTINF:-1, 2
 http://videocdn.dlyilian.com:8091/20190331/VI2RTYUI390/index.m3u8
+#EXTINF:-1, 3
 http://videocdn.dlyilian.com:8091/20190331/SS6IHN324/index.m3u8
+#EXTINF:-1, 4
 http://videocdn.dlyilian.com:8091/20190331/YO1HJYF358/index.m3u8
+#EXTINF:-1, 5
 http://videocdn.dlyilian.com:8091/20190331/ST9KUQ004/index.m3u8
+#EXTINF:-1, 6
 http://videocdn.dlyilian.com:8091/20190331/SD0MYS892/index.m3u8
 http://videocdn.dlyilian.com:8091/20190331/TS6KUBZ407/index.m3u8
 http://videocdn.dlyilian.com:8091/20190331/SQK4EFL552/index.m3u8
