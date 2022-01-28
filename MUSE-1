@@ -653,8 +653,8 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 ###########----------- MOVIE : sub eng ----------###########
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dcdac100-05f3-4c95-9e97-2cf86d3b069f-large16x9_STIRR_0721_EPG_Cinehouse_1920x1080.png?1625778767229?cb=c4ca4238a0b923820dcc509a6f75849b",Cinehouse
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
+
+#EXTINF:-1 group-title="News" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQEazpGlJ5s6SQ/company-logo_200_200/0/1553207014560?e=2159024400&v=beta&t=XVuTm4oSNLC6O8kgJAda5eNfJNeVSQ5jk9TgHI-V7pY",Cinehouse
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe91d8c6-3ff8-4480-815d-bb8d93ced667-large16x9_STIRR_0721_EPG_CineLife_1920x1080.png?1625778769097?cb=c4ca4238a0b923820dcc509a6f75849b",CineLife
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
