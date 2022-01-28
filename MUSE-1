@@ -653,28 +653,28 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 ###########----------- MOVIE : sub eng ----------###########
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dcdac100-05f3-4c95-9e97-2cf86d3b069f-large16x9_STIRR_0721_EPG_Cinehouse_1920x1080.png?1625778767229?cb=c4ca4238a0b923820dcc509a6f75849b",Cinehouse
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dcdac100-05f3-4c95-9e97-2cf86d3b069f-large16x9_STIRR_0721_EPG_Cinehouse_1920x1080.png?1625778767229?cb=c4ca4238a0b923820dcc509a6f75849b",Cinehouse
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe91d8c6-3ff8-4480-815d-bb8d93ced667-large16x9_STIRR_0721_EPG_CineLife_1920x1080.png?1625778769097?cb=c4ca4238a0b923820dcc509a6f75849b",CineLife
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe91d8c6-3ff8-4480-815d-bb8d93ced667-large16x9_STIRR_0721_EPG_CineLife_1920x1080.png?1625778769097?cb=c4ca4238a0b923820dcc509a6f75849b",CineLife
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",CHARGE
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b",CHARGE
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b",COMET
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b",COMET
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/947c21dd-ce6d-445e-b9b6-f6fab3e328b0-large16x9_STIRR_0721_EPG_CONtv_1920x1080.png?1625778766516?cb=c4ca4238a0b923820dcc509a6f75849b",CONtv
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/947c21dd-ce6d-445e-b9b6-f6fab3e328b0-large16x9_STIRR_0721_EPG_CONtv_1920x1080.png?1625778766516?cb=c4ca4238a0b923820dcc509a6f75849b",CONtv
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8a4aeb1a-48f6-42f4-89b2-99cddfdc2068-large16x9_STIRR_0721_EPG_DoveChannel_1920x1080.png?1625778769137?cb=c4ca4238a0b923820dcc509a6f75849b",Dove
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8a4aeb1a-48f6-42f4-89b2-99cddfdc2068-large16x9_STIRR_0721_EPG_DoveChannel_1920x1080.png?1625778769137?cb=c4ca4238a0b923820dcc509a6f75849b",Dove
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/bbc73f64-e492-46b7-864c-4ad57b4f12c6-large16x9_STIRR_0721_EPG_ElectricNOW_1920x1080.png?1625778768229?cb=c4ca4238a0b923820dcc509a6f75849b",Electric Now
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/bbc73f64-e492-46b7-864c-4ad57b4f12c6-large16x9_STIRR_0721_EPG_ElectricNOW_1920x1080.png?1625778768229?cb=c4ca4238a0b923820dcc509a6f75849b",Electric Now
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="gravitas-wurl-external-12-03-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7e3416fc-ea19-4c2d-82ad-85e60dab63c4-large16x9_GravitasMoviesLogo_White.png?1635875967052?cb=c4ca4238a0b923820dcc509a6f75849b",Gravitas
+#EXTINF:-1, aspect-ratio="16:9" group-title="MOVIE" tvg-id="gravitas-wurl-external-12-03-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7e3416fc-ea19-4c2d-82ad-85e60dab63c4-large16x9_GravitasMoviesLogo_White.png?1635875967052?cb=c4ca4238a0b923820dcc509a6f75849b",Gravitas
 #EXT-X-STREAM-INF:RESOLUTION=1920x1080,SUBTITLES="English"
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="MOVIE" tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e3dc9f24-24d1-439b-a44a-7500e70c66a9-large16x9_STIRR_0721_EPG_MidnightPulp_1920x1080.png?1625778768218?cb=c4ca4238a0b923820dcc509a6f75849b",Midnight Pulp
