@@ -653,10 +653,49 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="LocalNow_EPGAdrenaline Rush" tvg-name="Adrenaline Rush" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LocalNow_EPGAll The Drama" tvg-name="All The Drama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Drama
 https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Wild West" tvg-name="Local Now Wild West" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Wild West
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLone Star" tvg-name="Lone Star" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Lone Star
+https://lonestar-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLove &amp; War" tvg-name="Love &amp; War" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Love & War
+https://linear-217.frequency.stream/dist/localnow/217/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGRomantique" tvg-name="Romantique" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Romantique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Inspiration" tvg-name="Local Now Inspiration" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Inspiration
+https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="LocalNow",★★ Movies ★★
+https://github.com/DeltaSr95/LocalNow/raw/master/localnowinfo.mp4?Movies
+#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 30s and 40s" tvg-name="Movies of the 30s and 40s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Movies of the 30's and 40's
+https://linear-204.frequency.stream/dist/localnow/204/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 50's and 60's" tvg-name="Movies of the 50s and 60s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Movies of the 50's and 60's
+https://linear-203.frequency.stream/dist/localnow/203/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 70's" tvg-name="Movies of the 70s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 70's
+https://linear-172.frequency.stream/dist/localnow/172/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 80's" tvg-name="Movies of the 80s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 80's
+https://linear-171.frequency.stream/dist/localnow/171/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGMovies of the 90's" tvg-name="Movies of the 90s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 90's
+https://linear-170.frequency.stream/dist/localnow/170/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2000s" tvg-name="Local Now Movies of the 2000s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2010s" tvg-name="Local Now Movies of the 2010s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Movies of the 2020s" tvg-name="Local Now Movies of the 2020s" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now Movies of the 2020s
+https://linear-169.frequency.stream/dist/localnow/169/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGFamily Flix" tvg-name="Family Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",LocalNow | Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGPG Flix" tvg-name="PG Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now PG Flix
+https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow_EPGPG-13 Flix" tvg-name="PG-13 Flix" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="LocalNow",Local Now PG-13 Flix
+https://linear-230.frequency.stream/dist/localnow/230/hls/master/playlist.m3u8
+
+
+
+
+
+
+
 
