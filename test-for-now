@@ -743,3 +743,30 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1  tvg-id="DLTV1" group-title="DL TV" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 
+#=================================="KNOWLEDGE"================================#
+
+#EXTINF:-1 group-title="KNOWLEDGE",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Poeple Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+
+#=================================="Peliculas"================================#
+
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602293222276.png", CINECANAL http://51.79.18.128:8081/LATINO|CINECANAL/LATINO|CINECANAL/playlist.m3u8 
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602320787525.jpg", CINEMAX http://51.79.18.128:8081/LATINO|CINEMAX/LATINO|CINEMAX/playlist.m3u8 
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602323935427.jpg", FX http://51.79.18.128:8081/LATINO|FX/LATINO|FX/playlist.m3u8
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602324109426.jpg", GOLDENPLUS http://51.79.18.128:8081/LATINO|GOLDENPLUS/LATINO|GOLDENPLUS/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
