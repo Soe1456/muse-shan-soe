@@ -809,6 +809,14 @@ http://61.19.242.134/feed/202105171329/LC11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie & Series",THAI DRAMA
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
+1*file*#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports", Star Sports 1 Hindi
+2*file*https://mkhossainx.github.io/mktv_live/channels/sports/ssp-hindi1.m3u8
+3*file*#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star SPORTS select 1
+4*file*https://mkhossainx.github.io/mktv_live/channels/sports/ssp-select1.m3u8
+5*file*#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star Sports Select 2
+6*file*https://mkhossainx.github.io/mktv_live/channels/sports/ssp-select2.m3u8
+7*file*#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star Sports 2 HD
+8*file*https://mkhossainx.github.io/mktv_live/channels/sports/ssp2.m3u8
 
 
 
