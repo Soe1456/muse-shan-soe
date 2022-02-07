@@ -789,21 +789,21 @@ https://mkhossainx.github.io/mktv_live/channels/sports/ssp-select2.m3u8
 #EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star Sports 2 HD
 https://mkhossainx.github.io/mktv_live/channels/sports/ssp2.m3u8
 
-#EXTINF:-1, Channel 7 (မြန်မာ)
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;", Channel 7 (မြန်မာ)
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:0 ,Maharbawdi
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",Maharbawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1,MWD 
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",MWD 
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1,MWD Variety 
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",MWD Variety 
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1,Movie HD
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",Movie HD
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1,Docmen HD
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",Docmen HD
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1,Shopping HD
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",Shopping HD
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1,Family HD
+#EXTINF:-1 group-title="&quot;မြန်မာ&quot;",Family HD
 http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1 group-title="&quot;မြန်မာ&quot;",MRTV 
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
