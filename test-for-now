@@ -140,6 +140,42 @@ https://sport.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="Sports"tvg-logo="https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg", TSports7
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+
+#EXTINF:-1 group-title="Sports"tvg-logo="",
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/751
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png", Arena Sport 1 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a315.png", Arena Sport 2 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a316.png", Arena Sport 3 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-4-317.png", Arena Sport 4 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a318.png", Arena Sport 5 HR
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
+#EXTINF:-1 group-title="Sports"tvg-logo="https://sport-tv-guide.live/images/stations/a314.png", Arena Sport 1 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a320.png", Arena Sport 2 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a321.png", Arena Sport 3 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-4-322.png", Arena Sport 4 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-arena-sport-5-323.png", Arena Sport 5 RS
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a325.png", Sport Klub 1
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a326.png", Sport Klub 2
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a343.png", Sport Klub 3
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-4-328.png", Sport Klub 4
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rs-sportklub-5-337.png", Sport Klub 5
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/stations/a338.png", Sport Klub 6
+http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 1
 http://203.159.95.172:8081/live/action001/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 2
@@ -577,40 +613,7 @@ http://203.162.235.41:16905
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇  Arena Sport ▇ ▆ ▅ ▄ ▃
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/751
-#EXTINF:-1,EX-YO: Arena Sport 1 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
-#EXTINF:-1,EX-YO: Arena Sport 2 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/748
-#EXTINF:-1,EX-YO: Arena Sport 3 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/746
-#EXTINF:-1,EX-YO: Arena Sport 4 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/744
-#EXTINF:-1,EX-YO: Arena Sport 5 HR
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/742
-#EXTINF:-1,EX-YO: Arena Sport 1 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/749
-#EXTINF:-1,EX-YO: Arena Sport 2 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/747
-#EXTINF:-1,EX-YO: Arena Sport 3 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
-#EXTINF:-1,EX-YO: Arena Sport 4 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
-#EXTINF:-1,EX-YO: Arena Sport 5 RS
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
-#EXTINF:-1,EX-YO: Sport Klub 1
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
-#EXTINF:-1,EX-YO: Sport Klub 2
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/739
-#EXTINF:-1,EX-YO: Sport Klub 3
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/738
-#EXTINF:-1,EX-YO: Sport Klub 4
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/737
-#EXTINF:-1,EX-YO: Sport Klub 5
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/736
-#EXTINF:-1,EX-YO: Sport Klub 6
-http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/735
+
 
 #=================================="KNOWLEDGE"================================#
 
