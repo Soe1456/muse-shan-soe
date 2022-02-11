@@ -141,7 +141,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="Sports"tvg-logo="https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg", TSports7
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 
-#EXTINF:-1 group-title="Sports"tvg-logo="",
+#EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-sportklub-hd-332.png",
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/751
 #EXTINF:-1 group-title="Sports"tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cro-arena-sport-1-314.png", Arena Sport 1 HR
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/750
@@ -274,9 +274,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/zeenang/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zeenung
 http://61.19.242.134/feed/202105171329/LC5/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",Megahits
+#EXTINF:-1 group-title="Movie" tvg-logo="https://play-lh.googleusercontent.com/wMOHAN9fSK1m_VxbN1qqsG0RMoaJr28qOjQgekjLWozcjXfWmSX76Odec6Jbe1B6mQ",Megahits
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",TV1000
+#EXTINF:-1 group-title="Movie" tvg-logo="https://pbs.twimg.com/profile_images/474186079377956864/tNej2RtW_400x400.png",TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="Movie" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/03/frmovies-1-300x300-1024x1024.jpg",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
@@ -681,13 +681,13 @@ http://61.19.242.134/feed/202105171329/LC11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie & Series",THAI DRAMA
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports", Star Sports 1 Hindi
+#EXTINF:0 tvg-country="AF" tvg-logo="https://img.sport-tv-guide.live/images/stations/a765.png" group-title="Sports", Star Sports 1 Hindi
 https://mkhossainx.github.io/mktv_live/channels/sports/ssp-hindi1.m3u8
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star SPORTS select 1
+#EXTINF:0 tvg-country="AF" tvg-logo="https://img.sport-tv-guide.live/images/stations/a230.png" group-title="Sports",Star SPORTS select 1
 https://mkhossainx.github.io/mktv_live/channels/sports/ssp-select1.m3u8
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star Sports Select 2
+#EXTINF:0 tvg-country="AF" tvg-logo="https://img.sport-tv-guide.live/images/stations/a231.png" group-title="Sports",Star Sports Select 2
 https://mkhossainx.github.io/mktv_live/channels/sports/ssp-select2.m3u8
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sports",Star Sports 2 HD
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="Sports",Star Sports 2 HD
 https://mkhossainx.github.io/mktv_live/channels/sports/ssp2.m3u8
 
 #EXTINF:-1 group-title="&quot;မြန်မာ&quot;", Channel 7 (မြန်မာ)
