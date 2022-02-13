@@ -722,7 +722,96 @@ https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 HD ##-------------" tvg-logo="" group-title="Sports HD server 2",-------------## Server 2 HD ##-------------
+http://maxq.live:25461/000123/111/447
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1" tvg-logo="" group-title="Sports HD server 2",BeIN PREMIUM 1
+http://maxq.live:25461/000123/111/605
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2" tvg-logo="" group-title="Sports HD server 2",BeIN PREMIUM 2
+http://maxq.live:25461/000123/111/606
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 3" tvg-logo="http://maxq.live:25461/images/3908b5520c10387318acb3bf705a4f2a.png" group-title="Sports HD server 2",BeIN PREMIUM 3
+http://maxq.live:25461/000123/111/607
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1" tvg-logo="http://maxq.live:25461/images/3908b5520c10387318acb3bf705a4f2a.png" group-title="Sports HD server 2",BeIN Sports 1
+http://maxq.live:25461/000123/111/608
+#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 1 HD##-------------" tvg-logo="" group-title="Sports HD server 1",-------------## Server 1 HD##-------------
+http://maxq.live:25461/000123/111/473
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 1 PREMIUM HD
+http://maxq.live:25461/000123/111/492
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 2 PREMIUM HD
+http://maxq.live:25461/000123/111/474
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 PREMIUM HD" tvg-logo="" group-title="Sports HD server 1",BEIN 3 PREMIUM HD
+http://maxq.live:25461/000123/111/475
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 1 HD
+http://maxq.live:25461/000123/111/476
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 2 HD
+http://maxq.live:25461/000123/111/477
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 3 HD
+http://maxq.live:25461/000123/111/478
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 4 HD
+http://maxq.live:25461/000123/111/479
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 5 HD
+http://maxq.live:25461/000123/111/480
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 6 HD
+http://maxq.live:25461/000123/111/481
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="Sports HD server 1",BEIN SPORTS 7 HD
+http://maxq.live:25461/000123/111/482
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="http://2111.space:8080/images/CAF.png" group-title="Sports HD server 1",Bein Sports Max 1 HD
+http://maxq.live:25461/000123/111/895
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="http://maxq.live:25461/images/3908b5520c10387318acb3bf705a4f2a.png" group-title="Sports HD server 1",Bein Sports Max 2 HD
+http://maxq.live:25461/000123/111/896
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD" tvg-logo="" group-title="All_Live",SSC HD
+http://maxq.live:25461/000123/111/897
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra HD" tvg-logo="" group-title="Sports HD server 1",AD Sports Extra HD
+http://maxq.live:25461/000123/111/906
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra Local" tvg-logo="" group-title="Sports HD server 1",AD Sports Extra Local
+http://maxq.live:25461/000123/111/908
+#EXTINF:-1 tvg-id="" tvg-name="El fagr tv" tvg-logo="" group-title="Sports HD server 1",El fagr tv
+http://maxq.live:25461/000123/111/909
+#EXTINF:-1 tvg-id="" tvg-name="AdExtraTest" tvg-logo="" group-title="Sports HD server 1",AdExtraTest
+http://maxq.live:25461/000123/111/910
+#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 SD##-------------" tvg-logo="" group-title=" Sports SD server 2",-------------## Server 2 SD##-------------
+http://maxq.live:25461/000123/111/894
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 1 SD
+http://maxq.live:25461/000123/111/890
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 2 SD
+http://maxq.live:25461/000123/111/891
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 1 SD
+http://maxq.live:25461/000123/111/892
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 SD" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 2 SD
+http://maxq.live:25461/000123/111/893
+#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 2 LOW##-------------" tvg-logo="" group-title=" Sports SD server 2",-------------## Server 2 LOW##-------------
+http://maxq.live:25461/000123/111/900
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 low" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 1 low
+http://maxq.live:25461/000123/111/902
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 low" tvg-logo="" group-title=" Sports SD server 2",BeIN PREMIUM 2 low
+http://maxq.live:25461/000123/111/903
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 Low" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 1 Low
+http://maxq.live:25461/000123/111/904
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 Low" tvg-logo="" group-title=" Sports SD server 2",BeIN SPORT Max 2 Low
+http://maxq.live:25461/000123/111/905
+#EXTINF:-1 tvg-id="" tvg-name="-------------## Server 1 SD##-------------" tvg-logo="" group-title="Sports SD server 1",-------------## Server 1 SD##-------------
+http://maxq.live:25461/000123/111/472
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 1 PREMIUM SD
+http://maxq.live:25461/000123/111/493
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 2 PREMIUM SD
+http://maxq.live:25461/000123/111/483
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 PREMIUM SD" tvg-logo="" group-title="Sports SD server 1",BEIN 3 PREMIUM SD
+http://maxq.live:25461/000123/111/484
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 1 SD
+http://maxq.live:25461/000123/111/485
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 2 SD
+http://maxq.live:25461/000123/111/486
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 3 SD
+http://maxq.live:25461/000123/111/487
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 4 SD
+http://maxq.live:25461/000123/111/488
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 5 SD
+http://maxq.live:25461/000123/111/489
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 6 SD
+http://maxq.live:25461/000123/111/490
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="Sports SD server 1",BEIN SPORTS 7 SD
+http://maxq.live:25461/000123/111/491
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports Extra LOW" tvg-logo="" group-title="Sports SD server 1",AD Sports Extra LOW
+http://maxq.live:25461/000123/111/907
 
 
 
