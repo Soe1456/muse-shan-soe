@@ -1839,5 +1839,379 @@ http://ipflix.click:8080/ToNi6319/txdw3p5mii/9128
 
 
 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
+http://live2.dootvde.com/live/50002_ch5.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+http://live2.dootvde.com/live/50003_ch7.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a646bef04dd9ae90af247f81e2ffa6ed.jpg" group-title="ดิจิตอล", MONO 29 PLUS+
+http://livetv.ddns.me:8088/live/boom@skynet/123456/549.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TVสำรอง
+https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN24
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+https://www.wopep.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6d10e3db4dd030156c56fa4afe9e891c.jpg" group-title="ดิจิตอล", JKN 18
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8            
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/12/23/jpnk3u.jpg" group-title="ดิจิตอล", TP TV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="ดิจิตอล", NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="ดิจิตอล", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="ดิจิตอล", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/eb42aa92842b63f74425e44222f6d133.jpg" group-title="ดิจิตอล", TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMmfW.png" group-title="กิฬาไทย", TRUESP HD1 
+https://we-play.live/watching/tv/true-sports-hd
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OvMyq2.png" group-title="กิฬาไทย", TRUESP HD2 
+https://www.we-play.live/watching/tv/true-sports-hd-2
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OGWdC9.png" group-title="กิฬาไทย", TRUESP HD3
+https://www.we-play.live/watching/tv/true-sports-hd-3
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/15/b0Yhnv.png" group-title="กิฬาไทย", TRUESP5 
+https://we-play.live/watching/tv/true-sports-5
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/15/b0YtmQ.png" group-title="กิฬาไทย", TRUESP7 
+https://we-play.live/watching/tv/true-sports-7
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFe1S.jpg" group-title="กิฬาไทย", TRUE TENNIS
+https://we-play.live/watching/tv/true-tennis
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFEwf.jpg" group-title="กิฬาไทย", TRUE GOLF
+https://we-play.live/watching/tv/golf-channel
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/06/OvFEwf.jpg" group-title="กิฬาไทย", TRUE GOLF2 
+https://we-play.live/watching/tv/golf-channel-thailand-hd2
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/26/orHxvZ.jpg" group-title="กิฬาไทย", TRUE NBA
+https://we-play.live/watching/tv/nba-tv  
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/08/oklyIR.png" group-title="กิฬาไทย", TRUE NFL
+https://we-play.live/watching/tv/nfl-network
+#EXTINF:-1 group-title="กิฬาไทย" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7Nfn.png", EPL1 
+https://we-play.live/watching/tv/true-premier-football-hd-1
+#EXTINF:-1 group-title="กิฬาไทย" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7B5g.png", EPL2 
+ https://we-play.live/watching/tv/true-premier-football-hd-2
+#EXTINF:-1 group-title="กิฬาไทย" tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG7fVW.png", EPL3 
+https://we-play.live/watching/tv/true-premier-football-hd-3
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/308ecc8cfb4d4d43d4bfcc71a7d732a4.png" group-title="กิฬาไทย", EPL4 
+https://we-play.live/watching/tv/true-premier-football-hd-4
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b9d9a52b695e182e8130f5f05bd6c608.png" group-title="กิฬาไทย", EPL5 
+https://we-play.live/watching/tv/true-premier-football-hd-5
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0LGP.png" group-title="กิฬาไทย", BEIN SPORTS1
+https://we-play.live/watching/tv/bein-sports-1
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/07/OG0mft.png" group-title="กิฬาไทย", BEIN SPORTS2
+https://we-play.live/watching/tv/bein-sports-2
+#EXTINF:-1 group-title="กิฬาไทย" tvg-logo="https://www.img.in.th/images/e299f2a177540b23d8a78789cd02d4a2.jpg", SPORT TV1
+https://we-play.live/watching/tv/spotv
+#EXTINF:-1 group-title="กิฬาไทย" tvg-logo="https://www.img.in.th/images/0d46bfb892fc534ad56fe3550e0f0adf.jpg", SPORT TV2
+https://we-play.live/watching/tv/spotv2
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6c5e376ef958d6da3f2c14334cac8601.jpg" group-title="กิฬาไทย", TRUE MOTRO VISION
+https://we-play.live/watching/tv/motor-vision
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqTXE.jpg" group-title="กิฬานอก", ASTRO SPORT1 
+https://livesod88.com/?id=739381&ch=astrosupersport|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqg1n.jpg" group-title="กิฬานอก", ASTRO SPORT2 
+https://livesod88.com/?id=739381&ch=astrosupersport2|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqiAg.jpg" group-title="กิฬานอก", ASTRO SPORT3 
+https://livesod88.com/?id=739381&ch=astrosupersport3|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/11/17/bXqReW.jpg" group-title="กิฬานอก", ASTRO SPORT4 
+https://livesod88.com/?id=739381&ch=astrosupersport4|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5b8213d1b6757c9878a44aa96568a710.jpg" group-title="กิฬานอก", ASTRO SPORT 5 
+http://udoofree.com/movie2/371/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/bfd3deb1c6c99a14526c40528b655acf.jpg" group-title="กิฬานอก", ASTRO ARENA 
+http://udoofree.com/movie2/271/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/708bcee45ebfc3a96c6aaef0238c45d3.png" group-title="กิฬานอก" ,SKYNET SPORTSHD
+https://smart-tv.livedoomovie.com:4431/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/acb3414afe27d422696cbde529bcc3d2.png" group-title="กิฬานอก", SKYNET SPORTS1
+https://smart-tv.livedoomovie.com:4431/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c7de3eff7fa9b74557243979d98b7395.png" group-title="กิฬานอก", SKYNET SPORTS2
+https://smart-tv.livedoomovie.com:4431/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/34f4e345e6ef1bc92dc86c826726187c.png" group-title="กิฬานอก", SKYNET SPORTS3
+https://smart-tv.livedoomovie.com:4431/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/0d30d1202bb2d568cd5615f0ad478bf9.png" group-title="กิฬานอก", SKYNET SPORTS4
+https://smart-tv.livedoomovie.com:4431/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2cb2cb54d563fa5bb83309a672c5e45b.png" group-title="กิฬานอก", SKYNET SPORTS5
+https://smart-tv.livedoomovie.com:4431/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4616c5a891bae64a5dd305382a9d064c.png" group-title="กิฬานอก", SKYNET SPORTS6
+https://smart-tv.livedoomovie.com:4431/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/9574dee6fbecf2055ba262904c3bab5d.jpg" group-title="กิฬานอก", SONY TEN1
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/3d56ce009c7e5ebbd417595c40f9efe1.jpg" group-title="กิฬานอก", SONY TEN2
+http://live.flixhub.net/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c2c1af5a39bf953e2fb9ed3c3c96167f.jpg" group-title="กิฬานอก", SONY TEN3
+http://live.flixhub.net/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ea175699625ab4268f6eb29c940d6431.png" group-title="กิฬานอก", SONY SIX
+http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/5a66936608bc935c6b93716a039efdf9.jpg" group-title="กิฬานอก", SUPER SPORT EPL
+https://ufa77.tv/channel?ch=supersportepl|Referer=https://ufa77.tv
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/71208d4892f49033afea1f5f29064283.png" group-title="กิฬานอก", SUPER SPORT FOOTBALL
+https://ufa77.tv/channel?ch=supersportfootball|Referer=https://ufa77.tv
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/912a76619561a49474bef021bdc3a74d.png" group-title="กิฬานอก", FOX SPORT1 NL
+https://livesod88.com/?id=739746&ch=foxsport1nl|Referer=https://livesod88.com  
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/370fd4614ae46cf3fe60b4e13284c676.png" group-title="กิฬานอก", FOX SPORT2 NL
+https://livesod88.com/?id=739746&ch=foxsport2nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/412b81937de9b4d642e0c0a1f74f2083.png" group-title="กิฬานอก", FOX SPORT3 NL
+https://livesod88.com/?id=739746&ch=foxsport3nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8c6f432d7aaa4a64b916c0180bdb7826.png" group-title="กิฬานอก", FOX SPORT4 NL
+https://livesod88.com/?id=739746&ch=foxsport4nl|Referer=https://livesod88.com
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/02/26/orVAMz.jpg" group-title="กิฬานอก", MUTV
+https://livesod88.com/?id=765442&ch=mutv
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8dc902a912f71329014934a7ab598d0f.png" group-title="กิฬานอก", LFCTV
+https://livesod88.com/?id=765442&ch=lfctv|Referer=https://livesod88.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/818899cecaa14a0b6dddf48a874db80c.jpg", WWE
+http://udoofree.com/movie2/270/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/db48dcd53252f631cba8ddc4d717953d.jpg", SPORT TV1
+http://udoofree.com/movie2/291/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/2e3929cfc9e98aeca740f06aa5125e41.jpg", SPORT TV2
+http://udoofree.com/movie2/292/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/8151ed6a2510a7df0cd8921bc2380835.jpg", SPORT TV3
+http://udoofree.com/movie2/293/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/aa014efbc155c5c6482cd9a6728cb720.jpg", SPORT TV4
+http://udoofree.com/movie2/294/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="กิฬานอก" tvg-logo="https://www.img.in.th/images/cdc109243b4d14e57c477c96a78fea11.jpg", SPORT TV5
+http://udoofree.com/movie2/299/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7994f7c2a922e57be9fa5f7531a690c8.png" group-title="กิฬานอก", S SPORTS FOOTBALL
+https://www.doonung1234.com/match/view/20667/supersportfootball|Referer=https://www.doonung1234.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8e2581cd49b479ebfbbe8eb391285181.jpg" group-title="ช่องหนัง", CCM 
+http://udoofree.com/movie2/48/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/bc787009e8c0a0d5cb3c5fbcc7c11557.png" group-title="ช่องหนัง", ROCK ENTERTAINMENT 
+http://udoofree.com/movie2/64/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/9b6ebd7743382f5d0ab3cf25db093909.png" group-title="ช่องหนัง", ROCK EXTREME 
+https://www.we-play.live/watching/tv/rock-extreme
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e2882525f0efb29291e85cf790fde892.png" group-title="ช่องหนัง", WAKU WAKU JAPAN
+https://www.we-play.live/watching/tv/waku-waku-japan
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/11b4f26cc5e3763d7b1cb25cf74c11ae.jpg" group-title="ช่องหนัง", LIFETIME
+https://www.we-play.live/watching/tv/lifetime
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1238910fd41e775292b31fce0fd05a4d.jpg" group-title="ช่องหนัง", AXN 
+http://udoofree.com/movie2/77/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/41143583913aa40b2eebb06c141c0074.jpg" group-title="ช่องหนัง", HITS MOVIES
+https://www.we-play.live/watching/tv/hits-movies
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c82045c09cb29ffd86145bab13ed15bb.jpg" group-title="ช่องหนัง", HITS
+https://www.we-play.live/watching/tv/hits
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8d61488c439073b5c0f726e09cafeb9b.png" group-title="ช่องหนัง", HBO HD 
+http://udoofree.com/movie2/133/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/84de7af429e6f5426031b5248b490d95.jpg" group-title="ช่องหนัง", HBO HITS 
+http://udoofree.com/movie2/306/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6eac887110c3052325a0cad4a63483d2.jpg" group-title="ช่องหนัง", HBO SIGNATURE 
+http://udoofree.com/movie2/135/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16d381c3c705aa7e60cffca7cb033e8a.jpg" group-title="ช่องหนัง", HBO FAMILY 
+http://udoofree.com/movie2/136/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ee09ae81c0e90a4ba58367b01bfa9c86.jpg" group-title="ช่องหนัง", CINEMAX 
+http://udoofree.com/movie2/137/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e48c89ee4e97a41985569943ee17fc13.png" group-title="ช่องหนัง", PARAMOUNT 
+http://udoofree.com/movie2/47/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/fb905c7c11a96ee8c119ea06f212dc6d.jpg" group-title="ช่องหนัง", WARNERTV
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f1b88c92556f3502c048ee71d1f7460a.jpg" group-title="ช่องหนัง", TRUE FILM HD
+https://www.we-play.live/watching/tv/true-film-hd
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/15bb935da0f71a159d5a5d5d967f8b56.jpg" group-title="ช่องหนัง", TRUE FILM HD2
+http://udoofree.com/movie2/55/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/79270601470d1b2b231ccfee6c09cba5.png" group-title="ช่องหนัง", TRUE THAI FILM
+https://www.we-play.live/watching/tv/true-thai-film
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b3ddbb9fa0da061747874eed508f6eb2.png" group-title="ช่องหนัง", TRUE MOVIE HITS 
+https://www.we-play.live/watching/tv/true-movie-hits
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/bbeb884556b7c108c282fb60e0b94ebd.jpg" group-title="ช่องหนัง", TRUE FILM ASIA
+http://udoofree.com/movie2/50/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/72fbac840bae5b33138140931f9a4f75.jpg" group-title="ช่องหนัง", TRUE XZYTE
+https://www.we-play.live/watching/tv/true-xzyte
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/602765d68a820b53985b6b41c76f0c0d.png" group-title="ช่องหนัง", TRUE SERIES
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/33a8fd1f3951b86df78c2351ca97b257.png" group-title="ช่องหนัง", TRUE CHAINESE MORE
+https://we-play.live/watching/tv/true-chinese-more
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e5f20c87e265fa8cf7b5c31fe9c8baf.png" group-title="ช่องหนัง", TRUE ASIAN MORE 
+https://www.we-play.live/watching/tv/true-asian-more
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ce20d66028246d639899bc9038ac2c39.png" group-title="ช่องหนัง", TRUE KOREAN MORE
+https://www.we-play.live/watching/tv/true-korean-more
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c85e966e4ac48f0959056b1cfd67dcf1.jpg" group-title="ช่องหนัง", TRUE INSIDE
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/c895d79e8c08314c7e27141dd6f9793f.jpg" group-title="ช่องหนัง", GEM
+https://we-play.live/watching/tv/gem
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a607c863f2a4339e2c85d31d7d1c17bf.png" group-title="ช่องหนัง", ZEENANG
+http://udoofree.com/movie2/41/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/39eb457d6f6513eedd2d40a44b14ef7c.jpg" group-title="ช่องหนัง", KBS WORLD 
+http://udoofree.com/movie2/45/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/338f02ba80c47db2bafcc83d17d8b0cb.png" group-title="ช่องหนัง", TVN 
+https://we-play.live/watching/tv/tvn
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/d9880e906720bc2c03e3cecd573fa969.jpg" group-title="ช่องหนัง", FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/08530f35ce4fa876de729e1416880264.jpg" group-title="ช่องหนัง", FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/e0c5a05dd384a1001aa0c77dc0c0f5ff.jpg" group-title="ช่องหนัง", FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/4333893645ba80aabc21815901746ad0.png", HISTORY 
+https://we-play.live/watching/tv/history-hd
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/750a53b686446ebe72dcf75250736696.png", H2 
+https://we-play.live/watching/tv/history-h2
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c9b21591130dc190a0dfea665b8b98f2.png", NATIONAL GEOGRAPHIC 
+https://we-play.live/watching/tv/national-geographic
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/b0b94b191e44d2907185661b782c16ea.jpg", NETGEO WILD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/9077a737d109eacd184b65a964995b74.png", DISCOVERY CHANNEL 
+https://we-play.live/watching/tv/discovery-channel
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/7cba278ac2984ef5182d33e9f77626da.png", DISCOVERY ASIA
+https://we-play.live/watching/tv/discovery-asia
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/22d4a934f81fdb9f865b36098027b888.jpg", LOVENATURE 
+https://we-play.live/watching/tv/lovenature-4k
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c755f2aab88607683ed1abd1b11d3b71.png", ANIMAL PLANET 
+https://we-play.live/watching/tv/animal-planet
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/f8ca3997245b5637541dbf9c95bc8da3.jpg", SARADEE
+https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/8f2761663d6273f196580faefa169ac7.jpg", สำรวจโลก
+https://1o0.in/3cc0cd
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/978772847b42cd258e0991ee2149df37.jpg", MYSCI
+https://cdn6.goprimetime.info/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/62574bfc72ef81462dac5b484441f912.png", TRUE WILD
+https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/a81c3e82331b1d891e712a730d0b769d.png", OUTDOOR
+https://mediasv.online/wacth_1_media/673_OUTDOOR/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg", BBC EARTH
+https://mediasv.online/wacth_1_media/568_BBC_Earth/playlist.m3u8
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2dd1267a8694ce2e6a96692a27f98b7a.png", TRUE LIFE
+http://udoofree.com/movie2/94/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/3de590283257d7a7aaa181ef5aeb0e30.jpg", TRUE SIC
+http://udoofree.com/movie2/95/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/2643154d6ed913015caa73fc5138edf8.jpg", TLC
+https://we-play.live/watching/tv/tlc-hd
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/940fc281f97a3225f5b1fb68ead66aa9.jpg", AFN 
+https://we-play.live/watching/tv/asian-food-channel
+#EXTINF:-1 group-title="สารคดี" tvg-logo="https://www.img.in.th/images/689407e8d493abe979b2d6f1371644cc.png", FASION TV
+https://we-play.live/watching/tv/fashion-tv
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/ee74069e7dc43dc1db038a4b30d847cc.jpg" group-title="การ์ตูนเด็ก", NICKELODEON 
+https://we-play.live/watching/tv/nickelodeon
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/b0b09526c0efa0fbafe377fe05a889fd.jpg" group-title="การ์ตูนเด็ก", ANIPLUS 
+https://we-play.live/watching/tv/aniplus
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/368d3d29f5525b3dd70e05b21506f1ac.png" group-title="การ์ตูนเด็ก", CN 
+https://we-play.live/watching/tv/cartoon-network
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/fd857bb9050875080d68a8e162bcd180.jpg" group-title="การ์ตูนเด็ก", DREAMWORKS 
+https://we-play.live/watching/tv/dreamworks
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/691b47ccba4e0af48342bdfcc781ad72.png" group-title="การ์ตูนเด็ก", NICK JR 
+https://we-play.live/watching/tv/nick-jr
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" group-title="การ์ตูนเด็ก", BOOMERANG
+https://streaming.livescorethai.net/iptv/sd-boomerang.stream/chunks.m3u8|Referer=https://freetvdd.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/2a551c1a9831f7c1ceaeac6e43558cc0.png" group-title="การ์ตูนเด็ก", ANIMAX
+https://cdn6.goprimetime.info/feed/202105171329/LC38/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/52787280db33f47616d06400c93ef6db.jpg" group-title="การ์ตูนเด็ก", TOONEE
+https://cdn6.goprimetime.info/feed/202105171329/LC23/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/1b1028430bb8b27bfe42cd975aaad338.png" group-title="การ์ตูนเด็ก", DISNEY XD
+http://udoofree.com/movie2/83/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/c6b02fd53f56ef1f234b05fec9b44dfc.jpg" group-title="การ์ตูนเด็ก", DISNEY JUNIOR
+http://udoofree.com/movie2/84/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg" group-title="การ์ตูนเด็ก", TRUE SPARK JUMP
+http://udoofree.com/movie2/81/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1, tvg-logo="https://www.img.in.th/images/6a811fa291e04b703f19c001e32d18be.png" group-title="การ์ตูนเด็ก", TRUE SPARK
+http://udoofree.com/movie2/80/single-live?watch=1|Referer=http://udoofree.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/82af95a074c8ad386c69396c04a6ff53.jpg" group-title="หนังเรื่อง", F9 เร็ว..แรงทะลุนรก 9
+https://we-play.live/watching/movie/f9-2021 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/cf9d0464e516fc7aeab649ae659e4ed9.jpg" group-title=", ชาง-ชี กับตำนานลับเท็นริงส์
+https://we-play.live/watching/movie/shangchi-and-the-legend-of-the-ten-rings-2021 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1118a9f457b950f3f225a360ef0104ab.jpg" group-title=", Shadow in the Cloud ประจัญบาน อสูรเวหา
+https://we-play.live/watching/movie/shadow-in-the-cloud-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7da75936440bedd7ae77ee3abc58f44b.jpg" group-title="หนังเรื่อง", FINCH 2021 
+https://we-play.live/watching/movie/finch-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8072bce93876757f310b7112586e893d.jpg" group-title="หนังเรื่อง", Red Notice Red Notice
+https://we-play.live/watching/movie/red-notice-2021  
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1890a7fda2f15721637be03ccfd104e9.jpg" group-title="หนังเรื่อง", Monkey King: The One and Only ไซอิ๋ว: สุดยอดราชาวานร  
+https://we-play.live/watching/movie/monkey-king-the-one-and-only-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/2630d657d9a4f7a3930f2da51539ec5b.jpg" group-title="หนังเรื่อง", Reminiscence ล้วงอดีตรำลึกเวลา 
+https://we-play.live/watching/movie/reminiscence-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/38042b44d94c6443538147ee74e6566a.jpg" group-title="หนังเรื่อง", Love Hard หลอกรักไว้ดักเลิฟ
+https://we-play.live/watching/movie/love-hard-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/b0ae65da0fa69c655d0d12f7cffa2c57.jpg" group-title="หนังเรื่อง", Old โอลด์
+https://we-play.live/watching/movie/old-2021 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/19f288726a69bc5e6064f14ef1a9f2b2.jpg" group-title="หนังเรื่อง", Don't Breathe 2 ลมหายใจสั่งตาย 2
+https://we-play.live/watching/movie/dont-breathe-2-2021 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/184a9e9a80a40573ce7da24f713e2380.jpg" group-title="หนังเรื่อง", Army of Thieves แผนปล้นยุโรปเดือด
+https://we-play.live/watching/movie/army-of-thieves-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7cd978ebf3245c08d67fb1fc24180b15.jpg" group-title="หนังเรื่อง", Nobody Sleeps in the Woods Tonight 2 คืนผวาป่าไร้เงา ภาค 2
+https://we-play.live/watching/movie/nobody-sleeps-in-the-woods-tonight-2-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/7653a9f72ae1021d2eb491069c82a23a.jpg" group-title="หนังเรื่อง", He's All That ภารกิจปั้นหนุ่มในฝัน
+https://we-play.live/watching/movie/hes-all-that-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f72da6d1d5359eaada58160ab3c41800.jpg" group-title="หนังเรื่อง", Justice Society: World War II Justice Society: World War II
+https://we-play.live/watching/movie/justice-society-world-war-ii-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/ef944266e3bb3e04a2d9aa22e053991d.jpg" group-title="หนังเรื่อง", Alive คนเป็นฝ่านรกซอมบี้
+https://we-play.live/watching/movie/alive-2020
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/a27d6b55ea4153fb8ccee1a2148aba60.jpg" group-title="หนังเรื่อง", Fantasy Island เกาะสวรรค์ เกมนรก
+https://we-play.live/watching/movie/fantasy-island-2020 
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/16309c6695622ac76fc451f6e7fda9d5.jpg" group-title="หนังเรื่อง", Copshop (2021)
+https://movie88th.com/movie/copshop-2021|Referer=https://movie88th.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/f8f15a49edf4f34a86ac793092e65929.jpg" group-title="หนังเรื่อง", The White Tiger พยัคฆ์ขาวรำพัน
+https://we-play.live/watching/movie/the-white-tiger-2021
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/0a8ec9f248e968018c9799a268757730.jpg" group-title="หนังเรื่อง", Jupiters Legacy (2021) จูปิเตอร์ส เลกาซี่
+https://bit.ly/3F72ZPl|Referer=https://movie88th.com
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/8fdd77e11b1f803131d60fc39cf45a41.jpg" group-title="หนังเรื่อง", เดอะ พริ้นเซส สวิตช์ สลับแล้วสลับอีก
+https://we-play.live/watching/movie/the-princess-switch-switched-again-2020
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/6d67dc50798606cf36a875855b281174.jpg" group-title="หนังเรื่อง", The Beast แค้นอสูร
+https://we-play.live/watching/movie/the-beast-2020
+#EXTINF:-1 group-title="หนังเรื่อง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlRitHQcgijhFZ08FcBvL5xI7THC0GhYyQWryMsuSI2OnQSg5PabL1ftiXxeSmUA2UiY&usqp=CAU", Transformers (2007) มหาวิบัติจักรกลสังหารถล่มจักรวาล
+https://p2p-ns1.sage.stream/hls/transformers-2007/index.m3u8
+#EXTINF:-1 group-title="หนังเรื่อง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4MksbX99_jZ1P8mW-vopXcx5sCTn31uxzG845rNW_EBT-BCodI0KnM1Cvq9EE6EWW1W4&usqp=CAU", Transformers 2: Revenge of The Fallen (2009) ทรานฟอร์เมอร์ส มหาสงครามล้างแค้น ภาค2
+https://p2p-ns1.sage.stream/hls/transformers-2-revenge-of-the-fallen-2009/index.m3u8
+#EXTINF:-1 group-title="หนังเรื่อง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHY5j_gORAoJCxsEzBLYoXQkepaK-te0Iy59AquZGjmmnVYvL6apMtuC68eZpjJ_GwbY&usqp=CAU", Transformers: The Dark of The Moon (2011)
+https://p2p-ns1.sage.stream/hls/transformers-3-dark-of-the-moon-2011/index.m3u8
+#EXTINF:-1 group-title="หนังเรื่อง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWsh8cVZHMGUIdxcFTb0yr6hM2Bd2IukQ1GKvVIMohL1-W5n9lBL-x5SGi0pqdL4wP0s&usqp=CAU", Transformers: Age of Extinction (2014) ทรานส์ฟอร์มเมอร์ส: มหาวิบัติยุคสูญพันธุ์
+https://p2p-ns1.sage.stream/hls/transformers-age-of-extinction-2014/index.m3u8
+#EXTINF:-1 group-title="หนังเรื่อง"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LVs223x9LSo_ez1JdkhXRKVUgs3Z2LuDuRY5-w8r9dNH_9KhEnFP8S3am7GqAkN009I&usqp=CAU", Transformers 5 The Last Knight (2017) อัศวินรุ่นสุดท้าย
+https://p2p-ns1.sage.stream/hls/transformers-the-last-knight-2017/index.m3u8
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1622872150nK53HdRhmM07tsXdePcmWr5XFSd-402x603.jpg",Killer Cheerleader (2020)
+http://core.dumovie.co/stream/1080/0BD3g9z7w7nEHpH.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1622871978nwr8WwbRVWqO28jw9J4HEc5BiVF-402x603.jpg",Blast Beat (2020)
+http://core.dumovie.co/stream/1080/Ar4fI5lO8swStq5.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621325291lPsD10PP4rgUGiGR4CCXA6iY0QQ-402x603.jpg",Raya and the Last Dragon รายากับมังกรตัวสุดท้าย (2021)
+http://core.dumovie.co/stream/1080/ByXlFrSXnS3PY1r.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621324572pEvpcDZfQ7Z29euZ5Q6tA6DxzNs-402x603.jpg",Tom and Jerry ทอม แอนด์ เจอร์รี่ (2021)
+http://core.dumovie.co/stream/1080/UTYDrAaxVJGpX3O.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621324517dCvmmLiACE1PtXa39ikZYzTuZEQ-402x603.jpg",Space Sweepers (Seungriho) ชนชั้นขยะปฏิวัติจักรวาล (2021)
+http://core.dumovie.co/stream/1080/FklNVY8HZXDclTp.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621324471e6SK2CAbO3ENy52UTzP3lv32peC-402x603.jpg",Outside the Wire สมรภูมินอกลวดหนาม (2021)
+http://core.dumovie.co/stream/1080/pOvvf9juPnYsvoK.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621324424aLBo1Ca9PggcWY98ItW5ZkdxTuA-402x603.jpg",Moxie ม็อกซี่ (2021)
+http://core.dumovie.co/stream/1080/hyXdyxjwEKKTBnx.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/16213243678EuP4h4hAeVepjWKOzh57X4Vque-402x603.jpg",Godzilla vs. Kong ก็อดซิลล่า ปะทะ คอง (2021)
+http://core.dumovie.co/stream/1080/Jw8UjUNviNieiOt.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621324048y9k5MjbLsCftyrQ4ec6bPmRtORf-402x603.jpg",Double Dad ดับเบิลแด้ด (2021)
+http://core.dumovie.co/stream/1080/z8vthflNGdMceEs.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/16213238242DUCeP41bJdmG6h122FFNOj9blH-402x603.jpg",อ้าย..คนหล่อลวง
+http://core.dumovie.co/stream/1080/gazlW9U1BI6CIuu.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621323728nj1vwEKBtRbOEK79mYF23ZyXUs2-402x603.jpg",สุขสันต์วันโสด
+http://core.dumovie.co/stream/1080/SzNJ4jpWEBPkI09.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/16213236697KmbxQrWTeH3OsaqJ0eJqP4ZgnW-402x603.jpg",พี่นาค 2
+http://core.dumovie.co/stream/1080/irDrye9H8Jr5ywl.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621323623cyVyrXq5dRAtdF06iQhi2vkkyYE-402x603.jpg",พร้อมรุก ยัยตุ๊กตาซ้อมรัก
+http://core.dumovie.co/stream/1080/qi4IWuf70ForHY9.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621323055mOrPA7JmmizjZV134tUhFA9OGvO-402x603.jpg",Unhinged เฮียคลั่ง ดับเครื่องชน (2020)
+http://core.dumovie.co/stream/1080/j1grl0L5iWalHYL.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621322451ltyARDw2EFXZ2H2ERnlEctXPioP-402x603.jpg",The War with Grandpa ถ้าปู่แน่ ก็มาดิครับ (2020)
+http://core.dumovie.co/stream/1080/Er1Q7vtNme3GtLp.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/16213223983XUwdilxvotHHRu3jbvDiY7ko6D-402x603.jpg",The Outpost ผ่ายุทธภูมิล้อมตาย (2019)
+http://core.dumovie.co/stream/1080/Yv1WqAxWz1RaWhu.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/16213223499lWDGJwLRQv5mzbN9MGvHrpHxJB-402x603.jpg",The Cursed Lesson ผีโยคะ (2020)
+http://core.dumovie.co/stream/1080/CuYUYpN9DgyYrIe.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621322133tbaqDcECse66ALE1MR4nE8KqzKn-402x603.jpg",Honest Thief ทรชนปล้นชั่ว (2020)
+http://core.dumovie.co/stream/1080/nJcbjbkg1PtD8IW.mp4
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://movietded.com/wp-content/uploads/2021/06/1621322084wxnEgz67wNd2sWZIywZNPIQD5I1-402x603.jpg",Greenland นาทีระทึก..วันสิ้นโลก (2020)
+http://core.dumovie.co/stream/1080/p22J7MMvD9nFTV8.mp4
 
 
