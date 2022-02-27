@@ -2073,3 +2073,31 @@ http://core.dumovie.co/stream/1080/nJcbjbkg1PtD8IW.mp4
 http://core.dumovie.co/stream/1080/p22J7MMvD9nFTV8.mp4
 
 
+#EXTINF:-1 group-title="Sport HD",SWISS SPORT TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
+#EXTINF:-1 group-title="Sport HD",Look Sport 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="Sport HD",Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="Sport HD",Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="Sport HD",Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT LALIGA
+http://vmp343.ddnsking.com:80/david2/david2/394991
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT PREMIER LEAUGE
+http://vmp343.ddnsking.com:80/david2/david2/394993
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT FOOTBALL
+http://vmp343.ddnsking.com:80/david2/david2/394994
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT GRANDSTAND
+http://vmp343.ddnsking.com:80/david2/david2/394995
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT BLITZ
+http://vmp343.ddnsking.com:80/david2/david2/394999
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT MAXIMO
+http://vmp343.ddnsking.com:80/david2/david2/395000
+#EXTINF:-1 group-title="Sport HD",SUPER SPORT TENNIS
+http://vmp343.ddnsking.com:80/david2/david2/395002
+
+
+
+
