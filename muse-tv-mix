@@ -1,334 +1,146 @@
-{
-"name": "muse-tv-mix",
-"author": "soe1456",
-"image": "http://31.media.tumblr.com/tumblr_mdc8w1Nu8V1rz202xo1_500.gif",
-"url": "https://raw.githubusercontent.com/Soe1456/muse-shan-soe/main/muse-tv-mix",
-"info": "@museshan",
-"stations": [
+{"name": "🎥muse-movies-285🎞️","author": "musetv update 20/04/2021 17:07","url": "https://pastebin.com/raw/eafVYqu8","image": "https://logos.flamingtext.com/Name-Logos/Muse-design-power-name.gif","groups": [
 
-{
-"name": "9 may 2021",  
-"image": "https://i.gifer.com/ItDJ.gif",  
-"url": "https://www.facebook.com/profile.php?id=100004241508542",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-
-{
-"name": "youtube-fm99activeradio",  
-"image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
-"url": "https://www.youtube.com/watch?v=oj6pwZgmF74",
-"referer": "https://fm99activeradio.mcot.net/",
-"playInNatPlayer": "true"
-},
-{
-"name": "fm99activeradio",  
-"image": "https://fm99activeradio.mcot.net/static/img/logofm99.png",  
-"url": "https://fm99activeradio.mcot.net/live",
-"referer": "https://fm99activeradio.mcot.net/",
-"playInNatPlayer": "true"
-},
-{
-"name": "Celestial-Movies",
-"image":"https://www.nettv.live/uploads/18/1-1Q00Q44S9149.jpg",
-"url": "http://210.210.155.35/session/df4949a4-bd66-11eb-a1b7-a2578fecd69e/qwr9ew/s/s33/01.m3u8",
-"referer": "https://wowlive.info/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "BBC-NEWS",
-"image":"https://www.nettv.live/uploads/allimg/18/1-1PQH351480-L.jpg",
-"url": "http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8",
-"referer": "https://www.nettv.live/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "CNN",
-"image":"https://www.nettv.live/uploads/allimg/19/1-1ZP41254320-L.jpg",
-"url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8",
-"referer": "https://www.nettv.live/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
+{"name": "movie-thai-langue-พากย์ไทย","image": "http://25.media.tumblr.com/tumblr_m7ae9veQSH1qita9jo2_250.gif","stations":[
 
 
 
 
-{
-"name": "The 1",
-"image":"https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",
-"url": "https://www.tdtchannels.com/television/La1",
-"referer": "https://www.tdtchannels.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "The 2",
-"image":"https://graph.facebook.com/la2detve/picture?width=200&height=200",
-"url": "https://www.tdtchannels.com/television/La2",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "À Punt",
-"image":"https://graph.facebook.com/apuntmedia/picture?width=200&height=200",
-"url": "https://www.tdtchannels.com/television/%C3%80Punt",
-"referer": "https://www.tdtchannels.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "M la liga",
-"image":"https://sport-tv-guide.live/images/stations/a1840.png",
-"url": "http://209.205.221.74:130/R3$3202/3R1W3$32/1618_.m3u8?Manujaz",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "yalla-tv",
-"image":"https://yt3.ggpht.com/ytc/AAUvwngY9e0hcx4TMIuhf_VScsvS510Gu5nVv_FqHsAb=s48-c-k-c0x00ffffff-no-rj",
-"url": "https://d3u7f2c3yddrxc.cloudfront.net:443/out/v1/3f2878ed33c349e988b28548a54a5d94/index_1.m3u8?SBN",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
 
-{
-"name": "tennis live",
-"image":"https://pbs.twimg.com/profile_images/1156215890800758784/pEvdg9nZ_400x400.png",
-"url": "https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd.m3u8?per",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "tennis live",
-"image":"https://pbs.twimg.com/profile_images/1156215890800758784/pEvdg9nZ_400x400.png",
-"url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?per",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "blue sport 1",
-"image":"https://sport-tv-guide.live/images/stations/a251.png",
-"url": "https://www.unacanita.com/canal/6",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "M la liga",
-"image":"https://sport-tv-guide.live/images/stations/a1840.png",
-"url": "http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "bein-sports-1-en",
-"image":"https://cdn.bein.com/mena/wp-content/uploads/2019/01/bein-og-01-1.png",
-"url": "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?per",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "sport-tv-5",
-"image":"https://sport-tv-guide.live/images/stations/a454.png",
-"url": "https://v7.sportzonline.to/channels/pt/sporttv5.php",
-"referer": "https://v7.sportzonline.to/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "ESPN 2 VIVO",
-"image":"https://4.bp.blogspot.com/-gXHnoCH2dsY/XLd3nbuXt0I/AAAAAAAAAdU/beFGf1a2pZwzEjd6EFJstpxq7Ulxx-hmACLcBGAs/s1600/ESPN%2B2%2Ben%2Bvivo.pngg",
-"url": "http://23.237.78.54/live-1000/263/playlist.m3u8?SBN",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "WWE NXT",
-"image":"https://pbs.twimg.com/profile_images/1382432329721864193/Aj6NaB2C_400x400.jpg",
-"url": "http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Eleven Sports 2 Poland",
-"image":"https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png",
-"url": "https://daddylive.co/stream/stream-72.php",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Futbol 1 HD",
-"image":"https://sport-tv-guide.live/images/stations/a733.png",
-"url": "http://46.174.189.51/m1/tracks-v1a1/mono.m3u8",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Futbol 1 HD",
-"image":"https://sport-tv-guide.live/images/stations/a733.png",
-"url": "http://46.174.189.51/m1/tracks-v1a1/index.m3u8",
-"referer": "http://www.hesgoal.com/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "M la liga",
-"image":"https://sport-tv-guide.live/images/stations/a1840.png",
-"url": "https://c787898.com/embed.php?id=live20",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "Supersport 3",
-"image":"http://3.bp.blogspot.com/-3p_nnstvdVI/TZyPpHyEGhI/AAAAAAAAAWM/7Z9duEtMg1E/s1600/SuperSport+HD+3+logo.png",
-"url": "https://wowlive.info/sport.php?id=2",
-"referer": "https://wowlive.info/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "sky sport arena",
-"image":"https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fitalie%2Fskysportarenahd.gif",
-"url": "https://wowlive.info/sport.php?id=9",
-"referer": "https://wowlive.info/",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
-{
-"name": "",
-"image":"",
-"url": "",
-"referer": "",
-"info": "museappfree",
-"playInNatPlayer": "true"
-},
+
+{"name": "The Last Kingdom Seven Kings Must Die (2023)", "image": "https://www.123-hd.com/wp-content/uploads/2023/04/The-Last-Kingdom-Seven-Kings-Must-Die-2023-%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%94%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%A1%E0%B9%8C-300x450.jpg","url": "https://main.77player.xyz/m3u8/bab6d2b098b96e9815f2c1ff/bab6d2b098b96e9815f2c1ff438.m3u8","referer": "https://www.123-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "https://www.123-hd.com/wp-content/uploads/2023/03/Shazam-Fury-of-the-Gods-2023-%E0%B8%8A%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%A1-%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2-300x450.jpg","url": "https://main.77player.xyz/m3u8/c4080f5d07fe797f97327a70/c4080f5d07fe797f97327a70438.m3u8","referer": "https://www.123-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "https://www.123-hd.com/wp-content/uploads/2023/04/Chupa-2023-%E0%B8%8A%E0%B8%B9%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%89%E0%B8%B1%E0%B8%99-300x450.jpg","url": "https://main.77player.xyz/m3u8/37993dc7395cb30d4971a242/37993dc7395cb30d4971a242438.m3u8","referer": "https://www.123-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Dungeons & Dragons Honor Among Thieves (2023)", "image": "https://www.img10.xyz/assets/movie_poster/b/bc3e8f2f7190dcc7ae7351d4e045374a.jpg","url": "https://server9.cdn-link.com/hls/y2SzaTs/file_,1080,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "แอนท์‑แมน และ เดอะ วอสพ์", "image": "https://www.img01.xyz/assets/movie_poster/0/09fd997a6dabf0769a5f52a33be39b1c.jpg","url": "https://server9.cdn-link.com/hls/is7Ve0X/file_,1080,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Three Thousand Years of Longing (2022)", "image": "https://www.img08.xyz/assets/movie_poster/6/62d310c8ce1eade7e393122084a9d291.jpg","url": "https://server9.cdn-link.com/hls/yga27Yj/file_,720,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Shazam (2019)", "image": "https://www.img10.xyz/assets/movie_poster/7/701466adc1998a99fbe51596e57e0cd9.jpg","url": "https://server3.cdn-link.com/hls/lVzKM4Y/file_,1080,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": " Allegiant", "image": "https://s3.bear-tv.com/assets/images/poster/a/compressed/202211/13542p3PvcAjBea4fpvi0qjdABiOHayT96oYK.jpg","url": "https://www.doonung1234.com/movie/view/3308/Allegiant---%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "The Gray Man", "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2txm41iaxlk4c80gok.jpg","url": "https://www.doonung1234.com/movie/view/2975/The-Gray-Man-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%86%E0%B9%88%E0%B8%B2-(2022)-[%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2]","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Black Panther: Wakanda Forever", "image": "https://s3.bear-tv.com/assets/images/poster/rKvISkJyF2F3YvJojK988rp1K45CkAqdYwzC5f.jpg","url": "https://www.doonung1234.com/movie/view/3917/Black-Panther--Wakanda-Forever---%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C--%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D-[4K-IMAX-Version]","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "One Way", "image": "https://s3.bear-tv.com/assets/images/poster/A0TZCOcS1cROne_Way.jpg","url": "https://www.doonung1234.com/movie/view/3736/One-Way---%E0%B8%95%E0%B8%B1%E0%B9%8B%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B2","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Birds of Prey", "image": "https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/pce3lhx1m4gw8gko4.jpg","url": "https://www.doonung1234.com/movie/view/1075/Birds-of-Prey-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%99%E0%B8%81%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B9%88%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B9%8C-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94-(2020)-[-Master-iTunes-]","referer": "https://www.doonung1234.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "Firestarter (2022)", "image": "https://see2movie.com/wp-content/uploads/2023/04/Firestarter-2022.jpg","url": "https://see2movie.com/firestarter-2022-2/","referer": "https://see2movie.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+
+
+
+
+
+
+{"name": "Hikaru Utada - Live Sessions From Air Studios ออนไลน์", "image": "https://lh3.googleusercontent.com/pw/AM-JKLXnNHVbdtwQbkm81IP8qTNf1xYAkG8ohL0KWJ2xoB9iMKM1k1lr1aPR5J_uJ4cSQEc2NLUj-HSzi1U3KwYll-LO1XKAEcWpejda9TeRWTFpizvTkCZ76FOEUF659BS1Pd7Wg8WpqdNGOUkRAXOQJ4_8Fw=w341-h192-no?authuser=0","url": "https://vcloud-7588b6fc.serveftp.com/HDD3/movie-online/movie%202022/06.%20June%202022/Hikaru%20Utada%20-%20Live%20Sessions%20From%20Air%20Studios%20%282022%29%20Netflix.mp4","referer": "https://037movie4k.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+]},{"name": "The Witcher (2022)","image": "https://www.123-hd.com/wp-content/uploads/2021/12/The-Witcher-2021-Season-2-300x450.png","stations":[
+{"name": "ep 1", "image": "https://moviehd2022.com/wp-content/uploads/2022/12/Willow.webp","url": "https://main.77player.xyz/m3u8/863c7921994d53eff28794d0/863c7921994d53eff28794d0438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "https://moviehd2022.com/wp-content/uploads/2022/12/Willow.webp","url": "https://main.77player.xyz/m3u8/71d927a218aa8a50c950275e/71d927a218aa8a50c950275e438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},
+{"name": "ep 3", "image": "https://moviehd2022.com/wp-content/uploads/2022/12/Willow.webp","url": "https://main.77player.xyz/m3u8/a4f92065a82b223b0c7045e8/a4f92065a82b223b0c7045e8438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 4", "image": "https://moviehd2022.com/wp-content/uploads/2022/12/Willow.webp","url": "https://tnt.play-lite.xyz/PlayList/639a9782d5262F2g/master.m3u8","referer": "https://moviehd2022.com/","playInNatPlayer": "true"},  
+{"name": "ep 5", "image": "https://moviehd2022.com/wp-content/uploads/2022/12/Willow.webp","url": "https://fav.play-lite.xyz/PlayList/63a6791b434240qS/master.m3u8","referer": "https://moviehd2022.com/","playInNatPlayer": "true"},  
+
+]},{"name": "Tom Clancys Jack Ryan Season 3 (2022)","image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","stations":[
+{"name": "ep 1", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/4f8a8bdb0d504200cbf3b061/4f8a8bdb0d504200cbf3b061438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/f7bc61402ca5222f84dd4e90/f7bc61402ca5222f84dd4e90438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},
+{"name": "ep 3", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/6320463ab1865beb6e5a4eac/6320463ab1865beb6e5a4eac438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 4", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/75950f8e3878c3694bee8a36/75950f8e3878c3694bee8a36438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 5", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/0d5024ee8665066014ac25c5/0d5024ee8665066014ac25c5438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 6", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/9ff50bf914f4eca2ed769f9f/9ff50bf914f4eca2ed769f9f438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 7", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/4c91297d3b35adb778f124f1/4c91297d3b35adb778f124f1438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 8", "image": "https://www.123-hd.com/wp-content/uploads/2022/12/Tom-Clancys-Jack-Ryan-Season-3-300x450.png","url": "https://main.77player.xyz/m3u8/4d74746ad1a5c370dab9eb21/4d74746ad1a5c370dab9eb21438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 9", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 10", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
+{"name": "ep 11", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 12", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 13", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
+{"name": "ep 14", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 15", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -336,3 +148,17 @@
 
 ]
 }
+]
+                              }
+ 
+                                     ]
+                              }
+ 
+                                     ]
+                               }                              
+ 
+                   ]
+               }
+
+ 
+ 
