@@ -105,27 +105,35 @@
 
 {"name": "ep 18", "image": "","url": "https://server4.cdn-th.com/hls/lJe4o49/file_,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer": "true"}, 
 
-]},{
-        "name": "Importar-muse-mix-tv",
-        "image": "https://j.gifs.com/vO0xEx.gif",
-        "groups":[
-        
-        
-    
-{"name": "nanamovies",
-	"image": "https://www.nanamovies.me/wp-content/themes/nanamovies.v1/images/logo.png",
-	"url": "https://www.nanamovies.me/",
-	"import": false},        
-        
-{"name": "musetvfree",
-	"image": "https://media1.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif",
-	"url": "",
-	"import": false},
+]
+        },
 
-{"name": "musetvfree",
-	"image": "https://media0.giphy.com/media/3o7WIKBSdsc0vsWScM/giphy.gif",
-	"url": "",
-	"import": false},
+
+		
+{
+			"name": "Live-Match",
+			"image": "https://www.nanamovies.me/wp-content/themes/nanamovies.v1/images/logo.png",
+			"stations":[
+			
+			
+{"name": "muse-iptv-1",
+"image": "https://steamuserimages-a.akamaihd.net/ugc/960838928918232348/CE0E0935ABF7FDC0948EF877D7A647ABADE17CDB/",
+"url": "https://www.dooball678.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94","embed": true},			
+
+{"name": "muse-iptv-2",
+"image": "https://i.pinimg.com/originals/a1/52/73/a15273002ca17a35b3f58e0472d31061.gif",
+"url": "https://dooball66s.com/","embed": true},
+
+{"name": "muse-iptv-3",
+"image": "https://i.pinimg.com/originals/50/33/ff/5033ffde9c1d4851fe54aa080b2c4a0e.gif",
+"url": "https://dotded.com/stream.php","embed": true},
+
+{"name": "nanamovies",
+"image": "https://www.nanamovies.me/wp-content/themes/nanamovies.v1/images/logo.png",
+"url": "https://www.nanamovies.me/category/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87/page/25/","embed": true},
+
+
+
 
 
 
