@@ -105,22 +105,28 @@
 
 {"name": "ep 18", "image": "","url": "https://server4.cdn-th.com/hls/lJe4o49/file_,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer": "true"}, 
 
-]},{"name": "Love Destiny 2 (2023) พรหมลิขิต", "image": "https://www.123-hd.com/wp-content/uploads/2023/10/Love-Destiny-2-2023-300x450.jpg","stations":[
+]},{
+        "name": "Importar-muse-mix-tv",
+        "image": "https://j.gifs.com/vO0xEx.gif",
+        "groups":[
+        
+        
+    
+{"name": "nanamovies",
+	"image": "https://www.nanamovies.me/wp-content/themes/nanamovies.v1/images/logo.png",
+	"url": "https://www.nanamovies.me/category/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87/page/25/",
+	"import": false},        
+        
+{"name": "musetvfree",
+	"image": "https://media1.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif",
+	"url": "",
+	"import": false},
 
-{"name": "ep 1", "image": "","url": "https://main.77player.xyz/m3u8/7408f22cb65484cf6f6e5837/7408f22cb65484cf6f6e5837438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 2", "image": "","url": "https://main.77player.xyz/m3u8/61eb8cf07fde00e116024e98/61eb8cf07fde00e116024e98438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "ep 3", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-3","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 4", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-4","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 5", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-5","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "ep 6", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-6","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 7", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-7","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 8", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 9", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-9","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "ep 10", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-10","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 11", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-11","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 12", "image": "","url": "https://www.123-hd.com/love-destiny-2-2023-ep-12","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "t", "image": "","url": "https://embed.nana2play.com/tv/958309/14","referer": "https://www.nanamovies.me/","playInNatPlayer": "true"},  
-     
+{"name": "musetvfree",
+	"image": "https://media0.giphy.com/media/3o7WIKBSdsc0vsWScM/giphy.gif",
+	"url": "",
+	"import": false},
+
 
 
 ]
