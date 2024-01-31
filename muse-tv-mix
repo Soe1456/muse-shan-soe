@@ -76,7 +76,7 @@
 {"name": "Badland Hunters (2024) ", "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Badland-Hunters-2024-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%81-300x450.jpg","url": "https://main.77player.xyz/m3u8/0477f922928e34d2458802c5/0477f922928e34d2458802c5438.m3u8","referer": "https://www.123-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "Olympus Has Fallen (2013)", "image": "https://www.24-hd.com/wp-content/uploads/2024/01/Olympus-Has-Fallen-2013-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%82%E0%B8%B2%E0%B8%A7-187x269.jpg","url": "https://main.77player.xyz/m3u8/a414fb77d44ee8695603b1c6/a414fb77d44ee8695603b1c6438.m3u8","referer": "https://www.24-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "The Beekeeper (2024)", "image": "https://www.123-hd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD-300x450.jpg","url": "https://main.77player.xyz/m3u8/a5cc2c9341902b381f61dce6/a5cc2c9341902b381f61dce6438.m3u8","referer": "https://www.123-hd.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
-{"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "", "image": "","url": "https://server11.cdn-link.com/hls/Vbx55hJ/file_,360,720,.mp4.urlset/master.m3u8","referer": "https://www.moviehdthai.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
@@ -106,41 +106,23 @@
 {"name": "1", "image": "","url": "https://cdn.xsportbox.com/embed77/?event=stack.html&link=1&domain=&force=https%3A%2F%2Fwikisport.se%2Fcourt%2Fwik20.php&ask=1705386600&lgt=7&noplayer=0","referer": "https://cdn.xsportbox.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 
+]},{"name": "Star Trek Picard Season 2 (2022)", "image": "https://www.img10.xyz/assets/movie_poster/8/8a6caac5574cf5c3a01558a2e58b34d0.jpg","stations":[
+
+{"name": "ep 1", "image": "https://www.img10.xyz/assets/movie_poster/8/8a6caac5574cf5c3a01558a2e58b34d0.jpg","url": "https://server11.cdn-link.com/hls/Vbx55hJ/file_,360,720,.mp4.urlset/master.m3u8","referer": "https://www.moviehdthai.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
+{"name": "ep 3", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 4", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 5", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
+{"name": "ep 6", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 7", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 8", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 9", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
+{"name": "ep 10", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
 
 
 
 
 
-]},{"name": "Money Heist Berlin (2023)", "image": "https://www.123-hd.com/wp-content/uploads/2023/12/Money-Heist-Berlin-300x450.jpg","stations":[
-
-{"name": "ep 1", "image": "","url": "https://main.77player.xyz/m3u8/19c825f6e5e96aa56c43db3b/19c825f6e5e96aa56c43db3b438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 2", "image": "","url": "https://main.77player.xyz/m3u8/bbbf135c74025a7191f4e153/bbbf135c74025a7191f4e153438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "ep 3", "image": "","url": "https://main.77player.xyz/m3u8/3f5914d8db98ef44acc3b878/3f5914d8db98ef44acc3b878438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 4", "image": "","url": "https://main.77player.xyz/m3u8/9afa81b78290a718b75d1894/9afa81b78290a718b75d1894438.m3u8","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 5", "image": "","url": "","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},        
-{"name": "ep 6", "image": "","url": "","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 7", "image": "","url": "","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 8", "image": "","url": "","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 9", "image": "","url": "","referer": "https://www.123-hd.com/","playInNatPlayer": "true"},  
-
-]},{"name": "Heroes (Season 1)", "image": "https://www.24hrseries.com/uploads/2022/09/Heroes-season-1.jpg?v=1.1","stations":[
-
-{"name": "ep 1", "image": "","url": "https://server4.cdn-th.com/hls/qR6kMzQ/file_,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 2", "image": "","url": "https://server9.oneplayer.online/mp4/dpaw5aY/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},        
-{"name": "ep 3", "image": "","url": "https://server18.oneplayer.online/mp4/XLri5pA/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 4", "image": "","url": "https://server11.oneplayer.online:11231/mp4/5EZm5eG/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 5", "image": "","url": "https://server18.oneplayer.online/mp4/HRupBI2/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},        
-{"name": "ep 6", "image": "","url": "https://server15.oneplayer.online:11231/mp4/9Eqpqdj/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 7", "image": "","url": "https://server16.oneplayer.online:11231/mp4/AVRvjFc/file_720.mp4","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 8", "image": "","url": "https://server41.oneplayer.online:11231/mp4/yT1LQn6/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 9", "image": "","url": "https://server41.oneplayer.online:11231/mp4/owzrnb3/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},        
-{"name": "ep 10", "image": "","url": "https://server2.oneplayer.online/mp4/JONxqNu/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 11", "image": "","url": "https://server17.oneplayer.online/mp4/ierk7Fq/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 12", "image": "","url": "https://server16.oneplayer.online:11231/mp4/TVscvA1/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},        
-{"name": "ep 13", "image": "","url": "https://server22.oneplayer.online:11231/mp4/JuTqX3F/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-{"name": "ep 14", "image": "","url": "https://server17.oneplayer.online/mp4/7kHQvsa/file_720.mp4","referer": "https://www.madoohd.com/","playInNatPlayer": "true"},  
-
-{"name": "ep 18", "image": "","url": "https://server4.cdn-th.com/hls/lJe4o49/file_,720,360,.mp4.urlset/master.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer": "true"}, 
 
 ]
         },
