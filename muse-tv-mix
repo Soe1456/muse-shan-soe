@@ -70,18 +70,31 @@
 {"name": "1", "image": "","url": "https://cdn.xsportbox.com/embed77/?event=stack.html&link=1&domain=&force=https%3A%2F%2Fwikisport.se%2Fcourt%2Fwik20.php&ask=1705386600&lgt=7&noplayer=0","referer": "https://cdn.xsportbox.com/","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
 
-]},{"name": "Avatar: The Last Airbender (2024) เณรน้อยเจ้าอภินิหาร", "image": "https://www.ชอบหนัง.com/wp-content/uploads/2024/02/Avatar-The-Last-Airbender-2024-265x375.jpg","stations":[
+]},{"name": "Furies (2024) ชำระแค้นทรชน", "image": "https://www.ชอบหนัง.com/wp-content/uploads/2024/03/Furies-2024-265x375.jpg","stations":[
 
-{"name": "ep 1", "image": "","url": "https://server11.cdn-link.com/hls/7iaSiTC/file_,360,720,.mp4.urlset/master.m3u8","referer": "https://www.moviehdthai.com/","playInNatPlayer": "true"},  
-{"name": "ep 2", "image": "","url": "https://server11.cdn-link.com/hls/vQvsyYB/file_,360,720,.mp4.urlset/master.m3u8","referer": "https://www.moviehdthai.com/","playInNatPlayer": "true"},        
-{"name": "ep 3", "image": "","url": "https://server5.cdn-th.com:4431/hls/iXcjYUg/file_,720,360,.mp4.urlset/master.m3u8","referer": "https://www.moviehdthai.com/","playInNatPlayer": "true"},  
-{"name": "ep 4", "image": "","url": "https://sgcdnseriesn.xyz/view/9f92d30d-3f6e-556d-bcf1-28577a331fa9.m3u8","referer": "https://www.moviehdthai.com/","playInNatPlayer": "true"},  
-{"name": "ep 5", "image": "","url": "https://sgcdnseriesn.xyz/view/9b2bd8e6-fd4d-5d59-828d-9ce3be82e968.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
-{"name": "ep 6", "image": "","url": "https://sgcdnseriesn.xyz/view/2582d196-146a-5651-9fd4-16d9f006564c.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
-{"name": "ep 7", "image": "","url": "https://sgcdnseriesn.xyz/view/7857e40d-5a39-5ea3-9d02-30946a9de947.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
-{"name": "ep 8", "image": "","url": "https://sgcdnseriesn.xyz/view/de019451-286c-5989-998c-16c91299384d.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
-{"name": "ep 9", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
-{"name": "ep 10", "image": "","url": "","referer": "","playInNatPlayer": "true"},
+{"name": "ep 1", "image": "","url": "https://sgcdnseriesn.xyz/view/f1a0b15f-702a-5812-a629-be1b95ad8257.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "","url": "https://sgcdnseriesn.xyz/view/cb6693d1-1233-58a2-b682-c68ac32ccfda.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
+{"name": "ep 3", "image": "","url": "https://sgcdnseriesn.xyz/view/eaff696b-02f8-50ce-b727-d4dc831dc981.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 4", "image": "","url": "https://sgcdnseriesn.xyz/view/41655464-ce7d-57fe-b605-9317100667ff.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 5", "image": "","url": "https://sgcdnseriesn.xyz/view/c0e1f7d5-cd66-5078-830f-fd7b6bdd7d25.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
+{"name": "ep 6", "image": "","url": "https://sgcdnseriesn.xyz/view/4009235b-8b18-5ab4-a9e9-a6aaf0e663e6.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 7", "image": "","url": "https://sgcdnseriesn.xyz/view/307b3019-372c-5f6c-82d6-04e201801da1.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 8", "image": "","url": "https://sgcdnseriesn.xyz/view/bbe49d55-8332-50b0-9b2f-ae5d594a62ee.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 9", "image": "","url": "","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
+{"name": "ep 10", "image": "","url": "","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+
+
+]},{"name": "", "image": "","stations":[
+
+{"name": "ep 1", "image": "","url": "https://sgcdnseriesn.xyz/view/36d5b250-ac63-5ba3-b8bb-3ef9e742ce76.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "","url": "https://sgcdnseriesn.xyz/view/0e237198-659b-5b81-b49e-64c496898894.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
+{"name": "ep 3", "image": "","url": "https://sgcdnseriesn.xyz/view/f3cd5344-1738-5459-ae28-6c2c9e16413b.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 4", "image": "","url": "https://sgcdnseriesn.xyz/view/5e5c35c8-b35b-5569-b744-db733c6885b1.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},  
+{"name": "ep 5", "image": "","url": "https://sgcdnseriesn.xyz/view/364c2f85-9e41-5d33-a2bd-0631ae3eff5c.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},        
+{"name": "ep 6", "image": "","url": "https://sgcdnseriesn.xyz/view/b1c5e4f0-f163-5740-b0db-2714ad8dc877.m3u8","referer": "https://www.xn--72cf9bd9fk5a.com/","playInNatPlayer": "true"},
+
+
+
 
 
 
