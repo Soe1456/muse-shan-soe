@@ -332,9 +332,9 @@
 
 ]},{"name": "The Legend of ShenLi (2024) ปฐพีไร้พ่าย","image": "https://ชอบหนัง.com/wp-content/uploads/2024/03/The-Legend-of-ShenLi-2024-265x375.jpg","stations":[
 
-{"name": "1", "image": "https://sgcdnseriesn.xyz/view/af483c6a-3834-5be9-9862-eba1a4222801.m3u8","url": "https://xn--72cf9bd9fk5a.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
-{"name": "2", "image": "https://sgcdnseriesn.xyz/view/7089cdc7-1ac4-5cd8-bb7b-af820037a2ef.m3u8","url": "https://xn--72cf9bd9fk5a.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
-{"name": "3", "image": "https://sgcdnseriesn.xyz/view/76d5685b-3f42-5243-8686-17342809cf5e.m3u8","url": "https://xn--72cf9bd9fk5a.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "1", "image": "https://main.24playerhd.com/m3u8/821bfb44bf7483d34d741a37/821bfb44bf7483d34d741a37438.m3u8","url": "https://www.serie-day.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "2", "image": "https://main.24playerhd.com/m3u8/44287acfb716db6cb2b28f48/44287acfb716db6cb2b28f48438.m3u8","url": "https://www.serie-day.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name": "3", "image": "https://main.24playerhd.com/m3u8/d696963b10f00c01bfef7fc9/d696963b10f00c01bfef7fc9438.m3u8","url": "https://www.serie-day.com/","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "4", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "5", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "6", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
@@ -408,6 +408,10 @@
 {"name": "v8movie-hd",
 "image": "https://www.nanamovies.me/wp-content/themes/nanamovies.v1/images/logo.png",
 "url": "https://www.v8movie-hd.com/","embed": true},
+
+{"name": "www.serie-day",
+"image": "https://www.serie-day.com/wp-content/uploads/2023/02/seriesday-logo.png",
+"url": "https://www.serie-day.com/","embed": true},
 
 
 
